@@ -1,0 +1,1687 @@
+﻿{
+    "fps":  30,
+    "voiceId":  "FGY2WhTYpPnrIDTdsKH5",
+    "modelId":  "eleven_multilingual_v2",
+    "totalSeconds":  80.7667,
+    "totalFrames":  2663,
+    "scenes":  [
+                   {
+                       "id":  "01-hook",
+                       "audio":  "01-hook.mp3",
+                       "text":  "How does a company go from two people in a room, to half a billion dollars? Let\u0027s follow one.",
+                       "speechSeconds":  5.155,
+                       "durationSeconds":  5.855,
+                       "durationFrames":  200,
+                       "startFrame":  0,
+                       "words":  [
+                                     {
+                                         "word":  "How",
+                                         "startSec":  0.0,
+                                         "endSec":  0.186,
+                                         "startFrame":  0,
+                                         "endFrame":  6
+                                     },
+                                     {
+                                         "word":  "does",
+                                         "startSec":  0.221,
+                                         "endSec":  0.36,
+                                         "startFrame":  7,
+                                         "endFrame":  11
+                                     },
+                                     {
+                                         "word":  "a",
+                                         "startSec":  0.406,
+                                         "endSec":  0.43,
+                                         "startFrame":  12,
+                                         "endFrame":  13
+                                     },
+                                     {
+                                         "word":  "company",
+                                         "startSec":  0.488,
+                                         "endSec":  0.801,
+                                         "startFrame":  15,
+                                         "endFrame":  24
+                                     },
+                                     {
+                                         "word":  "go",
+                                         "startSec":  0.859,
+                                         "endSec":  0.998,
+                                         "startFrame":  26,
+                                         "endFrame":  30
+                                     },
+                                     {
+                                         "word":  "from",
+                                         "startSec":  1.068,
+                                         "endSec":  1.231,
+                                         "startFrame":  32,
+                                         "endFrame":  37
+                                     },
+                                     {
+                                         "word":  "two",
+                                         "startSec":  1.312,
+                                         "endSec":  1.521,
+                                         "startFrame":  39,
+                                         "endFrame":  46
+                                     },
+                                     {
+                                         "word":  "people",
+                                         "startSec":  1.579,
+                                         "endSec":  1.869,
+                                         "startFrame":  47,
+                                         "endFrame":  56
+                                     },
+                                     {
+                                         "word":  "in",
+                                         "startSec":  1.904,
+                                         "endSec":  1.962,
+                                         "startFrame":  57,
+                                         "endFrame":  59
+                                     },
+                                     {
+                                         "word":  "a",
+                                         "startSec":  2.009,
+                                         "endSec":  2.032,
+                                         "startFrame":  60,
+                                         "endFrame":  61
+                                     },
+                                     {
+                                         "word":  "room,",
+                                         "startSec":  2.09,
+                                         "endSec":  2.392,
+                                         "startFrame":  63,
+                                         "endFrame":  72
+                                     },
+                                     {
+                                         "word":  "to",
+                                         "startSec":  2.461,
+                                         "endSec":  2.577,
+                                         "startFrame":  74,
+                                         "endFrame":  77
+                                     },
+                                     {
+                                         "word":  "half",
+                                         "startSec":  2.67,
+                                         "endSec":  2.844,
+                                         "startFrame":  80,
+                                         "endFrame":  85
+                                     },
+                                     {
+                                         "word":  "a",
+                                         "startSec":  2.902,
+                                         "endSec":  2.926,
+                                         "startFrame":  87,
+                                         "endFrame":  88
+                                     },
+                                     {
+                                         "word":  "billion",
+                                         "startSec":  2.972,
+                                         "endSec":  3.274,
+                                         "startFrame":  89,
+                                         "endFrame":  98
+                                     },
+                                     {
+                                         "word":  "dollars?",
+                                         "startSec":  3.32,
+                                         "endSec":  3.866,
+                                         "startFrame":  100,
+                                         "endFrame":  116
+                                     },
+                                     {
+                                         "word":  "Let\u0027s",
+                                         "startSec":  3.947,
+                                         "endSec":  4.168,
+                                         "startFrame":  118,
+                                         "endFrame":  125
+                                     },
+                                     {
+                                         "word":  "follow",
+                                         "startSec":  4.214,
+                                         "endSec":  4.493,
+                                         "startFrame":  126,
+                                         "endFrame":  135
+                                     },
+                                     {
+                                         "word":  "one.",
+                                         "startSec":  4.574,
+                                         "endSec":  5.155,
+                                         "startFrame":  137,
+                                         "endFrame":  155
+                                     }
+                                 ]
+                   },
+                   {
+                       "id":  "02-founding",
+                       "audio":  "02-founding.mp3",
+                       "text":  "Day one. Maya and Alex start a company. They split it sixty forty. Ten million shares on paper, worth nothing yet.",
+                       "speechSeconds":  6.687,
+                       "durationSeconds":  7.387,
+                       "durationFrames":  246,
+                       "startFrame":  200,
+                       "words":  [
+                                     {
+                                         "word":  "Day",
+                                         "startSec":  0.0,
+                                         "endSec":  0.232,
+                                         "startFrame":  0,
+                                         "endFrame":  7
+                                     },
+                                     {
+                                         "word":  "one.",
+                                         "startSec":  0.313,
+                                         "endSec":  0.627,
+                                         "startFrame":  9,
+                                         "endFrame":  19
+                                     },
+                                     {
+                                         "word":  "Maya",
+                                         "startSec":  0.836,
+                                         "endSec":  1.184,
+                                         "startFrame":  25,
+                                         "endFrame":  36
+                                     },
+                                     {
+                                         "word":  "and",
+                                         "startSec":  1.254,
+                                         "endSec":  1.358,
+                                         "startFrame":  38,
+                                         "endFrame":  41
+                                     },
+                                     {
+                                         "word":  "Alex",
+                                         "startSec":  1.416,
+                                         "endSec":  1.683,
+                                         "startFrame":  42,
+                                         "endFrame":  50
+                                     },
+                                     {
+                                         "word":  "start",
+                                         "startSec":  1.718,
+                                         "endSec":  1.927,
+                                         "startFrame":  52,
+                                         "endFrame":  58
+                                     },
+                                     {
+                                         "word":  "a",
+                                         "startSec":  1.95,
+                                         "endSec":  1.974,
+                                         "startFrame":  58,
+                                         "endFrame":  59
+                                     },
+                                     {
+                                         "word":  "company.",
+                                         "startSec":  2.032,
+                                         "endSec":  2.519,
+                                         "startFrame":  61,
+                                         "endFrame":  76
+                                     },
+                                     {
+                                         "word":  "They",
+                                         "startSec":  2.635,
+                                         "endSec":  2.798,
+                                         "startFrame":  79,
+                                         "endFrame":  84
+                                     },
+                                     {
+                                         "word":  "split",
+                                         "startSec":  2.868,
+                                         "endSec":  3.123,
+                                         "startFrame":  86,
+                                         "endFrame":  94
+                                     },
+                                     {
+                                         "word":  "it",
+                                         "startSec":  3.158,
+                                         "endSec":  3.239,
+                                         "startFrame":  95,
+                                         "endFrame":  97
+                                     },
+                                     {
+                                         "word":  "sixty",
+                                         "startSec":  3.286,
+                                         "endSec":  3.599,
+                                         "startFrame":  99,
+                                         "endFrame":  108
+                                     },
+                                     {
+                                         "word":  "forty.",
+                                         "startSec":  3.657,
+                                         "endSec":  4.075,
+                                         "startFrame":  110,
+                                         "endFrame":  122
+                                     },
+                                     {
+                                         "word":  "Ten",
+                                         "startSec":  4.191,
+                                         "endSec":  4.389,
+                                         "startFrame":  126,
+                                         "endFrame":  132
+                                     },
+                                     {
+                                         "word":  "million",
+                                         "startSec":  4.423,
+                                         "endSec":  4.725,
+                                         "startFrame":  133,
+                                         "endFrame":  142
+                                     },
+                                     {
+                                         "word":  "shares",
+                                         "startSec":  4.772,
+                                         "endSec":  5.039,
+                                         "startFrame":  143,
+                                         "endFrame":  151
+                                     },
+                                     {
+                                         "word":  "on",
+                                         "startSec":  5.085,
+                                         "endSec":  5.166,
+                                         "startFrame":  153,
+                                         "endFrame":  155
+                                     },
+                                     {
+                                         "word":  "paper,",
+                                         "startSec":  5.224,
+                                         "endSec":  5.631,
+                                         "startFrame":  157,
+                                         "endFrame":  169
+                                     },
+                                     {
+                                         "word":  "worth",
+                                         "startSec":  5.666,
+                                         "endSec":  5.921,
+                                         "startFrame":  170,
+                                         "endFrame":  178
+                                     },
+                                     {
+                                         "word":  "nothing",
+                                         "startSec":  5.991,
+                                         "endSec":  6.281,
+                                         "startFrame":  180,
+                                         "endFrame":  188
+                                     },
+                                     {
+                                         "word":  "yet.",
+                                         "startSec":  6.339,
+                                         "endSec":  6.687,
+                                         "startFrame":  190,
+                                         "endFrame":  201
+                                     }
+                                 ]
+                   },
+                   {
+                       "id":  "03-valuation",
+                       "audio":  "03-valuation.mp3",
+                       "text":  "Two words you need. Pre-money is what the company is worth before investors put cash in. Add the cash, and you get post-money. That\u0027s it.",
+                       "speechSeconds":  8.127,
+                       "durationSeconds":  8.827,
+                       "durationFrames":  289,
+                       "startFrame":  446,
+                       "words":  [
+                                     {
+                                         "word":  "Two",
+                                         "startSec":  0.0,
+                                         "endSec":  0.209,
+                                         "startFrame":  0,
+                                         "endFrame":  6
+                                     },
+                                     {
+                                         "word":  "words",
+                                         "startSec":  0.267,
+                                         "endSec":  0.488,
+                                         "startFrame":  8,
+                                         "endFrame":  15
+                                     },
+                                     {
+                                         "word":  "you",
+                                         "startSec":  0.546,
+                                         "endSec":  0.627,
+                                         "startFrame":  16,
+                                         "endFrame":  19
+                                     },
+                                     {
+                                         "word":  "need.",
+                                         "startSec":  0.685,
+                                         "endSec":  1.045,
+                                         "startFrame":  21,
+                                         "endFrame":  31
+                                     },
+                                     {
+                                         "word":  "Pre-money",
+                                         "startSec":  1.161,
+                                         "endSec":  1.672,
+                                         "startFrame":  35,
+                                         "endFrame":  50
+                                     },
+                                     {
+                                         "word":  "is",
+                                         "startSec":  1.741,
+                                         "endSec":  1.834,
+                                         "startFrame":  52,
+                                         "endFrame":  55
+                                     },
+                                     {
+                                         "word":  "what",
+                                         "startSec":  1.881,
+                                         "endSec":  1.997,
+                                         "startFrame":  56,
+                                         "endFrame":  60
+                                     },
+                                     {
+                                         "word":  "the",
+                                         "startSec":  2.032,
+                                         "endSec":  2.101,
+                                         "startFrame":  61,
+                                         "endFrame":  63
+                                     },
+                                     {
+                                         "word":  "company",
+                                         "startSec":  2.148,
+                                         "endSec":  2.496,
+                                         "startFrame":  64,
+                                         "endFrame":  75
+                                     },
+                                     {
+                                         "word":  "is",
+                                         "startSec":  2.554,
+                                         "endSec":  2.635,
+                                         "startFrame":  77,
+                                         "endFrame":  79
+                                     },
+                                     {
+                                         "word":  "worth",
+                                         "startSec":  2.694,
+                                         "endSec":  2.949,
+                                         "startFrame":  81,
+                                         "endFrame":  88
+                                     },
+                                     {
+                                         "word":  "before",
+                                         "startSec":  3.019,
+                                         "endSec":  3.286,
+                                         "startFrame":  91,
+                                         "endFrame":  99
+                                     },
+                                     {
+                                         "word":  "investors",
+                                         "startSec":  3.32,
+                                         "endSec":  3.773,
+                                         "startFrame":  100,
+                                         "endFrame":  113
+                                     },
+                                     {
+                                         "word":  "put",
+                                         "startSec":  3.82,
+                                         "endSec":  3.959,
+                                         "startFrame":  115,
+                                         "endFrame":  119
+                                     },
+                                     {
+                                         "word":  "cash",
+                                         "startSec":  4.005,
+                                         "endSec":  4.296,
+                                         "startFrame":  120,
+                                         "endFrame":  129
+                                     },
+                                     {
+                                         "word":  "in.",
+                                         "startSec":  4.365,
+                                         "endSec":  4.632,
+                                         "startFrame":  131,
+                                         "endFrame":  139
+                                     },
+                                     {
+                                         "word":  "Add",
+                                         "startSec":  5.016,
+                                         "endSec":  5.224,
+                                         "startFrame":  150,
+                                         "endFrame":  157
+                                     },
+                                     {
+                                         "word":  "the",
+                                         "startSec":  5.259,
+                                         "endSec":  5.329,
+                                         "startFrame":  158,
+                                         "endFrame":  160
+                                     },
+                                     {
+                                         "word":  "cash,",
+                                         "startSec":  5.364,
+                                         "endSec":  5.84,
+                                         "startFrame":  161,
+                                         "endFrame":  175
+                                     },
+                                     {
+                                         "word":  "and",
+                                         "startSec":  5.875,
+                                         "endSec":  5.991,
+                                         "startFrame":  176,
+                                         "endFrame":  180
+                                     },
+                                     {
+                                         "word":  "you",
+                                         "startSec":  6.049,
+                                         "endSec":  6.118,
+                                         "startFrame":  181,
+                                         "endFrame":  184
+                                     },
+                                     {
+                                         "word":  "get",
+                                         "startSec":  6.177,
+                                         "endSec":  6.304,
+                                         "startFrame":  185,
+                                         "endFrame":  189
+                                     },
+                                     {
+                                         "word":  "post-money.",
+                                         "startSec":  6.351,
+                                         "endSec":  7.047,
+                                         "startFrame":  191,
+                                         "endFrame":  211
+                                     },
+                                     {
+                                         "word":  "That\u0027s",
+                                         "startSec":  7.291,
+                                         "endSec":  7.57,
+                                         "startFrame":  219,
+                                         "endFrame":  227
+                                     },
+                                     {
+                                         "word":  "it.",
+                                         "startSec":  7.639,
+                                         "endSec":  8.127,
+                                         "startFrame":  229,
+                                         "endFrame":  244
+                                     }
+                                 ]
+                   },
+                   {
+                       "id":  "04-preseed",
+                       "audio":  "04-preseed.mp3",
+                       "text":  "Pre-seed round. Three angels chip in one million dollars. The company is worth four million afterward, so they own a quarter. Maya and Alex own less now. That\u0027s called dilution.",
+                       "speechSeconds":  10.495,
+                       "durationSeconds":  11.195,
+                       "durationFrames":  360,
+                       "startFrame":  735,
+                       "words":  [
+                                     {
+                                         "word":  "Pre-seed",
+                                         "startSec":  0.0,
+                                         "endSec":  0.534,
+                                         "startFrame":  0,
+                                         "endFrame":  16
+                                     },
+                                     {
+                                         "word":  "round.",
+                                         "startSec":  0.58,
+                                         "endSec":  0.987,
+                                         "startFrame":  17,
+                                         "endFrame":  30
+                                     },
+                                     {
+                                         "word":  "Three",
+                                         "startSec":  1.103,
+                                         "endSec":  1.347,
+                                         "startFrame":  33,
+                                         "endFrame":  40
+                                     },
+                                     {
+                                         "word":  "angels",
+                                         "startSec":  1.393,
+                                         "endSec":  1.741,
+                                         "startFrame":  42,
+                                         "endFrame":  52
+                                     },
+                                     {
+                                         "word":  "chip",
+                                         "startSec":  1.8,
+                                         "endSec":  2.02,
+                                         "startFrame":  54,
+                                         "endFrame":  61
+                                     },
+                                     {
+                                         "word":  "in",
+                                         "startSec":  2.078,
+                                         "endSec":  2.136,
+                                         "startFrame":  62,
+                                         "endFrame":  64
+                                     },
+                                     {
+                                         "word":  "one",
+                                         "startSec":  2.229,
+                                         "endSec":  2.426,
+                                         "startFrame":  67,
+                                         "endFrame":  73
+                                     },
+                                     {
+                                         "word":  "million",
+                                         "startSec":  2.473,
+                                         "endSec":  2.798,
+                                         "startFrame":  74,
+                                         "endFrame":  84
+                                     },
+                                     {
+                                         "word":  "dollars.",
+                                         "startSec":  2.844,
+                                         "endSec":  3.425,
+                                         "startFrame":  85,
+                                         "endFrame":  103
+                                     },
+                                     {
+                                         "word":  "The",
+                                         "startSec":  3.553,
+                                         "endSec":  3.657,
+                                         "startFrame":  107,
+                                         "endFrame":  110
+                                     },
+                                     {
+                                         "word":  "company",
+                                         "startSec":  3.727,
+                                         "endSec":  4.052,
+                                         "startFrame":  112,
+                                         "endFrame":  122
+                                     },
+                                     {
+                                         "word":  "is",
+                                         "startSec":  4.098,
+                                         "endSec":  4.168,
+                                         "startFrame":  123,
+                                         "endFrame":  125
+                                     },
+                                     {
+                                         "word":  "worth",
+                                         "startSec":  4.214,
+                                         "endSec":  4.412,
+                                         "startFrame":  126,
+                                         "endFrame":  132
+                                     },
+                                     {
+                                         "word":  "four",
+                                         "startSec":  4.458,
+                                         "endSec":  4.632,
+                                         "startFrame":  134,
+                                         "endFrame":  139
+                                     },
+                                     {
+                                         "word":  "million",
+                                         "startSec":  4.679,
+                                         "endSec":  4.946,
+                                         "startFrame":  140,
+                                         "endFrame":  148
+                                     },
+                                     {
+                                         "word":  "afterward,",
+                                         "startSec":  4.992,
+                                         "endSec":  5.538,
+                                         "startFrame":  150,
+                                         "endFrame":  166
+                                     },
+                                     {
+                                         "word":  "so",
+                                         "startSec":  5.573,
+                                         "endSec":  5.666,
+                                         "startFrame":  167,
+                                         "endFrame":  170
+                                     },
+                                     {
+                                         "word":  "they",
+                                         "startSec":  5.724,
+                                         "endSec":  5.828,
+                                         "startFrame":  172,
+                                         "endFrame":  175
+                                     },
+                                     {
+                                         "word":  "own",
+                                         "startSec":  5.863,
+                                         "endSec":  5.968,
+                                         "startFrame":  176,
+                                         "endFrame":  179
+                                     },
+                                     {
+                                         "word":  "a",
+                                         "startSec":  6.002,
+                                         "endSec":  6.026,
+                                         "startFrame":  180,
+                                         "endFrame":  181
+                                     },
+                                     {
+                                         "word":  "quarter.",
+                                         "startSec":  6.072,
+                                         "endSec":  6.536,
+                                         "startFrame":  182,
+                                         "endFrame":  196
+                                     },
+                                     {
+                                         "word":  "Maya",
+                                         "startSec":  6.978,
+                                         "endSec":  7.326,
+                                         "startFrame":  209,
+                                         "endFrame":  220
+                                     },
+                                     {
+                                         "word":  "and",
+                                         "startSec":  7.396,
+                                         "endSec":  7.5,
+                                         "startFrame":  222,
+                                         "endFrame":  225
+                                     },
+                                     {
+                                         "word":  "Alex",
+                                         "startSec":  7.593,
+                                         "endSec":  7.964,
+                                         "startFrame":  228,
+                                         "endFrame":  239
+                                     },
+                                     {
+                                         "word":  "own",
+                                         "startSec":  8.057,
+                                         "endSec":  8.243,
+                                         "startFrame":  242,
+                                         "endFrame":  247
+                                     },
+                                     {
+                                         "word":  "less",
+                                         "startSec":  8.313,
+                                         "endSec":  8.557,
+                                         "startFrame":  249,
+                                         "endFrame":  257
+                                     },
+                                     {
+                                         "word":  "now.",
+                                         "startSec":  8.603,
+                                         "endSec":  8.928,
+                                         "startFrame":  258,
+                                         "endFrame":  268
+                                     },
+                                     {
+                                         "word":  "That\u0027s",
+                                         "startSec":  9.009,
+                                         "endSec":  9.276,
+                                         "startFrame":  270,
+                                         "endFrame":  278
+                                     },
+                                     {
+                                         "word":  "called",
+                                         "startSec":  9.311,
+                                         "endSec":  9.543,
+                                         "startFrame":  279,
+                                         "endFrame":  286
+                                     },
+                                     {
+                                         "word":  "dilution.",
+                                         "startSec":  9.578,
+                                         "endSec":  10.495,
+                                         "startFrame":  287,
+                                         "endFrame":  315
+                                     }
+                                 ]
+                   },
+                   {
+                       "id":  "05-seed",
+                       "audio":  "05-seed.mp3",
+                       "text":  "Seed round. Four million in, at twenty million post. Maya\u0027s slice shrinks to thirty-six percent. But each share is now worth four times what it was.",
+                       "speechSeconds":  9.242,
+                       "durationSeconds":  9.942,
+                       "durationFrames":  322,
+                       "startFrame":  1095,
+                       "words":  [
+                                     {
+                                         "word":  "Seed",
+                                         "startSec":  0.0,
+                                         "endSec":  0.313,
+                                         "startFrame":  0,
+                                         "endFrame":  9
+                                     },
+                                     {
+                                         "word":  "round.",
+                                         "startSec":  0.372,
+                                         "endSec":  0.871,
+                                         "startFrame":  11,
+                                         "endFrame":  26
+                                     },
+                                     {
+                                         "word":  "Four",
+                                         "startSec":  1.08,
+                                         "endSec":  1.324,
+                                         "startFrame":  32,
+                                         "endFrame":  40
+                                     },
+                                     {
+                                         "word":  "million",
+                                         "startSec":  1.382,
+                                         "endSec":  1.718,
+                                         "startFrame":  41,
+                                         "endFrame":  52
+                                     },
+                                     {
+                                         "word":  "in,",
+                                         "startSec":  1.788,
+                                         "endSec":  2.02,
+                                         "startFrame":  54,
+                                         "endFrame":  61
+                                     },
+                                     {
+                                         "word":  "at",
+                                         "startSec":  2.055,
+                                         "endSec":  2.229,
+                                         "startFrame":  62,
+                                         "endFrame":  67
+                                     },
+                                     {
+                                         "word":  "twenty",
+                                         "startSec":  2.276,
+                                         "endSec":  2.601,
+                                         "startFrame":  68,
+                                         "endFrame":  78
+                                     },
+                                     {
+                                         "word":  "million",
+                                         "startSec":  2.659,
+                                         "endSec":  2.961,
+                                         "startFrame":  80,
+                                         "endFrame":  89
+                                     },
+                                     {
+                                         "word":  "post.",
+                                         "startSec":  3.019,
+                                         "endSec":  3.553,
+                                         "startFrame":  91,
+                                         "endFrame":  107
+                                     },
+                                     {
+                                         "word":  "Maya\u0027s",
+                                         "startSec":  3.831,
+                                         "endSec":  4.156,
+                                         "startFrame":  115,
+                                         "endFrame":  125
+                                     },
+                                     {
+                                         "word":  "slice",
+                                         "startSec":  4.18,
+                                         "endSec":  4.528,
+                                         "startFrame":  125,
+                                         "endFrame":  136
+                                     },
+                                     {
+                                         "word":  "shrinks",
+                                         "startSec":  4.551,
+                                         "endSec":  4.865,
+                                         "startFrame":  137,
+                                         "endFrame":  146
+                                     },
+                                     {
+                                         "word":  "to",
+                                         "startSec":  4.923,
+                                         "endSec":  5.016,
+                                         "startFrame":  148,
+                                         "endFrame":  150
+                                     },
+                                     {
+                                         "word":  "thirty-six",
+                                         "startSec":  5.085,
+                                         "endSec":  5.608,
+                                         "startFrame":  153,
+                                         "endFrame":  168
+                                     },
+                                     {
+                                         "word":  "percent.",
+                                         "startSec":  5.666,
+                                         "endSec":  6.211,
+                                         "startFrame":  170,
+                                         "endFrame":  186
+                                     },
+                                     {
+                                         "word":  "But",
+                                         "startSec":  6.455,
+                                         "endSec":  6.606,
+                                         "startFrame":  194,
+                                         "endFrame":  198
+                                     },
+                                     {
+                                         "word":  "each",
+                                         "startSec":  6.653,
+                                         "endSec":  6.815,
+                                         "startFrame":  200,
+                                         "endFrame":  204
+                                     },
+                                     {
+                                         "word":  "share",
+                                         "startSec":  6.85,
+                                         "endSec":  7.094,
+                                         "startFrame":  206,
+                                         "endFrame":  213
+                                     },
+                                     {
+                                         "word":  "is",
+                                         "startSec":  7.129,
+                                         "endSec":  7.198,
+                                         "startFrame":  214,
+                                         "endFrame":  216
+                                     },
+                                     {
+                                         "word":  "now",
+                                         "startSec":  7.256,
+                                         "endSec":  7.372,
+                                         "startFrame":  218,
+                                         "endFrame":  221
+                                     },
+                                     {
+                                         "word":  "worth",
+                                         "startSec":  7.407,
+                                         "endSec":  7.605,
+                                         "startFrame":  222,
+                                         "endFrame":  228
+                                     },
+                                     {
+                                         "word":  "four",
+                                         "startSec":  7.663,
+                                         "endSec":  7.872,
+                                         "startFrame":  230,
+                                         "endFrame":  236
+                                     },
+                                     {
+                                         "word":  "times",
+                                         "startSec":  7.93,
+                                         "endSec":  8.231,
+                                         "startFrame":  238,
+                                         "endFrame":  247
+                                     },
+                                     {
+                                         "word":  "what",
+                                         "startSec":  8.278,
+                                         "endSec":  8.394,
+                                         "startFrame":  248,
+                                         "endFrame":  252
+                                     },
+                                     {
+                                         "word":  "it",
+                                         "startSec":  8.429,
+                                         "endSec":  8.475,
+                                         "startFrame":  253,
+                                         "endFrame":  254
+                                     },
+                                     {
+                                         "word":  "was.",
+                                         "startSec":  8.51,
+                                         "endSec":  9.242,
+                                         "startFrame":  255,
+                                         "endFrame":  277
+                                     }
+                                 ]
+                   },
+                   {
+                       "id":  "06-seriesA",
+                       "audio":  "06-seriesA.mp3",
+                       "text":  "Series A. Ten million at fifty. The pie is the same shape, it\u0027s just worth a lot more.",
+                       "speechSeconds":  5.294,
+                       "durationSeconds":  5.994,
+                       "durationFrames":  204,
+                       "startFrame":  1417,
+                       "words":  [
+                                     {
+                                         "word":  "Series",
+                                         "startSec":  0.0,
+                                         "endSec":  0.372,
+                                         "startFrame":  0,
+                                         "endFrame":  11
+                                     },
+                                     {
+                                         "word":  "A.",
+                                         "startSec":  0.43,
+                                         "endSec":  0.72,
+                                         "startFrame":  13,
+                                         "endFrame":  22
+                                     },
+                                     {
+                                         "word":  "Ten",
+                                         "startSec":  0.813,
+                                         "endSec":  1.01,
+                                         "startFrame":  24,
+                                         "endFrame":  30
+                                     },
+                                     {
+                                         "word":  "million",
+                                         "startSec":  1.057,
+                                         "endSec":  1.347,
+                                         "startFrame":  32,
+                                         "endFrame":  40
+                                     },
+                                     {
+                                         "word":  "at",
+                                         "startSec":  1.393,
+                                         "endSec":  1.451,
+                                         "startFrame":  42,
+                                         "endFrame":  44
+                                     },
+                                     {
+                                         "word":  "fifty.",
+                                         "startSec":  1.498,
+                                         "endSec":  2.043,
+                                         "startFrame":  45,
+                                         "endFrame":  61
+                                     },
+                                     {
+                                         "word":  "The",
+                                         "startSec":  2.218,
+                                         "endSec":  2.334,
+                                         "startFrame":  67,
+                                         "endFrame":  70
+                                     },
+                                     {
+                                         "word":  "pie",
+                                         "startSec":  2.368,
+                                         "endSec":  2.624,
+                                         "startFrame":  71,
+                                         "endFrame":  79
+                                     },
+                                     {
+                                         "word":  "is",
+                                         "startSec":  2.659,
+                                         "endSec":  2.74,
+                                         "startFrame":  80,
+                                         "endFrame":  82
+                                     },
+                                     {
+                                         "word":  "the",
+                                         "startSec":  2.786,
+                                         "endSec":  2.856,
+                                         "startFrame":  84,
+                                         "endFrame":  86
+                                     },
+                                     {
+                                         "word":  "same",
+                                         "startSec":  2.902,
+                                         "endSec":  3.111,
+                                         "startFrame":  87,
+                                         "endFrame":  93
+                                     },
+                                     {
+                                         "word":  "shape,",
+                                         "startSec":  3.146,
+                                         "endSec":  3.553,
+                                         "startFrame":  94,
+                                         "endFrame":  107
+                                     },
+                                     {
+                                         "word":  "it\u0027s",
+                                         "startSec":  3.622,
+                                         "endSec":  3.831,
+                                         "startFrame":  109,
+                                         "endFrame":  115
+                                     },
+                                     {
+                                         "word":  "just",
+                                         "startSec":  3.889,
+                                         "endSec":  4.087,
+                                         "startFrame":  117,
+                                         "endFrame":  123
+                                     },
+                                     {
+                                         "word":  "worth",
+                                         "startSec":  4.133,
+                                         "endSec":  4.331,
+                                         "startFrame":  124,
+                                         "endFrame":  130
+                                     },
+                                     {
+                                         "word":  "a",
+                                         "startSec":  4.377,
+                                         "endSec":  4.4,
+                                         "startFrame":  131,
+                                         "endFrame":  132
+                                     },
+                                     {
+                                         "word":  "lot",
+                                         "startSec":  4.447,
+                                         "endSec":  4.609,
+                                         "startFrame":  133,
+                                         "endFrame":  138
+                                     },
+                                     {
+                                         "word":  "more.",
+                                         "startSec":  4.644,
+                                         "endSec":  5.294,
+                                         "startFrame":  139,
+                                         "endFrame":  159
+                                     }
+                                 ]
+                   },
+                   {
+                       "id":  "07-seriesB",
+                       "audio":  "07-seriesB.mp3",
+                       "text":  "Series B. Thirty million in. The company is worth a hundred and fifty million. Maya owns less than a quarter, and that quarter is worth thirty-four million dollars.",
+                       "speechSeconds":  9.288,
+                       "durationSeconds":  9.988,
+                       "durationFrames":  324,
+                       "startFrame":  1621,
+                       "words":  [
+                                     {
+                                         "word":  "Series",
+                                         "startSec":  0.0,
+                                         "endSec":  0.383,
+                                         "startFrame":  0,
+                                         "endFrame":  11
+                                     },
+                                     {
+                                         "word":  "B.",
+                                         "startSec":  0.441,
+                                         "endSec":  0.801,
+                                         "startFrame":  13,
+                                         "endFrame":  24
+                                     },
+                                     {
+                                         "word":  "Thirty",
+                                         "startSec":  0.917,
+                                         "endSec":  1.242,
+                                         "startFrame":  28,
+                                         "endFrame":  37
+                                     },
+                                     {
+                                         "word":  "million",
+                                         "startSec":  1.312,
+                                         "endSec":  1.66,
+                                         "startFrame":  39,
+                                         "endFrame":  50
+                                     },
+                                     {
+                                         "word":  "in.",
+                                         "startSec":  1.73,
+                                         "endSec":  2.009,
+                                         "startFrame":  52,
+                                         "endFrame":  60
+                                     },
+                                     {
+                                         "word":  "The",
+                                         "startSec":  2.159,
+                                         "endSec":  2.264,
+                                         "startFrame":  65,
+                                         "endFrame":  68
+                                     },
+                                     {
+                                         "word":  "company",
+                                         "startSec":  2.31,
+                                         "endSec":  2.635,
+                                         "startFrame":  69,
+                                         "endFrame":  79
+                                     },
+                                     {
+                                         "word":  "is",
+                                         "startSec":  2.694,
+                                         "endSec":  2.763,
+                                         "startFrame":  81,
+                                         "endFrame":  83
+                                     },
+                                     {
+                                         "word":  "worth",
+                                         "startSec":  2.821,
+                                         "endSec":  3.065,
+                                         "startFrame":  85,
+                                         "endFrame":  92
+                                     },
+                                     {
+                                         "word":  "a",
+                                         "startSec":  3.123,
+                                         "endSec":  3.146,
+                                         "startFrame":  94,
+                                         "endFrame":  94
+                                     },
+                                     {
+                                         "word":  "hundred",
+                                         "startSec":  3.216,
+                                         "endSec":  3.471,
+                                         "startFrame":  96,
+                                         "endFrame":  104
+                                     },
+                                     {
+                                         "word":  "and",
+                                         "startSec":  3.495,
+                                         "endSec":  3.564,
+                                         "startFrame":  105,
+                                         "endFrame":  107
+                                     },
+                                     {
+                                         "word":  "fifty",
+                                         "startSec":  3.622,
+                                         "endSec":  3.889,
+                                         "startFrame":  109,
+                                         "endFrame":  117
+                                     },
+                                     {
+                                         "word":  "million.",
+                                         "startSec":  3.947,
+                                         "endSec":  4.47,
+                                         "startFrame":  118,
+                                         "endFrame":  134
+                                     },
+                                     {
+                                         "word":  "Maya",
+                                         "startSec":  4.795,
+                                         "endSec":  5.097,
+                                         "startFrame":  144,
+                                         "endFrame":  153
+                                     },
+                                     {
+                                         "word":  "owns",
+                                         "startSec":  5.166,
+                                         "endSec":  5.41,
+                                         "startFrame":  155,
+                                         "endFrame":  162
+                                     },
+                                     {
+                                         "word":  "less",
+                                         "startSec":  5.468,
+                                         "endSec":  5.666,
+                                         "startFrame":  164,
+                                         "endFrame":  170
+                                     },
+                                     {
+                                         "word":  "than",
+                                         "startSec":  5.689,
+                                         "endSec":  5.805,
+                                         "startFrame":  171,
+                                         "endFrame":  174
+                                     },
+                                     {
+                                         "word":  "a",
+                                         "startSec":  5.84,
+                                         "endSec":  5.863,
+                                         "startFrame":  175,
+                                         "endFrame":  176
+                                     },
+                                     {
+                                         "word":  "quarter,",
+                                         "startSec":  5.909,
+                                         "endSec":  6.351,
+                                         "startFrame":  177,
+                                         "endFrame":  191
+                                     },
+                                     {
+                                         "word":  "and",
+                                         "startSec":  6.397,
+                                         "endSec":  6.513,
+                                         "startFrame":  192,
+                                         "endFrame":  195
+                                     },
+                                     {
+                                         "word":  "that",
+                                         "startSec":  6.56,
+                                         "endSec":  6.687,
+                                         "startFrame":  197,
+                                         "endFrame":  201
+                                     },
+                                     {
+                                         "word":  "quarter",
+                                         "startSec":  6.745,
+                                         "endSec":  7.036,
+                                         "startFrame":  202,
+                                         "endFrame":  211
+                                     },
+                                     {
+                                         "word":  "is",
+                                         "startSec":  7.094,
+                                         "endSec":  7.163,
+                                         "startFrame":  213,
+                                         "endFrame":  215
+                                     },
+                                     {
+                                         "word":  "worth",
+                                         "startSec":  7.221,
+                                         "endSec":  7.454,
+                                         "startFrame":  217,
+                                         "endFrame":  224
+                                     },
+                                     {
+                                         "word":  "thirty-four",
+                                         "startSec":  7.57,
+                                         "endSec":  8.092,
+                                         "startFrame":  227,
+                                         "endFrame":  243
+                                     },
+                                     {
+                                         "word":  "million",
+                                         "startSec":  8.15,
+                                         "endSec":  8.464,
+                                         "startFrame":  244,
+                                         "endFrame":  254
+                                     },
+                                     {
+                                         "word":  "dollars.",
+                                         "startSec":  8.51,
+                                         "endSec":  9.288,
+                                         "startFrame":  255,
+                                         "endFrame":  279
+                                     }
+                                 ]
+                   },
+                   {
+                       "id":  "08-reveal",
+                       "audio":  "08-reveal.mp3",
+                       "text":  "Look what happens. Her percentage goes down every round. Her dollars go up every round. That is the trade.",
+                       "speechSeconds":  6.548,
+                       "durationSeconds":  7.248,
+                       "durationFrames":  241,
+                       "startFrame":  1945,
+                       "words":  [
+                                     {
+                                         "word":  "Look",
+                                         "startSec":  0.0,
+                                         "endSec":  0.232,
+                                         "startFrame":  0,
+                                         "endFrame":  7
+                                     },
+                                     {
+                                         "word":  "what",
+                                         "startSec":  0.267,
+                                         "endSec":  0.372,
+                                         "startFrame":  8,
+                                         "endFrame":  11
+                                     },
+                                     {
+                                         "word":  "happens.",
+                                         "startSec":  0.418,
+                                         "endSec":  0.975,
+                                         "startFrame":  13,
+                                         "endFrame":  29
+                                     },
+                                     {
+                                         "word":  "Her",
+                                         "startSec":  1.149,
+                                         "endSec":  1.289,
+                                         "startFrame":  34,
+                                         "endFrame":  39
+                                     },
+                                     {
+                                         "word":  "percentage",
+                                         "startSec":  1.347,
+                                         "endSec":  1.834,
+                                         "startFrame":  40,
+                                         "endFrame":  55
+                                     },
+                                     {
+                                         "word":  "goes",
+                                         "startSec":  1.869,
+                                         "endSec":  2.055,
+                                         "startFrame":  56,
+                                         "endFrame":  62
+                                     },
+                                     {
+                                         "word":  "down",
+                                         "startSec":  2.101,
+                                         "endSec":  2.345,
+                                         "startFrame":  63,
+                                         "endFrame":  70
+                                     },
+                                     {
+                                         "word":  "every",
+                                         "startSec":  2.426,
+                                         "endSec":  2.694,
+                                         "startFrame":  73,
+                                         "endFrame":  81
+                                     },
+                                     {
+                                         "word":  "round.",
+                                         "startSec":  2.763,
+                                         "endSec":  3.17,
+                                         "startFrame":  83,
+                                         "endFrame":  95
+                                     },
+                                     {
+                                         "word":  "Her",
+                                         "startSec":  3.413,
+                                         "endSec":  3.564,
+                                         "startFrame":  102,
+                                         "endFrame":  107
+                                     },
+                                     {
+                                         "word":  "dollars",
+                                         "startSec":  3.622,
+                                         "endSec":  3.994,
+                                         "startFrame":  109,
+                                         "endFrame":  120
+                                     },
+                                     {
+                                         "word":  "go",
+                                         "startSec":  4.04,
+                                         "endSec":  4.156,
+                                         "startFrame":  121,
+                                         "endFrame":  125
+                                     },
+                                     {
+                                         "word":  "up",
+                                         "startSec":  4.214,
+                                         "endSec":  4.331,
+                                         "startFrame":  126,
+                                         "endFrame":  130
+                                     },
+                                     {
+                                         "word":  "every",
+                                         "startSec":  4.447,
+                                         "endSec":  4.76,
+                                         "startFrame":  133,
+                                         "endFrame":  143
+                                     },
+                                     {
+                                         "word":  "round.",
+                                         "startSec":  4.841,
+                                         "endSec":  5.224,
+                                         "startFrame":  145,
+                                         "endFrame":  157
+                                     },
+                                     {
+                                         "word":  "That",
+                                         "startSec":  5.306,
+                                         "endSec":  5.55,
+                                         "startFrame":  159,
+                                         "endFrame":  166
+                                     },
+                                     {
+                                         "word":  "is",
+                                         "startSec":  5.596,
+                                         "endSec":  5.689,
+                                         "startFrame":  168,
+                                         "endFrame":  171
+                                     },
+                                     {
+                                         "word":  "the",
+                                         "startSec":  5.747,
+                                         "endSec":  5.817,
+                                         "startFrame":  172,
+                                         "endFrame":  175
+                                     },
+                                     {
+                                         "word":  "trade.",
+                                         "startSec":  5.863,
+                                         "endSec":  6.548,
+                                         "startFrame":  176,
+                                         "endFrame":  196
+                                     }
+                                 ]
+                   },
+                   {
+                       "id":  "09-exit",
+                       "audio":  "09-exit.mp3",
+                       "text":  "Five years later, Brewly sells for half a billion dollars. The angel who put in one million walks away with sixty-four. Maya, a hundred and fifteen.",
+                       "speechSeconds":  9.381,
+                       "durationSeconds":  10.081,
+                       "durationFrames":  326,
+                       "startFrame":  2186,
+                       "words":  [
+                                     {
+                                         "word":  "Five",
+                                         "startSec":  0.0,
+                                         "endSec":  0.313,
+                                         "startFrame":  0,
+                                         "endFrame":  9
+                                     },
+                                     {
+                                         "word":  "years",
+                                         "startSec":  0.348,
+                                         "endSec":  0.557,
+                                         "startFrame":  10,
+                                         "endFrame":  17
+                                     },
+                                     {
+                                         "word":  "later,",
+                                         "startSec":  0.627,
+                                         "endSec":  1.033,
+                                         "startFrame":  19,
+                                         "endFrame":  31
+                                     },
+                                     {
+                                         "word":  "Brewly",
+                                         "startSec":  1.184,
+                                         "endSec":  1.579,
+                                         "startFrame":  36,
+                                         "endFrame":  47
+                                     },
+                                     {
+                                         "word":  "sells",
+                                         "startSec":  1.625,
+                                         "endSec":  1.892,
+                                         "startFrame":  49,
+                                         "endFrame":  57
+                                     },
+                                     {
+                                         "word":  "for",
+                                         "startSec":  1.95,
+                                         "endSec":  2.078,
+                                         "startFrame":  58,
+                                         "endFrame":  62
+                                     },
+                                     {
+                                         "word":  "half",
+                                         "startSec":  2.159,
+                                         "endSec":  2.368,
+                                         "startFrame":  65,
+                                         "endFrame":  71
+                                     },
+                                     {
+                                         "word":  "a",
+                                         "startSec":  2.426,
+                                         "endSec":  2.45,
+                                         "startFrame":  73,
+                                         "endFrame":  74
+                                     },
+                                     {
+                                         "word":  "billion",
+                                         "startSec":  2.496,
+                                         "endSec":  2.81,
+                                         "startFrame":  75,
+                                         "endFrame":  84
+                                     },
+                                     {
+                                         "word":  "dollars.",
+                                         "startSec":  2.856,
+                                         "endSec":  3.413,
+                                         "startFrame":  86,
+                                         "endFrame":  102
+                                     },
+                                     {
+                                         "word":  "The",
+                                         "startSec":  3.738,
+                                         "endSec":  3.855,
+                                         "startFrame":  112,
+                                         "endFrame":  116
+                                     },
+                                     {
+                                         "word":  "angel",
+                                         "startSec":  3.924,
+                                         "endSec":  4.203,
+                                         "startFrame":  118,
+                                         "endFrame":  126
+                                     },
+                                     {
+                                         "word":  "who",
+                                         "startSec":  4.261,
+                                         "endSec":  4.354,
+                                         "startFrame":  128,
+                                         "endFrame":  131
+                                     },
+                                     {
+                                         "word":  "put",
+                                         "startSec":  4.412,
+                                         "endSec":  4.563,
+                                         "startFrame":  132,
+                                         "endFrame":  137
+                                     },
+                                     {
+                                         "word":  "in",
+                                         "startSec":  4.609,
+                                         "endSec":  4.69,
+                                         "startFrame":  138,
+                                         "endFrame":  141
+                                     },
+                                     {
+                                         "word":  "one",
+                                         "startSec":  4.772,
+                                         "endSec":  4.957,
+                                         "startFrame":  143,
+                                         "endFrame":  149
+                                     },
+                                     {
+                                         "word":  "million",
+                                         "startSec":  5.004,
+                                         "endSec":  5.364,
+                                         "startFrame":  150,
+                                         "endFrame":  161
+                                     },
+                                     {
+                                         "word":  "walks",
+                                         "startSec":  5.48,
+                                         "endSec":  5.805,
+                                         "startFrame":  164,
+                                         "endFrame":  174
+                                     },
+                                     {
+                                         "word":  "away",
+                                         "startSec":  5.851,
+                                         "endSec":  6.049,
+                                         "startFrame":  176,
+                                         "endFrame":  181
+                                     },
+                                     {
+                                         "word":  "with",
+                                         "startSec":  6.095,
+                                         "endSec":  6.235,
+                                         "startFrame":  183,
+                                         "endFrame":  187
+                                     },
+                                     {
+                                         "word":  "sixty-four.",
+                                         "startSec":  6.281,
+                                         "endSec":  7.152,
+                                         "startFrame":  188,
+                                         "endFrame":  215
+                                     },
+                                     {
+                                         "word":  "Maya,",
+                                         "startSec":  7.396,
+                                         "endSec":  7.895,
+                                         "startFrame":  222,
+                                         "endFrame":  237
+                                     },
+                                     {
+                                         "word":  "a",
+                                         "startSec":  7.93,
+                                         "endSec":  7.988,
+                                         "startFrame":  238,
+                                         "endFrame":  240
+                                     },
+                                     {
+                                         "word":  "hundred",
+                                         "startSec":  8.104,
+                                         "endSec":  8.371,
+                                         "startFrame":  243,
+                                         "endFrame":  251
+                                     },
+                                     {
+                                         "word":  "and",
+                                         "startSec":  8.406,
+                                         "endSec":  8.475,
+                                         "startFrame":  252,
+                                         "endFrame":  254
+                                     },
+                                     {
+                                         "word":  "fifteen.",
+                                         "startSec":  8.522,
+                                         "endSec":  9.381,
+                                         "startFrame":  256,
+                                         "endFrame":  281
+                                     }
+                                 ]
+                   },
+                   {
+                       "id":  "10-outro",
+                       "audio":  "10-outro.mp3",
+                       "text":  "A smaller slice of a much bigger pie. That\u0027s the whole game.",
+                       "speechSeconds":  3.529,
+                       "durationSeconds":  4.229,
+                       "durationFrames":  151,
+                       "startFrame":  2512,
+                       "words":  [
+                                     {
+                                         "word":  "A",
+                                         "startSec":  0.0,
+                                         "endSec":  0.104,
+                                         "startFrame":  0,
+                                         "endFrame":  3
+                                     },
+                                     {
+                                         "word":  "smaller",
+                                         "startSec":  0.186,
+                                         "endSec":  0.557,
+                                         "startFrame":  6,
+                                         "endFrame":  17
+                                     },
+                                     {
+                                         "word":  "slice",
+                                         "startSec":  0.615,
+                                         "endSec":  0.952,
+                                         "startFrame":  18,
+                                         "endFrame":  29
+                                     },
+                                     {
+                                         "word":  "of",
+                                         "startSec":  0.987,
+                                         "endSec":  1.045,
+                                         "startFrame":  30,
+                                         "endFrame":  31
+                                     },
+                                     {
+                                         "word":  "a",
+                                         "startSec":  1.103,
+                                         "endSec":  1.126,
+                                         "startFrame":  33,
+                                         "endFrame":  34
+                                     },
+                                     {
+                                         "word":  "much",
+                                         "startSec":  1.196,
+                                         "endSec":  1.405,
+                                         "startFrame":  36,
+                                         "endFrame":  42
+                                     },
+                                     {
+                                         "word":  "bigger",
+                                         "startSec":  1.451,
+                                         "endSec":  1.66,
+                                         "startFrame":  44,
+                                         "endFrame":  50
+                                     },
+                                     {
+                                         "word":  "pie.",
+                                         "startSec":  1.707,
+                                         "endSec":  2.101,
+                                         "startFrame":  51,
+                                         "endFrame":  63
+                                     },
+                                     {
+                                         "word":  "That\u0027s",
+                                         "startSec":  2.194,
+                                         "endSec":  2.45,
+                                         "startFrame":  66,
+                                         "endFrame":  74
+                                     },
+                                     {
+                                         "word":  "the",
+                                         "startSec":  2.508,
+                                         "endSec":  2.577,
+                                         "startFrame":  75,
+                                         "endFrame":  77
+                                     },
+                                     {
+                                         "word":  "whole",
+                                         "startSec":  2.624,
+                                         "endSec":  2.833,
+                                         "startFrame":  79,
+                                         "endFrame":  85
+                                     },
+                                     {
+                                         "word":  "game.",
+                                         "startSec":  2.879,
+                                         "endSec":  3.529,
+                                         "startFrame":  86,
+                                         "endFrame":  106
+                                     }
+                                 ]
+                   }
+               ]
+}

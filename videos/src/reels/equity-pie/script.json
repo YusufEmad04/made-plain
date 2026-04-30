@@ -1,0 +1,44 @@
+{
+    "slug": "equity-pie",
+    "title": "Equity Pie — Funding & Rounds",
+    "voice_id": "TX3LPaxmHKxFdv7VOQHJ",
+    "voice_name": "Liam — Energetic Social Media Creator",
+    "model_id": "eleven_multilingual_v2",
+    "voice_settings": {
+        "stability": 0.32,
+        "similarity_boost": 0.78,
+        "style": 0.6,
+        "use_speaker_boost": true
+    },
+    "pad_seconds": 0.4,
+    "scenes": [
+        {
+            "id": "01-title",
+            "text": "Where does startup money come from? And what do investors actually buy?"
+        },
+        {
+            "id": "02-pizza",
+            "text": "Imagine your company is a pizza. The whole thing belongs to you, the founder."
+        },
+        {
+            "id": "03-valuation",
+            "text": "How much is your pizza worth? That's your valuation. Maybe a million dollars. Maybe ten."
+        },
+        {
+            "id": "04-investors",
+            "text": "An investor says: I'll give you cash. In return, I want a slice."
+        },
+        {
+            "id": "05-rounds",
+            "text": "Each funding round is a bigger pizza, and a higher price. Pre-seed. Seed. Series A."
+        },
+        {
+            "id": "06-dilution",
+            "text": "Yes, your slice gets smaller. But the pizza gets way bigger. Smaller slice. Way more worth."
+        },
+        {
+            "id": "07-outro",
+            "text": "Smaller slice. Bigger pie. Bigger life."
+        }
+    ]
+}

@@ -1,29 +1,29 @@
 {
-  "name": "made-plain-videos",
-  "version": "0.1.0",
-  "private": true,
-  "description": "Remotion video studio for Made Plain — branded reels and ads.",
-  "scripts": {
-    "dev": "remotion studio",
-    "studio": "remotion studio",
-    "build": "remotion render",
-    "render:kit-ad": "remotion render KitAd out/kit-ad.mp4",
-    "render:cac": "remotion render CACPayback out/cac-payback.mp4",
-    "render:pricing": "remotion render PricingPosition out/pricing-position.mp4",
-    "render:all": "npm run render:kit-ad && npm run render:cac && npm run render:pricing",
-    "upgrade": "remotion upgrade"
-  },
-  "dependencies": {
-    "@remotion/cli": "4.0.405",
-    "@remotion/google-fonts": "4.0.405",
-    "@remotion/transitions": "4.0.405",
-    "react": "19.0.0",
-    "react-dom": "19.0.0",
-    "remotion": "4.0.405"
-  },
-  "devDependencies": {
-    "@types/react": "19.0.0",
-    "@types/react-dom": "19.0.0",
-    "typescript": "^5.4.5"
-  }
+    "name": "made-plain-videos",
+    "version": "0.1.0",
+    "private": true,
+    "description": "Remotion video studio for Made Plain — branded reels and ads.",
+    "scripts": {
+        "dev": "remotion studio",
+        "studio": "remotion studio",
+        "build": "remotion render",
+        "render:kit-ad": "remotion render KitAd out/kit-ad.mp4",
+        "render:cac": "remotion render CACPayback out/cac-payback.mp4",
+        "render:pricing": "remotion render PricingPosition out/pricing-position.mp4",
+        "render:all": "npm run render:kit-ad && npm run render:cac && npm run render:pricing",
+        "upgrade": "remotion upgrade"
+    },
+    "dependencies": {
+        "@remotion/cli": "4.0.405",
+        "@remotion/google-fonts": "4.0.405",
+        "@remotion/transitions": "4.0.405",
+        "react": "19.0.0",
+        "react-dom": "19.0.0",
+        "remotion": "4.0.405"
+    },
+    "devDependencies": {
+        "@types/react": "19.0.0",
+        "@types/react-dom": "19.0.0",
+        "typescript": "^5.4.5"
+    }
 }

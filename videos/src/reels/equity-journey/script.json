@@ -1,0 +1,54 @@
+{
+    "voice_id": "FGY2WhTYpPnrIDTdsKH5",
+    "voice_name": "Laura — Enthusiast, Quirky Attitude (social media, young female)",
+    "model_id": "eleven_multilingual_v2",
+    "voice_settings": {
+        "stability": 0.35,
+        "similarity_boost": 0.78,
+        "style": 0.55,
+        "use_speaker_boost": true
+    },
+    "pad_seconds": 0.7,
+    "scenes": [
+        {
+            "id": "01-hook",
+            "text": "How does a company go from two people in a room, to half a billion dollars? Let's follow one."
+        },
+        {
+            "id": "02-founding",
+            "text": "Day one. Maya and Alex start a company. They split it sixty forty. Ten million shares on paper, worth nothing yet."
+        },
+        {
+            "id": "03-valuation",
+            "text": "Two words you need. Pre-money is what the company is worth before investors put cash in. Add the cash, and you get post-money. That's it."
+        },
+        {
+            "id": "04-preseed",
+            "text": "Pre-seed round. Three angels chip in one million dollars. The company is worth four million afterward, so they own a quarter. Maya and Alex own less now. That's called dilution."
+        },
+        {
+            "id": "05-seed",
+            "text": "Seed round. Four million in, at twenty million post. Maya's slice shrinks to thirty-six percent. But each share is now worth four times what it was."
+        },
+        {
+            "id": "06-seriesA",
+            "text": "Series A. Ten million at fifty. The pie is the same shape, it's just worth a lot more."
+        },
+        {
+            "id": "07-seriesB",
+            "text": "Series B. Thirty million in. The company is worth a hundred and fifty million. Maya owns less than a quarter, and that quarter is worth thirty-four million dollars."
+        },
+        {
+            "id": "08-reveal",
+            "text": "Look what happens. Her percentage goes down every round. Her dollars go up every round. That is the trade."
+        },
+        {
+            "id": "09-exit",
+            "text": "Five years later, Brewly sells for half a billion dollars. The angel who put in one million walks away with sixty-four. Maya, a hundred and fifteen."
+        },
+        {
+            "id": "10-outro",
+            "text": "A smaller slice of a much bigger pie. That's the whole game."
+        }
+    ]
+}
