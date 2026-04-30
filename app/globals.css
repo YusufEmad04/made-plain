@@ -1,26 +1,274 @@
 @import "tailwindcss";
+@import "tw-animate-css";
+
+@custom-variant dark (&:is(.dark *));
+
+/* ───────────────────────────────────────────────────────────────────
+   Made Plain — Brand tokens
+   See design-system/tokens.md for the source of truth.
+   ─────────────────────────────────────────────────────────────────── */
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  /* Brand core */
+  --color-paper: #f6f1e7;
+  --color-ink: #13110e;
+  --color-accent: #d14b1f;
+  --color-accent-ink: #ffffff;
+  --color-sand: #e8dcc2;
+  --color-card-brand: #fbf7ee;
+  --color-line: rgba(31, 27, 20, 0.12);
+  --color-mute: #5a544a;
+  --color-mute-2: #7e776a;
+
+  --color-pos: #3b7a57;
+  --color-warn: #b8860b;
+  --color-neg: #9c3d2d;
+
+  /* shadcn semantic mapping → brand */
+  --background: var(--color-paper);
+  --foreground: var(--color-ink);
+  --card: var(--color-card-brand);
+  --card-foreground: var(--color-ink);
+  --popover: var(--color-card-brand);
+  --popover-foreground: var(--color-ink);
+  --primary: var(--color-ink);
+  --primary-foreground: var(--color-paper);
+  --secondary: var(--color-sand);
+  --secondary-foreground: var(--color-ink);
+  --muted: var(--color-sand);
+  --muted-foreground: var(--color-mute);
+  --accent: var(--color-accent);
+  --accent-foreground: var(--color-accent-ink);
+  --destructive: var(--color-neg);
+  --border: var(--color-line);
+  --input: var(--color-line);
+  --ring: var(--color-accent);
+
+  --radius: 0.5rem;
+
+  /* Brand fonts (assigned via next/font in layout.tsx) */
+  --font-serif: "Newsreader", Georgia, "Times New Roman", serif;
+  --font-sans: "Inter Tight", "Inter", system-ui, -apple-system, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, "SF Mono", Menlo, monospace;
 }
+
+.dark {
+  --color-paper: #13110e;
+  --color-ink: #f1ecdf;
+  --color-accent: #e5572a;
+  --color-accent-ink: #13110e;
+  --color-sand: #1f1b14;
+  --color-card-brand: #1a1712;
+  --color-line: rgba(241, 236, 223, 0.12);
+  --color-mute: #a09a8e;
+  --color-mute-2: #7e776a;
+
+  --background: var(--color-paper);
+  --foreground: var(--color-ink);
+  --card: var(--color-card-brand);
+  --card-foreground: var(--color-ink);
+  --popover: var(--color-card-brand);
+  --popover-foreground: var(--color-ink);
+  --primary: var(--color-ink);
+  --primary-foreground: var(--color-paper);
+  --secondary: var(--color-sand);
+  --secondary-foreground: var(--color-ink);
+  --muted: var(--color-sand);
+  --muted-foreground: var(--color-mute);
+  --accent: var(--color-accent);
+  --accent-foreground: var(--color-accent-ink);
+  --destructive: #c8553f;
+  --border: var(--color-line);
+  --input: var(--color-line);
+  --ring: var(--color-accent);
+}
+
+/* ───────────────────────────────────────────────────────────────────
+   @theme inline — Tailwind utilities mapped to tokens
+   ─────────────────────────────────────────────────────────────────── */
 
 @theme inline {
+  --color-paper: var(--color-paper);
+  --color-ink: var(--color-ink);
+  --color-accent: var(--color-accent);
+  --color-accent-ink: var(--color-accent-ink);
+  --color-sand: var(--color-sand);
+  --color-card-brand: var(--color-card-brand);
+  --color-line: var(--color-line);
+  --color-mute: var(--color-mute);
+  --color-mute-2: var(--color-mute-2);
+  --color-pos: var(--color-pos);
+  --color-warn: var(--color-warn);
+  --color-neg: var(--color-neg);
+
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+
+  --font-sans: var(--font-sans);
+  --font-serif: var(--font-serif);
+  --font-mono: var(--font-mono);
+  --font-heading: var(--font-sans);
+
+  /* Editorial type scale */
+  --text-eyebrow: 13px;
+  --text-eyebrow--line-height: 1;
+  --text-eyebrow--letter-spacing: 0.14em;
+  --text-ui-sm: 13px;
+  --text-ui-sm--line-height: 1.4;
+  --text-ui: 15px;
+  --text-ui--line-height: 1.4;
+  --text-body-sm: 15px;
+  --text-body-sm--line-height: 1.6;
+  --text-body: 17px;
+  --text-body--line-height: 1.65;
+  --text-lead: clamp(20px, 2.2vw, 26px);
+  --text-lead--line-height: 1.45;
+  --text-h3: 22px;
+  --text-h3--line-height: 1.2;
+  --text-h2: clamp(26px, 3vw, 40px);
+  --text-h2--line-height: 1.1;
+  --text-h1: clamp(32px, 4vw, 56px);
+  --text-h1--line-height: 1.05;
+  --text-display: clamp(40px, 6vw, 88px);
+  --text-display--line-height: 1;
+  --text-mega: clamp(56px, 10vw, 144px);
+  --text-mega--line-height: 0.95;
+
+  --container-prose: 68ch;
+  --container-narrow: 720px;
+  --container-default: 1120px;
+  --container-wide: 1320px;
+
+  --radius-sm: 4px;
+  --radius-md: 8px;
+  --radius-lg: 16px;
+  --radius-pill: 999px;
+
+  --shadow-sm: 0 1px 2px rgba(19, 17, 14, 0.06), 0 1px 1px rgba(19, 17, 14, 0.04);
+  --shadow-md: 0 4px 12px rgba(19, 17, 14, 0.08), 0 2px 4px rgba(19, 17, 14, 0.04);
+  --shadow-lg: 0 16px 40px rgba(19, 17, 14, 0.12), 0 4px 12px rgba(19, 17, 14, 0.06);
+
+  --ease-smooth: cubic-bezier(0.32, 0.72, 0, 1);
+  --ease-quart: cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-spring: cubic-bezier(0.34, 1.56, 0.64, 1);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+/* ───────────────────────────────────────────────────────────────────
+   Base layer
+   ─────────────────────────────────────────────────────────────────── */
+
+@layer base {
+  * {
+    border-color: var(--color-line);
+  }
+
+  html {
+    font-family: var(--font-sans);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+  }
+
+  body {
+    background: var(--color-paper);
+    color: var(--color-ink);
+    font-variant-numeric: tabular-nums;
+  }
+
+  ::selection {
+    background: var(--color-accent);
+    color: var(--color-accent-ink);
+  }
+
+  .prose-editorial {
+    font-family: var(--font-serif);
+    font-size: 17px;
+    line-height: 1.65;
+  }
+
+  .tnum {
+    font-variant-numeric: tabular-nums;
   }
 }
 
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+/* ───────────────────────────────────────────────────────────────────
+   Brand utilities
+   ─────────────────────────────────────────────────────────────────── */
+
+.font-mega {
+  font-family: var(--font-sans);
+  font-weight: 900;
+  letter-spacing: -0.025em;
+  line-height: 0.95;
+}
+
+.font-display {
+  font-family: var(--font-sans);
+  font-weight: 700;
+  letter-spacing: -0.01em;
+}
+
+.eyebrow {
+  font-family: var(--font-sans);
+  font-weight: 600;
+  font-size: 13px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  line-height: 1;
+}
+
+@keyframes pulse-dot {
+  0%,
+  100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+  50% {
+    opacity: 0.7;
+    transform: scale(1.15);
+  }
+}
+
+.animate-pulse-dot {
+  animation: pulse-dot 2.4s ease-in-out infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 120ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 120ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* Paper grain overlay (use on hero / full-bleed editorial sections) */
+.texture-grain {
+  position: relative;
+}
+.texture-grain::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  opacity: 0.04;
+  mix-blend-mode: multiply;
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='200' height='200'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2' stitchTiles='stitch'/></filter><rect width='100%25' height='100%25' filter='url(%23n)'/></svg>");
 }

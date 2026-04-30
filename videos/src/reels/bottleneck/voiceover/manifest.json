@@ -1,0 +1,583 @@
+{
+  "fps": 30,
+  "voiceId": "pNInz6obpgDQGcFmaJgB",
+  "modelId": "eleven_multilingual_v2",
+  "totalSeconds": 32.6667,
+  "totalFrames": 980,
+  "scenes": [
+    {
+      "id": "01-title",
+      "audio": "01-title.mp3",
+      "text": "A chain is only as strong as its weakest link.",
+      "speechSeconds": 3.158,
+      "durationSeconds": 3.658,
+      "durationFrames": 110,
+      "startFrame": 0,
+      "words": [
+        {
+          "word": "A",
+          "startSec": 0.0,
+          "endSec": 0.104,
+          "startFrame": 0,
+          "endFrame": 3
+        },
+        {
+          "word": "chain",
+          "startSec": 0.186,
+          "endSec": 0.557,
+          "startFrame": 6,
+          "endFrame": 17
+        },
+        {
+          "word": "is",
+          "startSec": 0.627,
+          "endSec": 0.708,
+          "startFrame": 19,
+          "endFrame": 21
+        },
+        {
+          "word": "only",
+          "startSec": 0.778,
+          "endSec": 1.01,
+          "startFrame": 23,
+          "endFrame": 30
+        },
+        {
+          "word": "as",
+          "startSec": 1.08,
+          "endSec": 1.161,
+          "startFrame": 32,
+          "endFrame": 35
+        },
+        {
+          "word": "strong",
+          "startSec": 1.219,
+          "endSec": 1.707,
+          "startFrame": 37,
+          "endFrame": 51
+        },
+        {
+          "word": "as",
+          "startSec": 1.788,
+          "endSec": 1.881,
+          "startFrame": 54,
+          "endFrame": 56
+        },
+        {
+          "word": "its",
+          "startSec": 1.95,
+          "endSec": 2.078,
+          "startFrame": 58,
+          "endFrame": 62
+        },
+        {
+          "word": "weakest",
+          "startSec": 2.136,
+          "endSec": 2.508,
+          "startFrame": 64,
+          "endFrame": 75
+        },
+        {
+          "word": "link.",
+          "startSec": 2.589,
+          "endSec": 3.158,
+          "startFrame": 78,
+          "endFrame": 95
+        }
+      ]
+    },
+    {
+      "id": "02-line",
+      "audio": "02-line.mp3",
+      "text": "Every business is a line. You design, you build, you ship.",
+      "speechSeconds": 5.712,
+      "durationSeconds": 6.212,
+      "durationFrames": 186,
+      "startFrame": 110,
+      "words": [
+        {
+          "word": "Every",
+          "startSec": 0.0,
+          "endSec": 0.406,
+          "startFrame": 0,
+          "endFrame": 12
+        },
+        {
+          "word": "business",
+          "startSec": 0.476,
+          "endSec": 0.964,
+          "startFrame": 14,
+          "endFrame": 29
+        },
+        {
+          "word": "is",
+          "startSec": 1.022,
+          "endSec": 1.138,
+          "startFrame": 31,
+          "endFrame": 34
+        },
+        {
+          "word": "a",
+          "startSec": 1.196,
+          "endSec": 1.219,
+          "startFrame": 36,
+          "endFrame": 37
+        },
+        {
+          "word": "line.",
+          "startSec": 1.3,
+          "endSec": 1.927,
+          "startFrame": 39,
+          "endFrame": 58
+        },
+        {
+          "word": "You",
+          "startSec": 2.368,
+          "endSec": 2.519,
+          "startFrame": 71,
+          "endFrame": 76
+        },
+        {
+          "word": "design,",
+          "startSec": 2.601,
+          "endSec": 3.379,
+          "startFrame": 78,
+          "endFrame": 101
+        },
+        {
+          "word": "you",
+          "startSec": 3.553,
+          "endSec": 3.68,
+          "startFrame": 107,
+          "endFrame": 110
+        },
+        {
+          "word": "build,",
+          "startSec": 3.773,
+          "endSec": 4.412,
+          "startFrame": 113,
+          "endFrame": 132
+        },
+        {
+          "word": "you",
+          "startSec": 4.853,
+          "endSec": 4.969,
+          "startFrame": 146,
+          "endFrame": 149
+        },
+        {
+          "word": "ship.",
+          "startSec": 5.085,
+          "endSec": 5.712,
+          "startFrame": 153,
+          "endFrame": 171
+        }
+      ]
+    },
+    {
+      "id": "03-slowest",
+      "audio": "03-slowest.mp3",
+      "text": "But one station is the slowest. Work piles up. Throughput drops.",
+      "speechSeconds": 4.69,
+      "durationSeconds": 5.19,
+      "durationFrames": 156,
+      "startFrame": 296,
+      "words": [
+        {
+          "word": "But",
+          "startSec": 0.0,
+          "endSec": 0.197,
+          "startFrame": 0,
+          "endFrame": 6
+        },
+        {
+          "word": "one",
+          "startSec": 0.267,
+          "endSec": 0.464,
+          "startFrame": 8,
+          "endFrame": 14
+        },
+        {
+          "word": "station",
+          "startSec": 0.511,
+          "endSec": 0.917,
+          "startFrame": 15,
+          "endFrame": 28
+        },
+        {
+          "word": "is",
+          "startSec": 0.987,
+          "endSec": 1.068,
+          "startFrame": 30,
+          "endFrame": 32
+        },
+        {
+          "word": "the",
+          "startSec": 1.138,
+          "endSec": 1.207,
+          "startFrame": 34,
+          "endFrame": 36
+        },
+        {
+          "word": "slowest.",
+          "startSec": 1.254,
+          "endSec": 1.962,
+          "startFrame": 38,
+          "endFrame": 59
+        },
+        {
+          "word": "Work",
+          "startSec": 2.287,
+          "endSec": 2.543,
+          "startFrame": 69,
+          "endFrame": 76
+        },
+        {
+          "word": "piles",
+          "startSec": 2.601,
+          "endSec": 3.007,
+          "startFrame": 78,
+          "endFrame": 90
+        },
+        {
+          "word": "up.",
+          "startSec": 3.077,
+          "endSec": 3.355,
+          "startFrame": 92,
+          "endFrame": 101
+        },
+        {
+          "word": "Throughput",
+          "startSec": 3.506,
+          "endSec": 4.063,
+          "startFrame": 105,
+          "endFrame": 122
+        },
+        {
+          "word": "drops.",
+          "startSec": 4.11,
+          "endSec": 4.69,
+          "startFrame": 123,
+          "endFrame": 141
+        }
+      ]
+    },
+    {
+      "id": "04-tempting",
+      "audio": "04-tempting.mp3",
+      "text": "So you speed up the others. Faster designers. Same output. More inventory waiting.",
+      "speechSeconds": 5.526,
+      "durationSeconds": 6.026,
+      "durationFrames": 181,
+      "startFrame": 452,
+      "words": [
+        {
+          "word": "So",
+          "startSec": 0.0,
+          "endSec": 0.186,
+          "startFrame": 0,
+          "endFrame": 6
+        },
+        {
+          "word": "you",
+          "startSec": 0.244,
+          "endSec": 0.337,
+          "startFrame": 7,
+          "endFrame": 10
+        },
+        {
+          "word": "speed",
+          "startSec": 0.418,
+          "endSec": 0.731,
+          "startFrame": 13,
+          "endFrame": 22
+        },
+        {
+          "word": "up",
+          "startSec": 0.778,
+          "endSec": 0.894,
+          "startFrame": 23,
+          "endFrame": 27
+        },
+        {
+          "word": "the",
+          "startSec": 0.952,
+          "endSec": 1.022,
+          "startFrame": 29,
+          "endFrame": 31
+        },
+        {
+          "word": "others.",
+          "startSec": 1.091,
+          "endSec": 1.498,
+          "startFrame": 33,
+          "endFrame": 45
+        },
+        {
+          "word": "Faster",
+          "startSec": 1.672,
+          "endSec": 2.078,
+          "startFrame": 50,
+          "endFrame": 62
+        },
+        {
+          "word": "designers.",
+          "startSec": 2.136,
+          "endSec": 2.798,
+          "startFrame": 64,
+          "endFrame": 84
+        },
+        {
+          "word": "Same",
+          "startSec": 2.972,
+          "endSec": 3.262,
+          "startFrame": 89,
+          "endFrame": 98
+        },
+        {
+          "word": "output.",
+          "startSec": 3.309,
+          "endSec": 3.808,
+          "startFrame": 99,
+          "endFrame": 114
+        },
+        {
+          "word": "More",
+          "startSec": 3.924,
+          "endSec": 4.156,
+          "startFrame": 118,
+          "endFrame": 125
+        },
+        {
+          "word": "inventory",
+          "startSec": 4.203,
+          "endSec": 4.841,
+          "startFrame": 126,
+          "endFrame": 145
+        },
+        {
+          "word": "waiting.",
+          "startSec": 4.899,
+          "endSec": 5.526,
+          "startFrame": 147,
+          "endFrame": 166
+        }
+      ]
+    },
+    {
+      "id": "05-fix",
+      "audio": "05-fix.mp3",
+      "text": "Fix the slow station. The whole line jumps.",
+      "speechSeconds": 3.019,
+      "durationSeconds": 3.519,
+      "durationFrames": 106,
+      "startFrame": 633,
+      "words": [
+        {
+          "word": "Fix",
+          "startSec": 0.0,
+          "endSec": 0.29,
+          "startFrame": 0,
+          "endFrame": 9
+        },
+        {
+          "word": "the",
+          "startSec": 0.372,
+          "endSec": 0.453,
+          "startFrame": 11,
+          "endFrame": 14
+        },
+        {
+          "word": "slow",
+          "startSec": 0.511,
+          "endSec": 0.766,
+          "startFrame": 15,
+          "endFrame": 23
+        },
+        {
+          "word": "station.",
+          "startSec": 0.836,
+          "endSec": 1.428,
+          "startFrame": 25,
+          "endFrame": 43
+        },
+        {
+          "word": "The",
+          "startSec": 1.602,
+          "endSec": 1.73,
+          "startFrame": 48,
+          "endFrame": 52
+        },
+        {
+          "word": "whole",
+          "startSec": 1.788,
+          "endSec": 2.032,
+          "startFrame": 54,
+          "endFrame": 61
+        },
+        {
+          "word": "line",
+          "startSec": 2.078,
+          "endSec": 2.45,
+          "startFrame": 62,
+          "endFrame": 74
+        },
+        {
+          "word": "jumps.",
+          "startSec": 2.508,
+          "endSec": 3.019,
+          "startFrame": 75,
+          "endFrame": 91
+        }
+      ]
+    },
+    {
+      "id": "06-rule",
+      "audio": "06-rule.mp3",
+      "text": "Throughput is set by the bottleneck. Improving anything else is theatre.",
+      "speechSeconds": 4.551,
+      "durationSeconds": 5.051,
+      "durationFrames": 152,
+      "startFrame": 739,
+      "words": [
+        {
+          "word": "Throughput",
+          "startSec": 0.0,
+          "endSec": 0.569,
+          "startFrame": 0,
+          "endFrame": 17
+        },
+        {
+          "word": "is",
+          "startSec": 0.615,
+          "endSec": 0.685,
+          "startFrame": 18,
+          "endFrame": 21
+        },
+        {
+          "word": "set",
+          "startSec": 0.743,
+          "endSec": 0.964,
+          "startFrame": 22,
+          "endFrame": 29
+        },
+        {
+          "word": "by",
+          "startSec": 1.022,
+          "endSec": 1.126,
+          "startFrame": 31,
+          "endFrame": 34
+        },
+        {
+          "word": "the",
+          "startSec": 1.184,
+          "endSec": 1.254,
+          "startFrame": 36,
+          "endFrame": 38
+        },
+        {
+          "word": "bottleneck.",
+          "startSec": 1.312,
+          "endSec": 2.02,
+          "startFrame": 39,
+          "endFrame": 61
+        },
+        {
+          "word": "Improving",
+          "startSec": 2.403,
+          "endSec": 2.891,
+          "startFrame": 72,
+          "endFrame": 87
+        },
+        {
+          "word": "anything",
+          "startSec": 2.949,
+          "endSec": 3.274,
+          "startFrame": 88,
+          "endFrame": 98
+        },
+        {
+          "word": "else",
+          "startSec": 3.344,
+          "endSec": 3.622,
+          "startFrame": 100,
+          "endFrame": 109
+        },
+        {
+          "word": "is",
+          "startSec": 3.669,
+          "endSec": 3.762,
+          "startFrame": 110,
+          "endFrame": 113
+        },
+        {
+          "word": "theatre.",
+          "startSec": 3.831,
+          "endSec": 4.551,
+          "startFrame": 115,
+          "endFrame": 137
+        }
+      ]
+    },
+    {
+      "id": "07-outro",
+      "audio": "07-outro.mp3",
+      "text": "Find the slow link. Then break it.",
+      "speechSeconds": 2.461,
+      "durationSeconds": 2.961,
+      "durationFrames": 89,
+      "startFrame": 891,
+      "words": [
+        {
+          "word": "Find",
+          "startSec": 0.0,
+          "endSec": 0.302,
+          "startFrame": 0,
+          "endFrame": 9
+        },
+        {
+          "word": "the",
+          "startSec": 0.348,
+          "endSec": 0.418,
+          "startFrame": 10,
+          "endFrame": 13
+        },
+        {
+          "word": "slow",
+          "startSec": 0.453,
+          "endSec": 0.708,
+          "startFrame": 14,
+          "endFrame": 21
+        },
+        {
+          "word": "link.",
+          "startSec": 0.778,
+          "endSec": 1.161,
+          "startFrame": 23,
+          "endFrame": 35
+        },
+        {
+          "word": "Then",
+          "startSec": 1.486,
+          "endSec": 1.683,
+          "startFrame": 45,
+          "endFrame": 50
+        },
+        {
+          "word": "break",
+          "startSec": 1.753,
+          "endSec": 2.032,
+          "startFrame": 53,
+          "endFrame": 61
+        },
+        {
+          "word": "it.",
+          "startSec": 2.09,
+          "endSec": 2.461,
+          "startFrame": 63,
+          "endFrame": 74
+        }
+      ]
+    }
+  ]
+}

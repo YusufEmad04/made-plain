@@ -1,0 +1,40 @@
+{
+  "voice_settings": {
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "style": 0.35,
+    "use_speaker_boost": true
+  },
+  "pad_seconds": 0.5,
+  "fps": 30,
+  "scenes": [
+    {
+      "id": "01-title",
+      "text": "Profit is opinion. Cash is timing."
+    },
+    {
+      "id": "02-pipeline",
+      "text": "Every business is a pipeline. You pay your supplier. You hold inventory. You get paid."
+    },
+    {
+      "id": "03-coin-flow",
+      "text": "The gap between paying out, and getting paid back — that's your cash conversion cycle."
+    },
+    {
+      "id": "04-two-businesses",
+      "text": "Same revenue. Same margins. One floats on free customer cash. The other drowns in supplier debt."
+    },
+    {
+      "id": "05-formula",
+      "text": "Days holding inventory, plus days waiting on customers, minus days you owe suppliers."
+    },
+    {
+      "id": "06-levers",
+      "text": "Sell faster. Get paid sooner. Pay later. Squeeze the cycle, and your business funds itself."
+    },
+    {
+      "id": "07-outro",
+      "text": "Profit is opinion. Cash is timing."
+    }
+  ]
+}

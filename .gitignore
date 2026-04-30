@@ -32,6 +32,7 @@ yarn-error.log*
 
 # env files (can opt-in for committing if needed)
 .env*
+!.env.example
 
 # vercel
 .vercel
@@ -39,3 +40,25 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# ── Remotion video workspace ─────────────────────────────────────
+# Keep the source code (videos/src, configs, scripts) but ignore
+# everything generated, installed, or rendered.
+videos/node_modules
+videos/.next
+videos/out
+videos/build
+videos/dist
+videos/.cache
+videos/*.log
+videos/*.mp4
+videos/*.mov
+videos/*.webm
+videos/*.gif
+videos/.DS_Store
+
+# ── Editorial source material kept out of the repo ───────────────
+business-material/
+the-complete-brand.md
+the-complete-plan.md
+design-system/
