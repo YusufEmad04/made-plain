@@ -7,10 +7,27 @@ import {
     LeakyBucket,
     LEAKY_BUCKET_DURATION,
 } from "./compositions/LeakyBucket";
-import { CashCycle, CASH_CYCLE_DURATION } from "./reels/cash-cycle";
-import { Bottleneck, BOTTLENECK_DURATION } from "./reels/bottleneck";
-import { EquityPie, EQUITY_PIE_DURATION } from "./reels/equity-pie";
 import { EquityJourney, EQUITY_JOURNEY_DURATION } from "./reels/equity-journey";
+import {
+    WhatBusinessActuallyIs,
+    WHAT_BUSINESS_ACTUALLY_IS_DURATION,
+} from "./reels/what-a-business-actually-is";
+import {
+    BusinessThreeJobs,
+    BUSINESS_THREE_JOBS_DURATION,
+} from "./reels/business-three-jobs";
+import {
+    EnginesOfGrowth,
+    ENGINES_OF_GROWTH_DURATION,
+} from "./reels/engines-of-growth";
+import {
+    EnginesOfGrowthArabic,
+    ENGINES_OF_GROWTH_AR_DURATION,
+} from "./reels/engines-of-growth-ar";
+import {
+    CustomerPainTest,
+    CUSTOMER_PAIN_TEST_DURATION,
+} from "./reels/customer-pain-test";
 
 export const RemotionRoot: React.FC = () => {
     return (
@@ -41,33 +58,49 @@ export const RemotionRoot: React.FC = () => {
                     height={REEL.height}
                 />
                 <Composition
-                    id="CashCycle"
-                    component={CashCycle}
-                    durationInFrames={CASH_CYCLE_DURATION}
-                    fps={REEL.fps}
-                    width={REEL.width}
-                    height={REEL.height}
-                />
-                <Composition
-                    id="Bottleneck"
-                    component={Bottleneck}
-                    durationInFrames={BOTTLENECK_DURATION}
-                    fps={REEL.fps}
-                    width={REEL.width}
-                    height={REEL.height}
-                />
-                <Composition
-                    id="EquityPie"
-                    component={EquityPie}
-                    durationInFrames={EQUITY_PIE_DURATION}
-                    fps={REEL.fps}
-                    width={REEL.width}
-                    height={REEL.height}
-                />
-                <Composition
                     id="EquityJourney"
                     component={EquityJourney}
                     durationInFrames={EQUITY_JOURNEY_DURATION}
+                    fps={REEL.fps}
+                    width={REEL.width}
+                    height={REEL.height}
+                />
+                <Composition
+                    id="WhatBusinessActuallyIs"
+                    component={WhatBusinessActuallyIs}
+                    durationInFrames={WHAT_BUSINESS_ACTUALLY_IS_DURATION}
+                    fps={REEL.fps}
+                    width={REEL.width}
+                    height={REEL.height}
+                />
+                <Composition
+                    id="BusinessThreeJobs"
+                    component={BusinessThreeJobs}
+                    durationInFrames={BUSINESS_THREE_JOBS_DURATION}
+                    fps={REEL.fps}
+                    width={REEL.width}
+                    height={REEL.height}
+                />
+                <Composition
+                    id="EnginesOfGrowth"
+                    component={EnginesOfGrowth}
+                    durationInFrames={ENGINES_OF_GROWTH_DURATION}
+                    fps={REEL.fps}
+                    width={REEL.width}
+                    height={REEL.height}
+                />
+                <Composition
+                    id="EnginesOfGrowthArabic"
+                    component={EnginesOfGrowthArabic}
+                    durationInFrames={ENGINES_OF_GROWTH_AR_DURATION}
+                    fps={REEL.fps}
+                    width={REEL.width}
+                    height={REEL.height}
+                />
+                <Composition
+                    id="CustomerPainTest"
+                    component={CustomerPainTest}
+                    durationInFrames={CUSTOMER_PAIN_TEST_DURATION}
                     fps={REEL.fps}
                     width={REEL.width}
                     height={REEL.height}

@@ -13,8 +13,8 @@ import { getSignedUrl } from "@aws-sdk/s3-request-presigner";
 const SIGNED_URL_TTL_SECONDS = 60 * 15;
 
 export type DownloadGrant = {
-  url: string;
-  expiresAt: number;
+    url: string;
+    expiresAt: number;
 };
 
 const BUCKET = process.env.S3_BUCKET;
@@ -22,32 +22,32 @@ const REGION = process.env.AWS_REGION ?? "us-east-1";
 
 let s3: S3Client | null = null;
 function client(): S3Client | null {
-  if (!BUCKET) return null;
-  if (!s3) s3 = new S3Client({ region: REGION });
-  return s3;
+    if (!BUCKET) return null;
+    if (!s3) s3 = new S3Client({ region: REGION });
+    return s3;
 }
 
 export async function getDownloadUrl(
-  storageKey: string
+    storageKey: string
 ): Promise<DownloadGrant> {
-  const expiresAt = Date.now() + SIGNED_URL_TTL_SECONDS * 1000;
-  const c = client();
-  if (!c || !BUCKET) {
-    return {
-      url: `/api/mock-download?key=${encodeURIComponent(
-        storageKey
-      )}&exp=${expiresAt}`,
-      expiresAt,
-    };
-  }
-  const cmd = new GetObjectCommand({ Bucket: BUCKET, Key: storageKey });
-  const url = await getSignedUrl(c, cmd, {
-    expiresIn: SIGNED_URL_TTL_SECONDS,
-  });
-  return { url, expiresAt };
+    const expiresAt = Date.now() + SIGNED_URL_TTL_SECONDS * 1000;
+    const c = client();
+    if (!c || !BUCKET) {
+        return {
+            url: `/api/mock-download?key=${encodeURIComponent(
+                storageKey
+            )}&exp=${expiresAt}`,
+            expiresAt,
+        };
+    }
+    const cmd = new GetObjectCommand({ Bucket: BUCKET, Key: storageKey });
+    const url = await getSignedUrl(c, cmd, {
+        expiresIn: SIGNED_URL_TTL_SECONDS,
+    });
+    return { url, expiresAt };
 }
 
 /** Whether the storage adapter is in mock mode. */
 export function isMockStorage(): boolean {
-  return !BUCKET;
+    return !BUCKET;
 }

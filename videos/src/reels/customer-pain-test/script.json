@@ -1,0 +1,38 @@
+{
+    "voice_id": "FGY2WhTYpPnrIDTdsKH5",
+    "voice_name": "Laura — plain explainer, customer pain test v2",
+    "model_id": "eleven_multilingual_v2",
+    "voice_settings": {
+        "stability": 0.5,
+        "similarity_boost": 0.78,
+        "style": 0.22,
+        "use_speaker_boost": true
+    },
+    "pad_seconds": 1.4,
+    "scenes": [
+        {
+            "id": "01-graveyard",
+            "text": "Most products fail for one reason. They built something nobody actually needed. Not bad design. Not bad marketing. The pain wasn't real."
+        },
+        {
+            "id": "02-rule",
+            "text": "Here's the test in one line. A real pain has a number on it."
+        },
+        {
+            "id": "03-two-customers",
+            "text": "Listen to two customers. The first says — I'd love a better tool. No number. That's not a pain. That's an inconvenience. The second says — I lose six hours every single Monday. Six hours. There's your number. That's a real pain."
+        },
+        {
+            "id": "04-question",
+            "text": "So how do you find the number? Don't ask — would you pay for this. They'll say yes to be polite. Ask — how do you solve it today. Then listen for the numbers. Time. Money. Workarounds."
+        },
+        {
+            "id": "05-challenge",
+            "text": "Try it this week. Find five people. Ask the question. If three describe the same problem with real numbers, unprompted — you've found something worth building."
+        },
+        {
+            "id": "06-outro",
+            "text": "If they can't put a number on it — it's not a pain. It's a wish."
+        }
+    ]
+}

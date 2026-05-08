@@ -1,0 +1,1178 @@
+{
+  "fps": 30,
+  "voiceId": "FGY2WhTYpPnrIDTdsKH5",
+  "modelId": "eleven_multilingual_v2",
+  "totalSeconds": 56.4667,
+  "totalFrames": 1694,
+  "scenes": [
+    {
+      "id": "01-hook",
+      "audio": "01-hook.mp3",
+      "text": "An idea is not a business yet. A business is a system that does three things.",
+      "speechSeconds": 4.598,
+      "durationSeconds": 5.198,
+      "durationFrames": 156,
+      "startFrame": 0,
+      "words": [
+        {
+          "word": "An",
+          "startSec": 0.0,
+          "endSec": 0.151,
+          "startFrame": 0,
+          "endFrame": 5
+        },
+        {
+          "word": "idea",
+          "startSec": 0.209,
+          "endSec": 0.615,
+          "startFrame": 6,
+          "endFrame": 18
+        },
+        {
+          "word": "is",
+          "startSec": 0.708,
+          "endSec": 0.824,
+          "startFrame": 21,
+          "endFrame": 25
+        },
+        {
+          "word": "not",
+          "startSec": 0.894,
+          "endSec": 1.033,
+          "startFrame": 27,
+          "endFrame": 31
+        },
+        {
+          "word": "a",
+          "startSec": 1.068,
+          "endSec": 1.091,
+          "startFrame": 32,
+          "endFrame": 33
+        },
+        {
+          "word": "business",
+          "startSec": 1.138,
+          "endSec": 1.498,
+          "startFrame": 34,
+          "endFrame": 45
+        },
+        {
+          "word": "yet.",
+          "startSec": 1.533,
+          "endSec": 1.892,
+          "startFrame": 46,
+          "endFrame": 57
+        },
+        {
+          "word": "A",
+          "startSec": 1.962,
+          "endSec": 2.043,
+          "startFrame": 59,
+          "endFrame": 61
+        },
+        {
+          "word": "business",
+          "startSec": 2.125,
+          "endSec": 2.543,
+          "startFrame": 64,
+          "endFrame": 76
+        },
+        {
+          "word": "is",
+          "startSec": 2.612,
+          "endSec": 2.705,
+          "startFrame": 78,
+          "endFrame": 81
+        },
+        {
+          "word": "a",
+          "startSec": 2.763,
+          "endSec": 2.786,
+          "startFrame": 83,
+          "endFrame": 84
+        },
+        {
+          "word": "system",
+          "startSec": 2.844,
+          "endSec": 3.204,
+          "startFrame": 85,
+          "endFrame": 96
+        },
+        {
+          "word": "that",
+          "startSec": 3.251,
+          "endSec": 3.379,
+          "startFrame": 98,
+          "endFrame": 101
+        },
+        {
+          "word": "does",
+          "startSec": 3.413,
+          "endSec": 3.599,
+          "startFrame": 102,
+          "endFrame": 108
+        },
+        {
+          "word": "three",
+          "startSec": 3.646,
+          "endSec": 3.866,
+          "startFrame": 109,
+          "endFrame": 116
+        },
+        {
+          "word": "things.",
+          "startSec": 3.901,
+          "endSec": 4.598,
+          "startFrame": 117,
+          "endFrame": 138
+        }
+      ]
+    },
+    {
+      "id": "02-create",
+      "audio": "02-create.mp3",
+      "text": "First, it creates value. It solves a real problem for a real person. Like a leaky faucet at midnight, or a freelancer waiting six weeks to get paid.",
+      "speechSeconds": 9.149,
+      "durationSeconds": 9.749,
+      "durationFrames": 292,
+      "startFrame": 156,
+      "words": [
+        {
+          "word": "First,",
+          "startSec": 0.0,
+          "endSec": 0.441,
+          "startFrame": 0,
+          "endFrame": 13
+        },
+        {
+          "word": "it",
+          "startSec": 0.464,
+          "endSec": 0.569,
+          "startFrame": 14,
+          "endFrame": 17
+        },
+        {
+          "word": "creates",
+          "startSec": 0.627,
+          "endSec": 0.975,
+          "startFrame": 19,
+          "endFrame": 29
+        },
+        {
+          "word": "value.",
+          "startSec": 1.033,
+          "endSec": 1.567,
+          "startFrame": 31,
+          "endFrame": 47
+        },
+        {
+          "word": "It",
+          "startSec": 1.695,
+          "endSec": 1.834,
+          "startFrame": 51,
+          "endFrame": 55
+        },
+        {
+          "word": "solves",
+          "startSec": 1.892,
+          "endSec": 2.229,
+          "startFrame": 57,
+          "endFrame": 67
+        },
+        {
+          "word": "a",
+          "startSec": 2.276,
+          "endSec": 2.299,
+          "startFrame": 68,
+          "endFrame": 69
+        },
+        {
+          "word": "real",
+          "startSec": 2.368,
+          "endSec": 2.531,
+          "startFrame": 71,
+          "endFrame": 76
+        },
+        {
+          "word": "problem",
+          "startSec": 2.589,
+          "endSec": 2.995,
+          "startFrame": 78,
+          "endFrame": 90
+        },
+        {
+          "word": "for",
+          "startSec": 3.065,
+          "endSec": 3.193,
+          "startFrame": 92,
+          "endFrame": 96
+        },
+        {
+          "word": "a",
+          "startSec": 3.251,
+          "endSec": 3.274,
+          "startFrame": 98,
+          "endFrame": 98
+        },
+        {
+          "word": "real",
+          "startSec": 3.344,
+          "endSec": 3.506,
+          "startFrame": 100,
+          "endFrame": 105
+        },
+        {
+          "word": "person.",
+          "startSec": 3.576,
+          "endSec": 4.087,
+          "startFrame": 107,
+          "endFrame": 123
+        },
+        {
+          "word": "Like",
+          "startSec": 4.528,
+          "endSec": 4.795,
+          "startFrame": 136,
+          "endFrame": 144
+        },
+        {
+          "word": "a",
+          "startSec": 4.83,
+          "endSec": 4.865,
+          "startFrame": 145,
+          "endFrame": 146
+        },
+        {
+          "word": "leaky",
+          "startSec": 4.934,
+          "endSec": 5.201,
+          "startFrame": 148,
+          "endFrame": 156
+        },
+        {
+          "word": "faucet",
+          "startSec": 5.259,
+          "endSec": 5.608,
+          "startFrame": 158,
+          "endFrame": 168
+        },
+        {
+          "word": "at",
+          "startSec": 5.654,
+          "endSec": 5.712,
+          "startFrame": 170,
+          "endFrame": 171
+        },
+        {
+          "word": "midnight,",
+          "startSec": 5.759,
+          "endSec": 6.269,
+          "startFrame": 173,
+          "endFrame": 188
+        },
+        {
+          "word": "or",
+          "startSec": 6.385,
+          "endSec": 6.618,
+          "startFrame": 192,
+          "endFrame": 199
+        },
+        {
+          "word": "a",
+          "startSec": 6.676,
+          "endSec": 6.711,
+          "startFrame": 200,
+          "endFrame": 201
+        },
+        {
+          "word": "freelancer",
+          "startSec": 6.757,
+          "endSec": 7.314,
+          "startFrame": 203,
+          "endFrame": 219
+        },
+        {
+          "word": "waiting",
+          "startSec": 7.384,
+          "endSec": 7.639,
+          "startFrame": 222,
+          "endFrame": 229
+        },
+        {
+          "word": "six",
+          "startSec": 7.697,
+          "endSec": 7.906,
+          "startFrame": 231,
+          "endFrame": 237
+        },
+        {
+          "word": "weeks",
+          "startSec": 7.964,
+          "endSec": 8.208,
+          "startFrame": 239,
+          "endFrame": 246
+        },
+        {
+          "word": "to",
+          "startSec": 8.243,
+          "endSec": 8.301,
+          "startFrame": 247,
+          "endFrame": 249
+        },
+        {
+          "word": "get",
+          "startSec": 8.348,
+          "endSec": 8.464,
+          "startFrame": 250,
+          "endFrame": 254
+        },
+        {
+          "word": "paid.",
+          "startSec": 8.499,
+          "endSec": 9.149,
+          "startFrame": 255,
+          "endFrame": 274
+        }
+      ]
+    },
+    {
+      "id": "03-deliver",
+      "audio": "03-deliver.mp3",
+      "text": "Then it delivers that value reliably. A product shipped, a service done, an app used, a marketplace matched.",
+      "speechSeconds": 7.105,
+      "durationSeconds": 7.705,
+      "durationFrames": 231,
+      "startFrame": 448,
+      "words": [
+        {
+          "word": "Then",
+          "startSec": 0.0,
+          "endSec": 0.221,
+          "startFrame": 0,
+          "endFrame": 7
+        },
+        {
+          "word": "it",
+          "startSec": 0.267,
+          "endSec": 0.337,
+          "startFrame": 8,
+          "endFrame": 10
+        },
+        {
+          "word": "delivers",
+          "startSec": 0.372,
+          "endSec": 0.789,
+          "startFrame": 11,
+          "endFrame": 24
+        },
+        {
+          "word": "that",
+          "startSec": 0.836,
+          "endSec": 0.987,
+          "startFrame": 25,
+          "endFrame": 30
+        },
+        {
+          "word": "value",
+          "startSec": 1.045,
+          "endSec": 1.393,
+          "startFrame": 31,
+          "endFrame": 42
+        },
+        {
+          "word": "reliably.",
+          "startSec": 1.44,
+          "endSec": 2.171,
+          "startFrame": 43,
+          "endFrame": 65
+        },
+        {
+          "word": "A",
+          "startSec": 2.554,
+          "endSec": 2.635,
+          "startFrame": 77,
+          "endFrame": 79
+        },
+        {
+          "word": "product",
+          "startSec": 2.705,
+          "endSec": 3.077,
+          "startFrame": 81,
+          "endFrame": 92
+        },
+        {
+          "word": "shipped,",
+          "startSec": 3.111,
+          "endSec": 3.576,
+          "startFrame": 93,
+          "endFrame": 107
+        },
+        {
+          "word": "a",
+          "startSec": 3.669,
+          "endSec": 3.727,
+          "startFrame": 110,
+          "endFrame": 112
+        },
+        {
+          "word": "service",
+          "startSec": 3.808,
+          "endSec": 4.145,
+          "startFrame": 114,
+          "endFrame": 124
+        },
+        {
+          "word": "done,",
+          "startSec": 4.18,
+          "endSec": 4.516,
+          "startFrame": 125,
+          "endFrame": 135
+        },
+        {
+          "word": "an",
+          "startSec": 4.609,
+          "endSec": 4.737,
+          "startFrame": 138,
+          "endFrame": 142
+        },
+        {
+          "word": "app",
+          "startSec": 4.818,
+          "endSec": 5.027,
+          "startFrame": 145,
+          "endFrame": 151
+        },
+        {
+          "word": "used,",
+          "startSec": 5.108,
+          "endSec": 5.503,
+          "startFrame": 153,
+          "endFrame": 165
+        },
+        {
+          "word": "a",
+          "startSec": 5.573,
+          "endSec": 5.631,
+          "startFrame": 167,
+          "endFrame": 169
+        },
+        {
+          "word": "marketplace",
+          "startSec": 5.724,
+          "endSec": 6.304,
+          "startFrame": 172,
+          "endFrame": 189
+        },
+        {
+          "word": "matched.",
+          "startSec": 6.351,
+          "endSec": 7.105,
+          "startFrame": 191,
+          "endFrame": 213
+        }
+      ]
+    },
+    {
+      "id": "04-capture",
+      "audio": "04-capture.mp3",
+      "text": "And it captures part of that value back. Money is what the customer pays, like ten dollars at the till. Margin is what's left after costs, maybe two dollars. Cash is what's actually in the bank on Friday.",
+      "speechSeconds": 12.074,
+      "durationSeconds": 12.674,
+      "durationFrames": 380,
+      "startFrame": 679,
+      "words": [
+        {
+          "word": "And",
+          "startSec": 0.0,
+          "endSec": 0.151,
+          "startFrame": 0,
+          "endFrame": 5
+        },
+        {
+          "word": "it",
+          "startSec": 0.197,
+          "endSec": 0.244,
+          "startFrame": 6,
+          "endFrame": 7
+        },
+        {
+          "word": "captures",
+          "startSec": 0.29,
+          "endSec": 0.72,
+          "startFrame": 9,
+          "endFrame": 22
+        },
+        {
+          "word": "part",
+          "startSec": 0.801,
+          "endSec": 0.975,
+          "startFrame": 24,
+          "endFrame": 29
+        },
+        {
+          "word": "of",
+          "startSec": 1.01,
+          "endSec": 1.057,
+          "startFrame": 30,
+          "endFrame": 32
+        },
+        {
+          "word": "that",
+          "startSec": 1.091,
+          "endSec": 1.219,
+          "startFrame": 33,
+          "endFrame": 37
+        },
+        {
+          "word": "value",
+          "startSec": 1.265,
+          "endSec": 1.567,
+          "startFrame": 38,
+          "endFrame": 47
+        },
+        {
+          "word": "back.",
+          "startSec": 1.591,
+          "endSec": 2.043,
+          "startFrame": 48,
+          "endFrame": 61
+        },
+        {
+          "word": "Money",
+          "startSec": 2.368,
+          "endSec": 2.612,
+          "startFrame": 71,
+          "endFrame": 78
+        },
+        {
+          "word": "is",
+          "startSec": 2.659,
+          "endSec": 2.728,
+          "startFrame": 80,
+          "endFrame": 82
+        },
+        {
+          "word": "what",
+          "startSec": 2.775,
+          "endSec": 2.902,
+          "startFrame": 83,
+          "endFrame": 87
+        },
+        {
+          "word": "the",
+          "startSec": 2.937,
+          "endSec": 3.007,
+          "startFrame": 88,
+          "endFrame": 90
+        },
+        {
+          "word": "customer",
+          "startSec": 3.042,
+          "endSec": 3.471,
+          "startFrame": 91,
+          "endFrame": 104
+        },
+        {
+          "word": "pays,",
+          "startSec": 3.541,
+          "endSec": 4.029,
+          "startFrame": 106,
+          "endFrame": 121
+        },
+        {
+          "word": "like",
+          "startSec": 4.087,
+          "endSec": 4.272,
+          "startFrame": 123,
+          "endFrame": 128
+        },
+        {
+          "word": "ten",
+          "startSec": 4.307,
+          "endSec": 4.47,
+          "startFrame": 129,
+          "endFrame": 134
+        },
+        {
+          "word": "dollars",
+          "startSec": 4.516,
+          "endSec": 4.83,
+          "startFrame": 135,
+          "endFrame": 145
+        },
+        {
+          "word": "at",
+          "startSec": 4.876,
+          "endSec": 4.946,
+          "startFrame": 146,
+          "endFrame": 148
+        },
+        {
+          "word": "the",
+          "startSec": 4.981,
+          "endSec": 5.05,
+          "startFrame": 149,
+          "endFrame": 152
+        },
+        {
+          "word": "till.",
+          "startSec": 5.085,
+          "endSec": 5.608,
+          "startFrame": 153,
+          "endFrame": 168
+        },
+        {
+          "word": "Margin",
+          "startSec": 5.933,
+          "endSec": 6.397,
+          "startFrame": 178,
+          "endFrame": 192
+        },
+        {
+          "word": "is",
+          "startSec": 6.467,
+          "endSec": 6.56,
+          "startFrame": 194,
+          "endFrame": 197
+        },
+        {
+          "word": "what's",
+          "startSec": 6.606,
+          "endSec": 6.803,
+          "startFrame": 198,
+          "endFrame": 204
+        },
+        {
+          "word": "left",
+          "startSec": 6.873,
+          "endSec": 7.117,
+          "startFrame": 206,
+          "endFrame": 214
+        },
+        {
+          "word": "after",
+          "startSec": 7.163,
+          "endSec": 7.361,
+          "startFrame": 215,
+          "endFrame": 221
+        },
+        {
+          "word": "costs,",
+          "startSec": 7.43,
+          "endSec": 8.069,
+          "startFrame": 223,
+          "endFrame": 242
+        },
+        {
+          "word": "maybe",
+          "startSec": 8.127,
+          "endSec": 8.406,
+          "startFrame": 244,
+          "endFrame": 252
+        },
+        {
+          "word": "two",
+          "startSec": 8.44,
+          "endSec": 8.58,
+          "startFrame": 253,
+          "endFrame": 257
+        },
+        {
+          "word": "dollars.",
+          "startSec": 8.626,
+          "endSec": 9.265,
+          "startFrame": 259,
+          "endFrame": 278
+        },
+        {
+          "word": "Cash",
+          "startSec": 9.543,
+          "endSec": 9.88,
+          "startFrame": 286,
+          "endFrame": 296
+        },
+        {
+          "word": "is",
+          "startSec": 9.927,
+          "endSec": 9.996,
+          "startFrame": 298,
+          "endFrame": 300
+        },
+        {
+          "word": "what's",
+          "startSec": 10.054,
+          "endSec": 10.252,
+          "startFrame": 302,
+          "endFrame": 308
+        },
+        {
+          "word": "actually",
+          "startSec": 10.298,
+          "endSec": 10.693,
+          "startFrame": 309,
+          "endFrame": 321
+        },
+        {
+          "word": "in",
+          "startSec": 10.739,
+          "endSec": 10.786,
+          "startFrame": 322,
+          "endFrame": 324
+        },
+        {
+          "word": "the",
+          "startSec": 10.82,
+          "endSec": 10.89,
+          "startFrame": 325,
+          "endFrame": 327
+        },
+        {
+          "word": "bank",
+          "startSec": 10.925,
+          "endSec": 11.122,
+          "startFrame": 328,
+          "endFrame": 334
+        },
+        {
+          "word": "on",
+          "startSec": 11.18,
+          "endSec": 11.25,
+          "startFrame": 335,
+          "endFrame": 338
+        },
+        {
+          "word": "Friday.",
+          "startSec": 11.308,
+          "endSec": 12.074,
+          "startFrame": 339,
+          "endFrame": 362
+        }
+      ]
+    },
+    {
+      "id": "05-breaks",
+      "audio": "05-breaks.mp3",
+      "text": "If one side is weak, the loop is stuck. Good idea, no buyer. Lots of orders, no margin. Busy work, no real value.",
+      "speechSeconds": 7.895,
+      "durationSeconds": 8.495,
+      "durationFrames": 255,
+      "startFrame": 1059,
+      "words": [
+        {
+          "word": "If",
+          "startSec": 0.0,
+          "endSec": 0.151,
+          "startFrame": 0,
+          "endFrame": 5
+        },
+        {
+          "word": "one",
+          "startSec": 0.221,
+          "endSec": 0.395,
+          "startFrame": 7,
+          "endFrame": 12
+        },
+        {
+          "word": "side",
+          "startSec": 0.43,
+          "endSec": 0.639,
+          "startFrame": 13,
+          "endFrame": 19
+        },
+        {
+          "word": "is",
+          "startSec": 0.673,
+          "endSec": 0.743,
+          "startFrame": 20,
+          "endFrame": 22
+        },
+        {
+          "word": "weak,",
+          "startSec": 0.813,
+          "endSec": 1.091,
+          "startFrame": 24,
+          "endFrame": 33
+        },
+        {
+          "word": "the",
+          "startSec": 1.126,
+          "endSec": 1.207,
+          "startFrame": 34,
+          "endFrame": 36
+        },
+        {
+          "word": "loop",
+          "startSec": 1.265,
+          "endSec": 1.44,
+          "startFrame": 38,
+          "endFrame": 43
+        },
+        {
+          "word": "is",
+          "startSec": 1.498,
+          "endSec": 1.556,
+          "startFrame": 45,
+          "endFrame": 47
+        },
+        {
+          "word": "stuck.",
+          "startSec": 1.591,
+          "endSec": 2.067,
+          "startFrame": 48,
+          "endFrame": 62
+        },
+        {
+          "word": "Good",
+          "startSec": 2.183,
+          "endSec": 2.357,
+          "startFrame": 65,
+          "endFrame": 71
+        },
+        {
+          "word": "idea,",
+          "startSec": 2.392,
+          "endSec": 2.856,
+          "startFrame": 72,
+          "endFrame": 86
+        },
+        {
+          "word": "no",
+          "startSec": 2.972,
+          "endSec": 3.1,
+          "startFrame": 89,
+          "endFrame": 93
+        },
+        {
+          "word": "buyer.",
+          "startSec": 3.158,
+          "endSec": 3.622,
+          "startFrame": 95,
+          "endFrame": 109
+        },
+        {
+          "word": "Lots",
+          "startSec": 4.005,
+          "endSec": 4.249,
+          "startFrame": 120,
+          "endFrame": 127
+        },
+        {
+          "word": "of",
+          "startSec": 4.284,
+          "endSec": 4.342,
+          "startFrame": 129,
+          "endFrame": 130
+        },
+        {
+          "word": "orders,",
+          "startSec": 4.412,
+          "endSec": 4.888,
+          "startFrame": 132,
+          "endFrame": 147
+        },
+        {
+          "word": "no",
+          "startSec": 5.004,
+          "endSec": 5.132,
+          "startFrame": 150,
+          "endFrame": 154
+        },
+        {
+          "word": "margin.",
+          "startSec": 5.201,
+          "endSec": 5.712,
+          "startFrame": 156,
+          "endFrame": 171
+        },
+        {
+          "word": "Busy",
+          "startSec": 5.863,
+          "endSec": 6.13,
+          "startFrame": 176,
+          "endFrame": 184
+        },
+        {
+          "word": "work,",
+          "startSec": 6.188,
+          "endSec": 6.594,
+          "startFrame": 186,
+          "endFrame": 198
+        },
+        {
+          "word": "no",
+          "startSec": 6.769,
+          "endSec": 6.896,
+          "startFrame": 203,
+          "endFrame": 207
+        },
+        {
+          "word": "real",
+          "startSec": 6.954,
+          "endSec": 7.117,
+          "startFrame": 209,
+          "endFrame": 214
+        },
+        {
+          "word": "value.",
+          "startSec": 7.163,
+          "endSec": 7.895,
+          "startFrame": 215,
+          "endFrame": 237
+        }
+      ]
+    },
+    {
+      "id": "06-types",
+      "audio": "06-types.mp3",
+      "text": "Software like Notion. Services like a plumber. Products like a coffee roaster. Same loop. The weak side is just different.",
+      "speechSeconds": 7.245,
+      "durationSeconds": 7.845,
+      "durationFrames": 235,
+      "startFrame": 1314,
+      "words": [
+        {
+          "word": "Software",
+          "startSec": 0.0,
+          "endSec": 0.569,
+          "startFrame": 0,
+          "endFrame": 17
+        },
+        {
+          "word": "like",
+          "startSec": 0.615,
+          "endSec": 0.801,
+          "startFrame": 18,
+          "endFrame": 24
+        },
+        {
+          "word": "Notion.",
+          "startSec": 0.859,
+          "endSec": 1.358,
+          "startFrame": 26,
+          "endFrame": 41
+        },
+        {
+          "word": "Services",
+          "startSec": 1.474,
+          "endSec": 1.997,
+          "startFrame": 44,
+          "endFrame": 60
+        },
+        {
+          "word": "like",
+          "startSec": 2.055,
+          "endSec": 2.206,
+          "startFrame": 62,
+          "endFrame": 66
+        },
+        {
+          "word": "a",
+          "startSec": 2.229,
+          "endSec": 2.264,
+          "startFrame": 67,
+          "endFrame": 68
+        },
+        {
+          "word": "plumber.",
+          "startSec": 2.299,
+          "endSec": 2.786,
+          "startFrame": 69,
+          "endFrame": 84
+        },
+        {
+          "word": "Products",
+          "startSec": 2.937,
+          "endSec": 3.355,
+          "startFrame": 88,
+          "endFrame": 101
+        },
+        {
+          "word": "like",
+          "startSec": 3.402,
+          "endSec": 3.541,
+          "startFrame": 102,
+          "endFrame": 106
+        },
+        {
+          "word": "a",
+          "startSec": 3.576,
+          "endSec": 3.599,
+          "startFrame": 107,
+          "endFrame": 108
+        },
+        {
+          "word": "coffee",
+          "startSec": 3.657,
+          "endSec": 3.959,
+          "startFrame": 110,
+          "endFrame": 119
+        },
+        {
+          "word": "roaster.",
+          "startSec": 4.017,
+          "endSec": 4.493,
+          "startFrame": 121,
+          "endFrame": 135
+        },
+        {
+          "word": "Same",
+          "startSec": 4.644,
+          "endSec": 4.934,
+          "startFrame": 139,
+          "endFrame": 148
+        },
+        {
+          "word": "loop.",
+          "startSec": 4.969,
+          "endSec": 5.306,
+          "startFrame": 149,
+          "endFrame": 159
+        },
+        {
+          "word": "The",
+          "startSec": 5.387,
+          "endSec": 5.492,
+          "startFrame": 162,
+          "endFrame": 165
+        },
+        {
+          "word": "weak",
+          "startSec": 5.55,
+          "endSec": 5.735,
+          "startFrame": 166,
+          "endFrame": 172
+        },
+        {
+          "word": "side",
+          "startSec": 5.782,
+          "endSec": 6.06,
+          "startFrame": 173,
+          "endFrame": 182
+        },
+        {
+          "word": "is",
+          "startSec": 6.095,
+          "endSec": 6.177,
+          "startFrame": 183,
+          "endFrame": 185
+        },
+        {
+          "word": "just",
+          "startSec": 6.258,
+          "endSec": 6.467,
+          "startFrame": 188,
+          "endFrame": 194
+        },
+        {
+          "word": "different.",
+          "startSec": 6.513,
+          "endSec": 7.245,
+          "startFrame": 195,
+          "endFrame": 217
+        }
+      ]
+    },
+    {
+      "id": "07-outro",
+      "audio": "07-outro.mp3",
+      "text": "So the real question is simple. Where is your loop weakest? Start there.",
+      "speechSeconds": 4.226,
+      "durationSeconds": 4.826,
+      "durationFrames": 145,
+      "startFrame": 1549,
+      "words": [
+        {
+          "word": "So",
+          "startSec": 0.0,
+          "endSec": 0.163,
+          "startFrame": 0,
+          "endFrame": 5
+        },
+        {
+          "word": "the",
+          "startSec": 0.221,
+          "endSec": 0.29,
+          "startFrame": 7,
+          "endFrame": 9
+        },
+        {
+          "word": "real",
+          "startSec": 0.372,
+          "endSec": 0.569,
+          "startFrame": 11,
+          "endFrame": 17
+        },
+        {
+          "word": "question",
+          "startSec": 0.639,
+          "endSec": 1.033,
+          "startFrame": 19,
+          "endFrame": 31
+        },
+        {
+          "word": "is",
+          "startSec": 1.091,
+          "endSec": 1.161,
+          "startFrame": 33,
+          "endFrame": 35
+        },
+        {
+          "word": "simple.",
+          "startSec": 1.207,
+          "endSec": 1.683,
+          "startFrame": 36,
+          "endFrame": 50
+        },
+        {
+          "word": "Where",
+          "startSec": 1.892,
+          "endSec": 2.136,
+          "startFrame": 57,
+          "endFrame": 64
+        },
+        {
+          "word": "is",
+          "startSec": 2.159,
+          "endSec": 2.206,
+          "startFrame": 65,
+          "endFrame": 66
+        },
+        {
+          "word": "your",
+          "startSec": 2.252,
+          "endSec": 2.357,
+          "startFrame": 68,
+          "endFrame": 71
+        },
+        {
+          "word": "loop",
+          "startSec": 2.415,
+          "endSec": 2.601,
+          "startFrame": 72,
+          "endFrame": 78
+        },
+        {
+          "word": "weakest?",
+          "startSec": 2.659,
+          "endSec": 3.239,
+          "startFrame": 80,
+          "endFrame": 97
+        },
+        {
+          "word": "Start",
+          "startSec": 3.32,
+          "endSec": 3.599,
+          "startFrame": 100,
+          "endFrame": 108
+        },
+        {
+          "word": "there.",
+          "startSec": 3.634,
+          "endSec": 4.226,
+          "startFrame": 109,
+          "endFrame": 127
+        }
+      ]
+    }
+  ]
+}

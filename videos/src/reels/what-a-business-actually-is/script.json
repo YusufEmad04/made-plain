@@ -1,0 +1,42 @@
+{
+    "voice_id": "FGY2WhTYpPnrIDTdsKH5",
+    "voice_name": "Laura — Enthusiast, Quirky Attitude (social media, young female)",
+    "model_id": "eleven_multilingual_v2",
+    "voice_settings": {
+        "stability": 0.4,
+        "similarity_boost": 0.78,
+        "style": 0.45,
+        "use_speaker_boost": true
+    },
+    "pad_seconds": 0.6,
+    "scenes": [
+        {
+            "id": "01-hook",
+            "text": "An idea is not a business yet. A business is a system that does three things."
+        },
+        {
+            "id": "02-create",
+            "text": "First, it creates value. It solves a real problem for a real person. Like a leaky faucet at midnight, or a freelancer waiting six weeks to get paid."
+        },
+        {
+            "id": "03-deliver",
+            "text": "Then it delivers that value reliably. A product shipped, a service done, an app used, a marketplace matched."
+        },
+        {
+            "id": "04-capture",
+            "text": "And it captures part of that value back. Money is what the customer pays, like ten dollars at the till. Margin is what's left after costs, maybe two dollars. Cash is what's actually in the bank on Friday."
+        },
+        {
+            "id": "05-breaks",
+            "text": "If one side is weak, the loop is stuck. Good idea, no buyer. Lots of orders, no margin. Busy work, no real value."
+        },
+        {
+            "id": "06-types",
+            "text": "Software like Notion. Services like a plumber. Products like a coffee roaster. Same loop. The weak side is just different."
+        },
+        {
+            "id": "07-outro",
+            "text": "So the real question is simple. Where is your loop weakest? Start there."
+        }
+    ]
+}

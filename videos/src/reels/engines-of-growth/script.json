@@ -1,0 +1,54 @@
+{
+    "voice_id": "FGY2WhTYpPnrIDTdsKH5",
+    "voice_name": "Laura — V7 plain explainer with brand examples",
+    "model_id": "eleven_multilingual_v2",
+    "voice_settings": {
+        "stability": 0.5,
+        "similarity_boost": 0.78,
+        "style": 0.22,
+        "use_speaker_boost": true
+    },
+    "pad_seconds": 0.75,
+    "scenes": [
+        {
+            "id": "01-problem",
+            "text": "Growth is not one thing. Spotify, TikTok, and an Amazon store all grow, but by very different rules. First pick the engine."
+        },
+        {
+            "id": "02-framework",
+            "text": "There are three. Sticky protects a base. Viral builds a crowd. Paid buys customers profitably. Each has one test."
+        },
+        {
+            "id": "03-sticky",
+            "text": "Sticky means retention, like Spotify. New customers pour in. Churn leaks out when people cancel. If twenty join and eight leave, the base rises. New must beat churn."
+        },
+        {
+            "id": "04-sticky-example",
+            "text": "Sticky's real prize is MRR, monthly recurring revenue. Spotify charges ten dollars a month per user. A million users means ten million MRR. ARR is MRR times twelve. Churn one, and twelve months of revenue disappear."
+        },
+        {
+            "id": "05-viral",
+            "text": "Viral means users bring users, like TikTok. K is the average number of new users each user creates. Above one, branches multiply. Below one, the chain fades."
+        },
+        {
+            "id": "06-viral-example",
+            "text": "But why build an audience? Because some businesses sell access to the crowd. Amazon needs buyers before sellers care. YouTube needs attention before sponsors pay. The audience is the product."
+        },
+        {
+            "id": "07-paid",
+            "text": "Paid is a money machine. CAC is the cost to win one customer. Spend forty in ads, get one Shopify customer. LTV is what that customer pays back over time. Thirty a month for four months is one twenty. Forty in, one twenty out, scale it. But if it costs ninety to win a customer who only pays sixty, every new sale deepens the loss."
+        },
+        {
+            "id": "08-trap",
+            "text": "The wrong engine creates traps. Ads cannot patch a leaky subscription. Buying isolated users does not make a network. And going viral cannot fix a product that loses money on every sale."
+        },
+        {
+            "id": "09-diagnostic",
+            "text": "Choose by asking one thing. Do customers repeat, like Spotify? Sticky. Do users make the network valuable, like TikTok? Viral. Do you buy customers one at a time, like Shopify ads? Paid."
+        },
+        {
+            "id": "10-outro",
+            "text": "Pick the engine your business needs. Then make its equation true."
+        }
+    ]
+}

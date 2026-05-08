@@ -1,0 +1,2233 @@
+{
+  "fps": 30,
+  "voiceId": "FGY2WhTYpPnrIDTdsKH5",
+  "modelId": "eleven_multilingual_v2",
+  "totalSeconds": 120.1667,
+  "totalFrames": 3605,
+  "scenes": [
+    {
+      "id": "01-problem",
+      "audio": "01-problem.mp3",
+      "text": "Growth is not one thing. Spotify, TikTok, and an Amazon store all grow, but by very different rules. First pick the engine.",
+      "speechSeconds": 8.173,
+      "durationSeconds": 8.923,
+      "durationFrames": 268,
+      "startFrame": 0,
+      "words": [
+        {
+          "word": "Growth",
+          "startSec": 0.0,
+          "endSec": 0.348,
+          "startFrame": 0,
+          "endFrame": 10
+        },
+        {
+          "word": "is",
+          "startSec": 0.395,
+          "endSec": 0.476,
+          "startFrame": 12,
+          "endFrame": 14
+        },
+        {
+          "word": "not",
+          "startSec": 0.534,
+          "endSec": 0.685,
+          "startFrame": 16,
+          "endFrame": 21
+        },
+        {
+          "word": "one",
+          "startSec": 0.755,
+          "endSec": 0.917,
+          "startFrame": 23,
+          "endFrame": 28
+        },
+        {
+          "word": "thing.",
+          "startSec": 0.952,
+          "endSec": 1.312,
+          "startFrame": 29,
+          "endFrame": 39
+        },
+        {
+          "word": "Spotify,",
+          "startSec": 1.486,
+          "endSec": 2.183,
+          "startFrame": 45,
+          "endFrame": 65
+        },
+        {
+          "word": "TikTok,",
+          "startSec": 2.241,
+          "endSec": 2.844,
+          "startFrame": 67,
+          "endFrame": 85
+        },
+        {
+          "word": "and",
+          "startSec": 2.868,
+          "endSec": 2.972,
+          "startFrame": 86,
+          "endFrame": 89
+        },
+        {
+          "word": "an",
+          "startSec": 3.019,
+          "endSec": 3.077,
+          "startFrame": 91,
+          "endFrame": 92
+        },
+        {
+          "word": "Amazon",
+          "startSec": 3.146,
+          "endSec": 3.634,
+          "startFrame": 94,
+          "endFrame": 109
+        },
+        {
+          "word": "store",
+          "startSec": 3.692,
+          "endSec": 4.005,
+          "startFrame": 111,
+          "endFrame": 120
+        },
+        {
+          "word": "all",
+          "startSec": 4.063,
+          "endSec": 4.272,
+          "startFrame": 122,
+          "endFrame": 128
+        },
+        {
+          "word": "grow,",
+          "startSec": 4.342,
+          "endSec": 4.714,
+          "startFrame": 130,
+          "endFrame": 141
+        },
+        {
+          "word": "but",
+          "startSec": 4.83,
+          "endSec": 4.992,
+          "startFrame": 145,
+          "endFrame": 150
+        },
+        {
+          "word": "by",
+          "startSec": 5.039,
+          "endSec": 5.201,
+          "startFrame": 151,
+          "endFrame": 156
+        },
+        {
+          "word": "very",
+          "startSec": 5.294,
+          "endSec": 5.538,
+          "startFrame": 159,
+          "endFrame": 166
+        },
+        {
+          "word": "different",
+          "startSec": 5.584,
+          "endSec": 5.863,
+          "startFrame": 168,
+          "endFrame": 176
+        },
+        {
+          "word": "rules.",
+          "startSec": 5.898,
+          "endSec": 6.362,
+          "startFrame": 177,
+          "endFrame": 191
+        },
+        {
+          "word": "First",
+          "startSec": 6.803,
+          "endSec": 7.082,
+          "startFrame": 204,
+          "endFrame": 212
+        },
+        {
+          "word": "pick",
+          "startSec": 7.129,
+          "endSec": 7.303,
+          "startFrame": 214,
+          "endFrame": 219
+        },
+        {
+          "word": "the",
+          "startSec": 7.361,
+          "endSec": 7.43,
+          "startFrame": 221,
+          "endFrame": 223
+        },
+        {
+          "word": "engine.",
+          "startSec": 7.5,
+          "endSec": 8.173,
+          "startFrame": 225,
+          "endFrame": 245
+        }
+      ]
+    },
+    {
+      "id": "02-framework",
+      "audio": "02-framework.mp3",
+      "text": "There are three. Sticky protects a base. Viral builds a crowd. Paid buys customers profitably. Each has one test.",
+      "speechSeconds": 7.848,
+      "durationSeconds": 8.598,
+      "durationFrames": 258,
+      "startFrame": 268,
+      "words": [
+        {
+          "word": "There",
+          "startSec": 0.0,
+          "endSec": 0.232,
+          "startFrame": 0,
+          "endFrame": 7
+        },
+        {
+          "word": "are",
+          "startSec": 0.267,
+          "endSec": 0.36,
+          "startFrame": 8,
+          "endFrame": 11
+        },
+        {
+          "word": "three.",
+          "startSec": 0.395,
+          "endSec": 0.789,
+          "startFrame": 12,
+          "endFrame": 24
+        },
+        {
+          "word": "Sticky",
+          "startSec": 0.998,
+          "endSec": 1.37,
+          "startFrame": 30,
+          "endFrame": 41
+        },
+        {
+          "word": "protects",
+          "startSec": 1.44,
+          "endSec": 1.823,
+          "startFrame": 43,
+          "endFrame": 55
+        },
+        {
+          "word": "a",
+          "startSec": 1.858,
+          "endSec": 1.881,
+          "startFrame": 56,
+          "endFrame": 56
+        },
+        {
+          "word": "base.",
+          "startSec": 1.927,
+          "endSec": 2.415,
+          "startFrame": 58,
+          "endFrame": 72
+        },
+        {
+          "word": "Viral",
+          "startSec": 2.74,
+          "endSec": 3.111,
+          "startFrame": 82,
+          "endFrame": 93
+        },
+        {
+          "word": "builds",
+          "startSec": 3.17,
+          "endSec": 3.413,
+          "startFrame": 95,
+          "endFrame": 102
+        },
+        {
+          "word": "a",
+          "startSec": 3.448,
+          "endSec": 3.471,
+          "startFrame": 103,
+          "endFrame": 104
+        },
+        {
+          "word": "crowd.",
+          "startSec": 3.518,
+          "endSec": 4.005,
+          "startFrame": 106,
+          "endFrame": 120
+        },
+        {
+          "word": "Paid",
+          "startSec": 4.284,
+          "endSec": 4.528,
+          "startFrame": 129,
+          "endFrame": 136
+        },
+        {
+          "word": "buys",
+          "startSec": 4.586,
+          "endSec": 4.853,
+          "startFrame": 138,
+          "endFrame": 146
+        },
+        {
+          "word": "customers",
+          "startSec": 4.923,
+          "endSec": 5.399,
+          "startFrame": 148,
+          "endFrame": 162
+        },
+        {
+          "word": "profitably.",
+          "startSec": 5.445,
+          "endSec": 6.177,
+          "startFrame": 163,
+          "endFrame": 185
+        },
+        {
+          "word": "Each",
+          "startSec": 6.385,
+          "endSec": 6.594,
+          "startFrame": 192,
+          "endFrame": 198
+        },
+        {
+          "word": "has",
+          "startSec": 6.629,
+          "endSec": 6.769,
+          "startFrame": 199,
+          "endFrame": 203
+        },
+        {
+          "word": "one",
+          "startSec": 6.85,
+          "endSec": 7.012,
+          "startFrame": 206,
+          "endFrame": 210
+        },
+        {
+          "word": "test.",
+          "startSec": 7.047,
+          "endSec": 7.848,
+          "startFrame": 211,
+          "endFrame": 235
+        }
+      ]
+    },
+    {
+      "id": "03-sticky",
+      "audio": "03-sticky.mp3",
+      "text": "Sticky means retention, like Spotify. New customers pour in. Churn leaks out when people cancel. If twenty join and eight leave, the base rises. New must beat churn.",
+      "speechSeconds": 10.681,
+      "durationSeconds": 11.431,
+      "durationFrames": 343,
+      "startFrame": 526,
+      "words": [
+        {
+          "word": "Sticky",
+          "startSec": 0.0,
+          "endSec": 0.395,
+          "startFrame": 0,
+          "endFrame": 12
+        },
+        {
+          "word": "means",
+          "startSec": 0.453,
+          "endSec": 0.673,
+          "startFrame": 14,
+          "endFrame": 20
+        },
+        {
+          "word": "retention,",
+          "startSec": 0.743,
+          "endSec": 1.393,
+          "startFrame": 22,
+          "endFrame": 42
+        },
+        {
+          "word": "like",
+          "startSec": 1.474,
+          "endSec": 1.66,
+          "startFrame": 44,
+          "endFrame": 50
+        },
+        {
+          "word": "Spotify.",
+          "startSec": 1.695,
+          "endSec": 2.403,
+          "startFrame": 51,
+          "endFrame": 72
+        },
+        {
+          "word": "New",
+          "startSec": 2.554,
+          "endSec": 2.694,
+          "startFrame": 77,
+          "endFrame": 81
+        },
+        {
+          "word": "customers",
+          "startSec": 2.752,
+          "endSec": 3.204,
+          "startFrame": 83,
+          "endFrame": 96
+        },
+        {
+          "word": "pour",
+          "startSec": 3.262,
+          "endSec": 3.448,
+          "startFrame": 98,
+          "endFrame": 103
+        },
+        {
+          "word": "in.",
+          "startSec": 3.541,
+          "endSec": 3.785,
+          "startFrame": 106,
+          "endFrame": 114
+        },
+        {
+          "word": "Churn",
+          "startSec": 3.959,
+          "endSec": 4.214,
+          "startFrame": 119,
+          "endFrame": 126
+        },
+        {
+          "word": "leaks",
+          "startSec": 4.272,
+          "endSec": 4.493,
+          "startFrame": 128,
+          "endFrame": 135
+        },
+        {
+          "word": "out",
+          "startSec": 4.528,
+          "endSec": 4.667,
+          "startFrame": 136,
+          "endFrame": 140
+        },
+        {
+          "word": "when",
+          "startSec": 4.702,
+          "endSec": 4.818,
+          "startFrame": 141,
+          "endFrame": 145
+        },
+        {
+          "word": "people",
+          "startSec": 4.865,
+          "endSec": 5.12,
+          "startFrame": 146,
+          "endFrame": 154
+        },
+        {
+          "word": "cancel.",
+          "startSec": 5.155,
+          "endSec": 5.759,
+          "startFrame": 155,
+          "endFrame": 173
+        },
+        {
+          "word": "If",
+          "startSec": 6.142,
+          "endSec": 6.281,
+          "startFrame": 184,
+          "endFrame": 188
+        },
+        {
+          "word": "twenty",
+          "startSec": 6.339,
+          "endSec": 6.618,
+          "startFrame": 190,
+          "endFrame": 199
+        },
+        {
+          "word": "join",
+          "startSec": 6.687,
+          "endSec": 6.943,
+          "startFrame": 201,
+          "endFrame": 208
+        },
+        {
+          "word": "and",
+          "startSec": 7.001,
+          "endSec": 7.07,
+          "startFrame": 210,
+          "endFrame": 212
+        },
+        {
+          "word": "eight",
+          "startSec": 7.14,
+          "endSec": 7.326,
+          "startFrame": 214,
+          "endFrame": 220
+        },
+        {
+          "word": "leave,",
+          "startSec": 7.372,
+          "endSec": 7.732,
+          "startFrame": 221,
+          "endFrame": 232
+        },
+        {
+          "word": "the",
+          "startSec": 7.79,
+          "endSec": 7.895,
+          "startFrame": 234,
+          "endFrame": 237
+        },
+        {
+          "word": "base",
+          "startSec": 7.941,
+          "endSec": 8.173,
+          "startFrame": 238,
+          "endFrame": 245
+        },
+        {
+          "word": "rises.",
+          "startSec": 8.22,
+          "endSec": 8.928,
+          "startFrame": 247,
+          "endFrame": 268
+        },
+        {
+          "word": "New",
+          "startSec": 9.253,
+          "endSec": 9.451,
+          "startFrame": 278,
+          "endFrame": 284
+        },
+        {
+          "word": "must",
+          "startSec": 9.509,
+          "endSec": 9.718,
+          "startFrame": 285,
+          "endFrame": 292
+        },
+        {
+          "word": "beat",
+          "startSec": 9.776,
+          "endSec": 9.961,
+          "startFrame": 293,
+          "endFrame": 299
+        },
+        {
+          "word": "churn.",
+          "startSec": 10.008,
+          "endSec": 10.681,
+          "startFrame": 300,
+          "endFrame": 320
+        }
+      ]
+    },
+    {
+      "id": "04-sticky-example",
+      "audio": "04-sticky-example.mp3",
+      "text": "Sticky's real prize is MRR, monthly recurring revenue. Spotify charges ten dollars a month per user. A million users means ten million MRR. ARR is MRR times twelve. Churn one, and twelve months of revenue disappear.",
+      "speechSeconds": 15.0,
+      "durationSeconds": 15.75,
+      "durationFrames": 472,
+      "startFrame": 869,
+      "words": [
+        {
+          "word": "Sticky's",
+          "startSec": 0.0,
+          "endSec": 0.464,
+          "startFrame": 0,
+          "endFrame": 14
+        },
+        {
+          "word": "real",
+          "startSec": 0.522,
+          "endSec": 0.685,
+          "startFrame": 16,
+          "endFrame": 21
+        },
+        {
+          "word": "prize",
+          "startSec": 0.743,
+          "endSec": 1.196,
+          "startFrame": 22,
+          "endFrame": 36
+        },
+        {
+          "word": "is",
+          "startSec": 1.254,
+          "endSec": 1.416,
+          "startFrame": 38,
+          "endFrame": 42
+        },
+        {
+          "word": "MRR,",
+          "startSec": 1.509,
+          "endSec": 2.101,
+          "startFrame": 45,
+          "endFrame": 63
+        },
+        {
+          "word": "monthly",
+          "startSec": 2.252,
+          "endSec": 2.601,
+          "startFrame": 68,
+          "endFrame": 78
+        },
+        {
+          "word": "recurring",
+          "startSec": 2.682,
+          "endSec": 3.077,
+          "startFrame": 80,
+          "endFrame": 92
+        },
+        {
+          "word": "revenue.",
+          "startSec": 3.135,
+          "endSec": 3.704,
+          "startFrame": 94,
+          "endFrame": 111
+        },
+        {
+          "word": "Spotify",
+          "startSec": 4.029,
+          "endSec": 4.621,
+          "startFrame": 121,
+          "endFrame": 139
+        },
+        {
+          "word": "charges",
+          "startSec": 4.69,
+          "endSec": 5.097,
+          "startFrame": 141,
+          "endFrame": 153
+        },
+        {
+          "word": "ten",
+          "startSec": 5.166,
+          "endSec": 5.341,
+          "startFrame": 155,
+          "endFrame": 160
+        },
+        {
+          "word": "dollars",
+          "startSec": 5.387,
+          "endSec": 5.689,
+          "startFrame": 162,
+          "endFrame": 171
+        },
+        {
+          "word": "a",
+          "startSec": 5.735,
+          "endSec": 5.759,
+          "startFrame": 172,
+          "endFrame": 173
+        },
+        {
+          "word": "month",
+          "startSec": 5.817,
+          "endSec": 6.002,
+          "startFrame": 175,
+          "endFrame": 180
+        },
+        {
+          "word": "per",
+          "startSec": 6.049,
+          "endSec": 6.177,
+          "startFrame": 181,
+          "endFrame": 185
+        },
+        {
+          "word": "user.",
+          "startSec": 6.235,
+          "endSec": 6.711,
+          "startFrame": 187,
+          "endFrame": 201
+        },
+        {
+          "word": "A",
+          "startSec": 6.885,
+          "endSec": 6.966,
+          "startFrame": 207,
+          "endFrame": 209
+        },
+        {
+          "word": "million",
+          "startSec": 7.059,
+          "endSec": 7.396,
+          "startFrame": 212,
+          "endFrame": 222
+        },
+        {
+          "word": "users",
+          "startSec": 7.465,
+          "endSec": 7.814,
+          "startFrame": 224,
+          "endFrame": 234
+        },
+        {
+          "word": "means",
+          "startSec": 7.883,
+          "endSec": 8.127,
+          "startFrame": 236,
+          "endFrame": 244
+        },
+        {
+          "word": "ten",
+          "startSec": 8.185,
+          "endSec": 8.382,
+          "startFrame": 246,
+          "endFrame": 251
+        },
+        {
+          "word": "million",
+          "startSec": 8.44,
+          "endSec": 8.766,
+          "startFrame": 253,
+          "endFrame": 263
+        },
+        {
+          "word": "MRR.",
+          "startSec": 8.847,
+          "endSec": 9.555,
+          "startFrame": 265,
+          "endFrame": 287
+        },
+        {
+          "word": "ARR",
+          "startSec": 9.938,
+          "endSec": 10.484,
+          "startFrame": 298,
+          "endFrame": 315
+        },
+        {
+          "word": "is",
+          "startSec": 10.577,
+          "endSec": 10.67,
+          "startFrame": 317,
+          "endFrame": 320
+        },
+        {
+          "word": "MRR",
+          "startSec": 10.751,
+          "endSec": 11.204,
+          "startFrame": 323,
+          "endFrame": 336
+        },
+        {
+          "word": "times",
+          "startSec": 11.262,
+          "endSec": 11.517,
+          "startFrame": 338,
+          "endFrame": 346
+        },
+        {
+          "word": "twelve.",
+          "startSec": 11.575,
+          "endSec": 12.098,
+          "startFrame": 347,
+          "endFrame": 363
+        },
+        {
+          "word": "Churn",
+          "startSec": 12.307,
+          "endSec": 12.574,
+          "startFrame": 369,
+          "endFrame": 377
+        },
+        {
+          "word": "one,",
+          "startSec": 12.632,
+          "endSec": 12.899,
+          "startFrame": 379,
+          "endFrame": 387
+        },
+        {
+          "word": "and",
+          "startSec": 12.922,
+          "endSec": 13.026,
+          "startFrame": 388,
+          "endFrame": 391
+        },
+        {
+          "word": "twelve",
+          "startSec": 13.084,
+          "endSec": 13.375,
+          "startFrame": 393,
+          "endFrame": 401
+        },
+        {
+          "word": "months",
+          "startSec": 13.421,
+          "endSec": 13.642,
+          "startFrame": 403,
+          "endFrame": 409
+        },
+        {
+          "word": "of",
+          "startSec": 13.677,
+          "endSec": 13.723,
+          "startFrame": 410,
+          "endFrame": 412
+        },
+        {
+          "word": "revenue",
+          "startSec": 13.793,
+          "endSec": 14.164,
+          "startFrame": 414,
+          "endFrame": 425
+        },
+        {
+          "word": "disappear.",
+          "startSec": 14.199,
+          "endSec": 15.0,
+          "startFrame": 426,
+          "endFrame": 450
+        }
+      ]
+    },
+    {
+      "id": "05-viral",
+      "audio": "05-viral.mp3",
+      "text": "Viral means users bring users, like TikTok. K is the average number of new users each user creates. Above one, branches multiply. Below one, the chain fades.",
+      "speechSeconds": 10.403,
+      "durationSeconds": 11.153,
+      "durationFrames": 335,
+      "startFrame": 1341,
+      "words": [
+        {
+          "word": "Viral",
+          "startSec": 0.0,
+          "endSec": 0.464,
+          "startFrame": 0,
+          "endFrame": 14
+        },
+        {
+          "word": "means",
+          "startSec": 0.534,
+          "endSec": 0.801,
+          "startFrame": 16,
+          "endFrame": 24
+        },
+        {
+          "word": "users",
+          "startSec": 0.882,
+          "endSec": 1.254,
+          "startFrame": 26,
+          "endFrame": 38
+        },
+        {
+          "word": "bring",
+          "startSec": 1.3,
+          "endSec": 1.498,
+          "startFrame": 39,
+          "endFrame": 45
+        },
+        {
+          "word": "users,",
+          "startSec": 1.567,
+          "endSec": 2.078,
+          "startFrame": 47,
+          "endFrame": 62
+        },
+        {
+          "word": "like",
+          "startSec": 2.159,
+          "endSec": 2.38,
+          "startFrame": 65,
+          "endFrame": 71
+        },
+        {
+          "word": "TikTok.",
+          "startSec": 2.426,
+          "endSec": 3.007,
+          "startFrame": 73,
+          "endFrame": 90
+        },
+        {
+          "word": "K",
+          "startSec": 3.123,
+          "endSec": 3.274,
+          "startFrame": 94,
+          "endFrame": 98
+        },
+        {
+          "word": "is",
+          "startSec": 3.39,
+          "endSec": 3.471,
+          "startFrame": 102,
+          "endFrame": 104
+        },
+        {
+          "word": "the",
+          "startSec": 3.518,
+          "endSec": 3.587,
+          "startFrame": 106,
+          "endFrame": 108
+        },
+        {
+          "word": "average",
+          "startSec": 3.646,
+          "endSec": 3.947,
+          "startFrame": 109,
+          "endFrame": 118
+        },
+        {
+          "word": "number",
+          "startSec": 3.994,
+          "endSec": 4.214,
+          "startFrame": 120,
+          "endFrame": 126
+        },
+        {
+          "word": "of",
+          "startSec": 4.272,
+          "endSec": 4.319,
+          "startFrame": 128,
+          "endFrame": 130
+        },
+        {
+          "word": "new",
+          "startSec": 4.4,
+          "endSec": 4.516,
+          "startFrame": 132,
+          "endFrame": 135
+        },
+        {
+          "word": "users",
+          "startSec": 4.586,
+          "endSec": 4.981,
+          "startFrame": 138,
+          "endFrame": 149
+        },
+        {
+          "word": "each",
+          "startSec": 5.097,
+          "endSec": 5.329,
+          "startFrame": 153,
+          "endFrame": 160
+        },
+        {
+          "word": "user",
+          "startSec": 5.399,
+          "endSec": 5.654,
+          "startFrame": 162,
+          "endFrame": 170
+        },
+        {
+          "word": "creates.",
+          "startSec": 5.712,
+          "endSec": 6.293,
+          "startFrame": 171,
+          "endFrame": 189
+        },
+        {
+          "word": "Above",
+          "startSec": 6.409,
+          "endSec": 6.745,
+          "startFrame": 192,
+          "endFrame": 202
+        },
+        {
+          "word": "one,",
+          "startSec": 6.803,
+          "endSec": 7.059,
+          "startFrame": 204,
+          "endFrame": 212
+        },
+        {
+          "word": "branches",
+          "startSec": 7.094,
+          "endSec": 7.5,
+          "startFrame": 213,
+          "endFrame": 225
+        },
+        {
+          "word": "multiply.",
+          "startSec": 7.558,
+          "endSec": 8.197,
+          "startFrame": 227,
+          "endFrame": 246
+        },
+        {
+          "word": "Below",
+          "startSec": 8.522,
+          "endSec": 8.824,
+          "startFrame": 256,
+          "endFrame": 265
+        },
+        {
+          "word": "one,",
+          "startSec": 8.905,
+          "endSec": 9.149,
+          "startFrame": 267,
+          "endFrame": 274
+        },
+        {
+          "word": "the",
+          "startSec": 9.183,
+          "endSec": 9.276,
+          "startFrame": 275,
+          "endFrame": 278
+        },
+        {
+          "word": "chain",
+          "startSec": 9.334,
+          "endSec": 9.567,
+          "startFrame": 280,
+          "endFrame": 287
+        },
+        {
+          "word": "fades.",
+          "startSec": 9.636,
+          "endSec": 10.403,
+          "startFrame": 289,
+          "endFrame": 312
+        }
+      ]
+    },
+    {
+      "id": "06-viral-example",
+      "audio": "06-viral-example.mp3",
+      "text": "But why build an audience? Because some businesses sell access to the crowd. Amazon needs buyers before sellers care. YouTube needs attention before sponsors pay. The audience is the product.",
+      "speechSeconds": 11.099,
+      "durationSeconds": 11.849,
+      "durationFrames": 355,
+      "startFrame": 1676,
+      "words": [
+        {
+          "word": "But",
+          "startSec": 0.0,
+          "endSec": 0.197,
+          "startFrame": 0,
+          "endFrame": 6
+        },
+        {
+          "word": "why",
+          "startSec": 0.232,
+          "endSec": 0.395,
+          "startFrame": 7,
+          "endFrame": 12
+        },
+        {
+          "word": "build",
+          "startSec": 0.464,
+          "endSec": 0.673,
+          "startFrame": 14,
+          "endFrame": 20
+        },
+        {
+          "word": "an",
+          "startSec": 0.72,
+          "endSec": 0.766,
+          "startFrame": 22,
+          "endFrame": 23
+        },
+        {
+          "word": "audience?",
+          "startSec": 0.813,
+          "endSec": 1.382,
+          "startFrame": 24,
+          "endFrame": 41
+        },
+        {
+          "word": "Because",
+          "startSec": 1.591,
+          "endSec": 1.869,
+          "startFrame": 48,
+          "endFrame": 56
+        },
+        {
+          "word": "some",
+          "startSec": 1.892,
+          "endSec": 2.067,
+          "startFrame": 57,
+          "endFrame": 62
+        },
+        {
+          "word": "businesses",
+          "startSec": 2.09,
+          "endSec": 2.624,
+          "startFrame": 63,
+          "endFrame": 79
+        },
+        {
+          "word": "sell",
+          "startSec": 2.67,
+          "endSec": 2.844,
+          "startFrame": 80,
+          "endFrame": 85
+        },
+        {
+          "word": "access",
+          "startSec": 2.914,
+          "endSec": 3.262,
+          "startFrame": 87,
+          "endFrame": 98
+        },
+        {
+          "word": "to",
+          "startSec": 3.297,
+          "endSec": 3.355,
+          "startFrame": 99,
+          "endFrame": 101
+        },
+        {
+          "word": "the",
+          "startSec": 3.413,
+          "endSec": 3.483,
+          "startFrame": 102,
+          "endFrame": 104
+        },
+        {
+          "word": "crowd.",
+          "startSec": 3.518,
+          "endSec": 3.994,
+          "startFrame": 106,
+          "endFrame": 120
+        },
+        {
+          "word": "Amazon",
+          "startSec": 4.168,
+          "endSec": 4.656,
+          "startFrame": 125,
+          "endFrame": 140
+        },
+        {
+          "word": "needs",
+          "startSec": 4.702,
+          "endSec": 4.899,
+          "startFrame": 141,
+          "endFrame": 147
+        },
+        {
+          "word": "buyers",
+          "startSec": 4.957,
+          "endSec": 5.399,
+          "startFrame": 149,
+          "endFrame": 162
+        },
+        {
+          "word": "before",
+          "startSec": 5.468,
+          "endSec": 5.782,
+          "startFrame": 164,
+          "endFrame": 173
+        },
+        {
+          "word": "sellers",
+          "startSec": 5.828,
+          "endSec": 6.153,
+          "startFrame": 175,
+          "endFrame": 185
+        },
+        {
+          "word": "care.",
+          "startSec": 6.211,
+          "endSec": 6.56,
+          "startFrame": 186,
+          "endFrame": 197
+        },
+        {
+          "word": "YouTube",
+          "startSec": 6.711,
+          "endSec": 7.187,
+          "startFrame": 201,
+          "endFrame": 216
+        },
+        {
+          "word": "needs",
+          "startSec": 7.21,
+          "endSec": 7.396,
+          "startFrame": 216,
+          "endFrame": 222
+        },
+        {
+          "word": "attention",
+          "startSec": 7.442,
+          "endSec": 7.848,
+          "startFrame": 223,
+          "endFrame": 235
+        },
+        {
+          "word": "before",
+          "startSec": 7.906,
+          "endSec": 8.185,
+          "startFrame": 237,
+          "endFrame": 246
+        },
+        {
+          "word": "sponsors",
+          "startSec": 8.231,
+          "endSec": 8.731,
+          "startFrame": 247,
+          "endFrame": 262
+        },
+        {
+          "word": "pay.",
+          "startSec": 8.789,
+          "endSec": 9.195,
+          "startFrame": 264,
+          "endFrame": 276
+        },
+        {
+          "word": "The",
+          "startSec": 9.346,
+          "endSec": 9.451,
+          "startFrame": 280,
+          "endFrame": 284
+        },
+        {
+          "word": "audience",
+          "startSec": 9.52,
+          "endSec": 9.961,
+          "startFrame": 286,
+          "endFrame": 299
+        },
+        {
+          "word": "is",
+          "startSec": 10.008,
+          "endSec": 10.112,
+          "startFrame": 300,
+          "endFrame": 303
+        },
+        {
+          "word": "the",
+          "startSec": 10.17,
+          "endSec": 10.24,
+          "startFrame": 305,
+          "endFrame": 307
+        },
+        {
+          "word": "product.",
+          "startSec": 10.275,
+          "endSec": 11.099,
+          "startFrame": 308,
+          "endFrame": 333
+        }
+      ]
+    },
+    {
+      "id": "07-paid",
+      "audio": "07-paid.mp3",
+      "text": "Paid is a money machine. CAC is the cost to win one customer. Spend forty in ads, get one Shopify customer. LTV is what that customer pays back over time. Thirty a month for four months is one twenty. Forty in, one twenty out, scale it. But if it costs ninety to win a customer who only pays sixty, every new sale deepens the loss.",
+      "speechSeconds": 22.152,
+      "durationSeconds": 22.902,
+      "durationFrames": 687,
+      "startFrame": 2031,
+      "words": [
+        {
+          "word": "Paid",
+          "startSec": 0.0,
+          "endSec": 0.29,
+          "startFrame": 0,
+          "endFrame": 9
+        },
+        {
+          "word": "is",
+          "startSec": 0.337,
+          "endSec": 0.418,
+          "startFrame": 10,
+          "endFrame": 13
+        },
+        {
+          "word": "a",
+          "startSec": 0.464,
+          "endSec": 0.499,
+          "startFrame": 14,
+          "endFrame": 15
+        },
+        {
+          "word": "money",
+          "startSec": 0.546,
+          "endSec": 0.731,
+          "startFrame": 16,
+          "endFrame": 22
+        },
+        {
+          "word": "machine.",
+          "startSec": 0.789,
+          "endSec": 1.347,
+          "startFrame": 24,
+          "endFrame": 40
+        },
+        {
+          "word": "CAC",
+          "startSec": 1.672,
+          "endSec": 2.148,
+          "startFrame": 50,
+          "endFrame": 64
+        },
+        {
+          "word": "is",
+          "startSec": 2.322,
+          "endSec": 2.426,
+          "startFrame": 70,
+          "endFrame": 73
+        },
+        {
+          "word": "the",
+          "startSec": 2.473,
+          "endSec": 2.543,
+          "startFrame": 74,
+          "endFrame": 76
+        },
+        {
+          "word": "cost",
+          "startSec": 2.601,
+          "endSec": 2.937,
+          "startFrame": 78,
+          "endFrame": 88
+        },
+        {
+          "word": "to",
+          "startSec": 2.984,
+          "endSec": 3.042,
+          "startFrame": 90,
+          "endFrame": 91
+        },
+        {
+          "word": "win",
+          "startSec": 3.1,
+          "endSec": 3.251,
+          "startFrame": 93,
+          "endFrame": 98
+        },
+        {
+          "word": "one",
+          "startSec": 3.32,
+          "endSec": 3.471,
+          "startFrame": 100,
+          "endFrame": 104
+        },
+        {
+          "word": "customer.",
+          "startSec": 3.518,
+          "endSec": 4.168,
+          "startFrame": 106,
+          "endFrame": 125
+        },
+        {
+          "word": "Spend",
+          "startSec": 4.493,
+          "endSec": 4.795,
+          "startFrame": 135,
+          "endFrame": 144
+        },
+        {
+          "word": "forty",
+          "startSec": 4.853,
+          "endSec": 5.155,
+          "startFrame": 146,
+          "endFrame": 155
+        },
+        {
+          "word": "in",
+          "startSec": 5.201,
+          "endSec": 5.248,
+          "startFrame": 156,
+          "endFrame": 157
+        },
+        {
+          "word": "ads,",
+          "startSec": 5.329,
+          "endSec": 5.666,
+          "startFrame": 160,
+          "endFrame": 170
+        },
+        {
+          "word": "get",
+          "startSec": 5.747,
+          "endSec": 5.933,
+          "startFrame": 172,
+          "endFrame": 178
+        },
+        {
+          "word": "one",
+          "startSec": 5.991,
+          "endSec": 6.177,
+          "startFrame": 180,
+          "endFrame": 185
+        },
+        {
+          "word": "Shopify",
+          "startSec": 6.211,
+          "endSec": 6.745,
+          "startFrame": 186,
+          "endFrame": 202
+        },
+        {
+          "word": "customer.",
+          "startSec": 6.815,
+          "endSec": 7.465,
+          "startFrame": 204,
+          "endFrame": 224
+        },
+        {
+          "word": "LTV",
+          "startSec": 7.79,
+          "endSec": 8.231,
+          "startFrame": 234,
+          "endFrame": 247
+        },
+        {
+          "word": "is",
+          "startSec": 8.359,
+          "endSec": 8.44,
+          "startFrame": 251,
+          "endFrame": 253
+        },
+        {
+          "word": "what",
+          "startSec": 8.499,
+          "endSec": 8.626,
+          "startFrame": 255,
+          "endFrame": 259
+        },
+        {
+          "word": "that",
+          "startSec": 8.661,
+          "endSec": 8.789,
+          "startFrame": 260,
+          "endFrame": 264
+        },
+        {
+          "word": "customer",
+          "startSec": 8.847,
+          "endSec": 9.288,
+          "startFrame": 265,
+          "endFrame": 279
+        },
+        {
+          "word": "pays",
+          "startSec": 9.358,
+          "endSec": 9.567,
+          "startFrame": 281,
+          "endFrame": 287
+        },
+        {
+          "word": "back",
+          "startSec": 9.625,
+          "endSec": 9.834,
+          "startFrame": 289,
+          "endFrame": 295
+        },
+        {
+          "word": "over",
+          "startSec": 9.892,
+          "endSec": 10.066,
+          "startFrame": 297,
+          "endFrame": 302
+        },
+        {
+          "word": "time.",
+          "startSec": 10.124,
+          "endSec": 10.623,
+          "startFrame": 304,
+          "endFrame": 319
+        },
+        {
+          "word": "Thirty",
+          "startSec": 10.902,
+          "endSec": 11.215,
+          "startFrame": 327,
+          "endFrame": 336
+        },
+        {
+          "word": "a",
+          "startSec": 11.273,
+          "endSec": 11.296,
+          "startFrame": 338,
+          "endFrame": 339
+        },
+        {
+          "word": "month",
+          "startSec": 11.355,
+          "endSec": 11.552,
+          "startFrame": 341,
+          "endFrame": 347
+        },
+        {
+          "word": "for",
+          "startSec": 11.587,
+          "endSec": 11.703,
+          "startFrame": 348,
+          "endFrame": 351
+        },
+        {
+          "word": "four",
+          "startSec": 11.761,
+          "endSec": 11.947,
+          "startFrame": 353,
+          "endFrame": 358
+        },
+        {
+          "word": "months",
+          "startSec": 12.005,
+          "endSec": 12.272,
+          "startFrame": 360,
+          "endFrame": 368
+        },
+        {
+          "word": "is",
+          "startSec": 12.318,
+          "endSec": 12.399,
+          "startFrame": 370,
+          "endFrame": 372
+        },
+        {
+          "word": "one",
+          "startSec": 12.469,
+          "endSec": 12.632,
+          "startFrame": 374,
+          "endFrame": 379
+        },
+        {
+          "word": "twenty.",
+          "startSec": 12.655,
+          "endSec": 13.177,
+          "startFrame": 380,
+          "endFrame": 395
+        },
+        {
+          "word": "Forty",
+          "startSec": 13.502,
+          "endSec": 13.827,
+          "startFrame": 405,
+          "endFrame": 415
+        },
+        {
+          "word": "in,",
+          "startSec": 13.897,
+          "endSec": 14.164,
+          "startFrame": 417,
+          "endFrame": 425
+        },
+        {
+          "word": "one",
+          "startSec": 14.245,
+          "endSec": 14.478,
+          "startFrame": 427,
+          "endFrame": 434
+        },
+        {
+          "word": "twenty",
+          "startSec": 14.512,
+          "endSec": 14.791,
+          "startFrame": 435,
+          "endFrame": 444
+        },
+        {
+          "word": "out,",
+          "startSec": 14.849,
+          "endSec": 15.128,
+          "startFrame": 445,
+          "endFrame": 454
+        },
+        {
+          "word": "scale",
+          "startSec": 15.256,
+          "endSec": 15.604,
+          "startFrame": 458,
+          "endFrame": 468
+        },
+        {
+          "word": "it.",
+          "startSec": 15.65,
+          "endSec": 15.882,
+          "startFrame": 470,
+          "endFrame": 476
+        },
+        {
+          "word": "But",
+          "startSec": 15.999,
+          "endSec": 16.138,
+          "startFrame": 480,
+          "endFrame": 484
+        },
+        {
+          "word": "if",
+          "startSec": 16.173,
+          "endSec": 16.231,
+          "startFrame": 485,
+          "endFrame": 487
+        },
+        {
+          "word": "it",
+          "startSec": 16.289,
+          "endSec": 16.358,
+          "startFrame": 489,
+          "endFrame": 491
+        },
+        {
+          "word": "costs",
+          "startSec": 16.405,
+          "endSec": 16.718,
+          "startFrame": 492,
+          "endFrame": 502
+        },
+        {
+          "word": "ninety",
+          "startSec": 16.788,
+          "endSec": 17.136,
+          "startFrame": 504,
+          "endFrame": 514
+        },
+        {
+          "word": "to",
+          "startSec": 17.206,
+          "endSec": 17.276,
+          "startFrame": 516,
+          "endFrame": 518
+        },
+        {
+          "word": "win",
+          "startSec": 17.334,
+          "endSec": 17.461,
+          "startFrame": 520,
+          "endFrame": 524
+        },
+        {
+          "word": "a",
+          "startSec": 17.496,
+          "endSec": 17.519,
+          "startFrame": 525,
+          "endFrame": 526
+        },
+        {
+          "word": "customer",
+          "startSec": 17.566,
+          "endSec": 18.019,
+          "startFrame": 527,
+          "endFrame": 541
+        },
+        {
+          "word": "who",
+          "startSec": 18.077,
+          "endSec": 18.216,
+          "startFrame": 542,
+          "endFrame": 546
+        },
+        {
+          "word": "only",
+          "startSec": 18.332,
+          "endSec": 18.646,
+          "startFrame": 550,
+          "endFrame": 559
+        },
+        {
+          "word": "pays",
+          "startSec": 18.704,
+          "endSec": 18.936,
+          "startFrame": 561,
+          "endFrame": 568
+        },
+        {
+          "word": "sixty,",
+          "startSec": 18.982,
+          "endSec": 19.574,
+          "startFrame": 569,
+          "endFrame": 587
+        },
+        {
+          "word": "every",
+          "startSec": 19.853,
+          "endSec": 20.143,
+          "startFrame": 596,
+          "endFrame": 604
+        },
+        {
+          "word": "new",
+          "startSec": 20.213,
+          "endSec": 20.352,
+          "startFrame": 606,
+          "endFrame": 611
+        },
+        {
+          "word": "sale",
+          "startSec": 20.41,
+          "endSec": 20.77,
+          "startFrame": 612,
+          "endFrame": 623
+        },
+        {
+          "word": "deepens",
+          "startSec": 20.828,
+          "endSec": 21.211,
+          "startFrame": 625,
+          "endFrame": 636
+        },
+        {
+          "word": "the",
+          "startSec": 21.27,
+          "endSec": 21.339,
+          "startFrame": 638,
+          "endFrame": 640
+        },
+        {
+          "word": "loss.",
+          "startSec": 21.397,
+          "endSec": 22.152,
+          "startFrame": 642,
+          "endFrame": 665
+        }
+      ]
+    },
+    {
+      "id": "08-trap",
+      "audio": "08-trap.mp3",
+      "text": "The wrong engine creates traps. Ads cannot patch a leaky subscription. Buying isolated users does not make a network. And going viral cannot fix a product that loses money on every sale.",
+      "speechSeconds": 10.774,
+      "durationSeconds": 11.524,
+      "durationFrames": 346,
+      "startFrame": 2718,
+      "words": [
+        {
+          "word": "The",
+          "startSec": 0.0,
+          "endSec": 0.151,
+          "startFrame": 0,
+          "endFrame": 5
+        },
+        {
+          "word": "wrong",
+          "startSec": 0.197,
+          "endSec": 0.418,
+          "startFrame": 6,
+          "endFrame": 13
+        },
+        {
+          "word": "engine",
+          "startSec": 0.488,
+          "endSec": 0.789,
+          "startFrame": 15,
+          "endFrame": 24
+        },
+        {
+          "word": "creates",
+          "startSec": 0.836,
+          "endSec": 1.184,
+          "startFrame": 25,
+          "endFrame": 36
+        },
+        {
+          "word": "traps.",
+          "startSec": 1.231,
+          "endSec": 1.823,
+          "startFrame": 37,
+          "endFrame": 55
+        },
+        {
+          "word": "Ads",
+          "startSec": 1.939,
+          "endSec": 2.183,
+          "startFrame": 58,
+          "endFrame": 65
+        },
+        {
+          "word": "cannot",
+          "startSec": 2.229,
+          "endSec": 2.473,
+          "startFrame": 67,
+          "endFrame": 74
+        },
+        {
+          "word": "patch",
+          "startSec": 2.531,
+          "endSec": 2.821,
+          "startFrame": 76,
+          "endFrame": 85
+        },
+        {
+          "word": "a",
+          "startSec": 2.856,
+          "endSec": 2.879,
+          "startFrame": 86,
+          "endFrame": 86
+        },
+        {
+          "word": "leaky",
+          "startSec": 2.949,
+          "endSec": 3.228,
+          "startFrame": 88,
+          "endFrame": 97
+        },
+        {
+          "word": "subscription.",
+          "startSec": 3.286,
+          "endSec": 4.063,
+          "startFrame": 99,
+          "endFrame": 122
+        },
+        {
+          "word": "Buying",
+          "startSec": 4.389,
+          "endSec": 4.702,
+          "startFrame": 132,
+          "endFrame": 141
+        },
+        {
+          "word": "isolated",
+          "startSec": 4.772,
+          "endSec": 5.271,
+          "startFrame": 143,
+          "endFrame": 158
+        },
+        {
+          "word": "users",
+          "startSec": 5.329,
+          "endSec": 5.689,
+          "startFrame": 160,
+          "endFrame": 171
+        },
+        {
+          "word": "does",
+          "startSec": 5.735,
+          "endSec": 5.898,
+          "startFrame": 172,
+          "endFrame": 177
+        },
+        {
+          "word": "not",
+          "startSec": 5.944,
+          "endSec": 6.118,
+          "startFrame": 178,
+          "endFrame": 184
+        },
+        {
+          "word": "make",
+          "startSec": 6.165,
+          "endSec": 6.316,
+          "startFrame": 185,
+          "endFrame": 189
+        },
+        {
+          "word": "a",
+          "startSec": 6.351,
+          "endSec": 6.374,
+          "startFrame": 191,
+          "endFrame": 191
+        },
+        {
+          "word": "network.",
+          "startSec": 6.432,
+          "endSec": 6.931,
+          "startFrame": 193,
+          "endFrame": 208
+        },
+        {
+          "word": "And",
+          "startSec": 6.989,
+          "endSec": 7.129,
+          "startFrame": 210,
+          "endFrame": 214
+        },
+        {
+          "word": "going",
+          "startSec": 7.198,
+          "endSec": 7.419,
+          "startFrame": 216,
+          "endFrame": 223
+        },
+        {
+          "word": "viral",
+          "startSec": 7.465,
+          "endSec": 7.79,
+          "startFrame": 224,
+          "endFrame": 234
+        },
+        {
+          "word": "cannot",
+          "startSec": 7.86,
+          "endSec": 8.139,
+          "startFrame": 236,
+          "endFrame": 244
+        },
+        {
+          "word": "fix",
+          "startSec": 8.185,
+          "endSec": 8.359,
+          "startFrame": 246,
+          "endFrame": 251
+        },
+        {
+          "word": "a",
+          "startSec": 8.429,
+          "endSec": 8.452,
+          "startFrame": 253,
+          "endFrame": 254
+        },
+        {
+          "word": "product",
+          "startSec": 8.498,
+          "endSec": 8.847,
+          "startFrame": 255,
+          "endFrame": 265
+        },
+        {
+          "word": "that",
+          "startSec": 8.87,
+          "endSec": 8.986,
+          "startFrame": 266,
+          "endFrame": 270
+        },
+        {
+          "word": "loses",
+          "startSec": 9.044,
+          "endSec": 9.358,
+          "startFrame": 271,
+          "endFrame": 281
+        },
+        {
+          "word": "money",
+          "startSec": 9.416,
+          "endSec": 9.613,
+          "startFrame": 282,
+          "endFrame": 288
+        },
+        {
+          "word": "on",
+          "startSec": 9.659,
+          "endSec": 9.729,
+          "startFrame": 290,
+          "endFrame": 292
+        },
+        {
+          "word": "every",
+          "startSec": 9.776,
+          "endSec": 9.961,
+          "startFrame": 293,
+          "endFrame": 299
+        },
+        {
+          "word": "sale.",
+          "startSec": 10.019,
+          "endSec": 10.774,
+          "startFrame": 301,
+          "endFrame": 323
+        }
+      ]
+    },
+    {
+      "id": "09-diagnostic",
+      "audio": "09-diagnostic.mp3",
+      "text": "Choose by asking one thing. Do customers repeat, like Spotify? Sticky. Do users make the network valuable, like TikTok? Viral. Do you buy customers one at a time, like Shopify ads? Paid.",
+      "speechSeconds": 12.771,
+      "durationSeconds": 13.521,
+      "durationFrames": 406,
+      "startFrame": 3064,
+      "words": [
+        {
+          "word": "Choose",
+          "startSec": 0.0,
+          "endSec": 0.348,
+          "startFrame": 0,
+          "endFrame": 10
+        },
+        {
+          "word": "by",
+          "startSec": 0.372,
+          "endSec": 0.476,
+          "startFrame": 11,
+          "endFrame": 14
+        },
+        {
+          "word": "asking",
+          "startSec": 0.546,
+          "endSec": 0.882,
+          "startFrame": 16,
+          "endFrame": 26
+        },
+        {
+          "word": "one",
+          "startSec": 0.952,
+          "endSec": 1.103,
+          "startFrame": 29,
+          "endFrame": 33
+        },
+        {
+          "word": "thing.",
+          "startSec": 1.138,
+          "endSec": 1.533,
+          "startFrame": 34,
+          "endFrame": 46
+        },
+        {
+          "word": "Do",
+          "startSec": 1.66,
+          "endSec": 1.776,
+          "startFrame": 50,
+          "endFrame": 53
+        },
+        {
+          "word": "customers",
+          "startSec": 1.834,
+          "endSec": 2.357,
+          "startFrame": 55,
+          "endFrame": 71
+        },
+        {
+          "word": "repeat,",
+          "startSec": 2.438,
+          "endSec": 2.949,
+          "startFrame": 73,
+          "endFrame": 88
+        },
+        {
+          "word": "like",
+          "startSec": 3.03,
+          "endSec": 3.228,
+          "startFrame": 91,
+          "endFrame": 97
+        },
+        {
+          "word": "Spotify?",
+          "startSec": 3.262,
+          "endSec": 4.029,
+          "startFrame": 98,
+          "endFrame": 121
+        },
+        {
+          "word": "Sticky.",
+          "startSec": 4.272,
+          "endSec": 4.818,
+          "startFrame": 128,
+          "endFrame": 145
+        },
+        {
+          "word": "Do",
+          "startSec": 4.969,
+          "endSec": 5.108,
+          "startFrame": 149,
+          "endFrame": 153
+        },
+        {
+          "word": "users",
+          "startSec": 5.178,
+          "endSec": 5.55,
+          "startFrame": 155,
+          "endFrame": 166
+        },
+        {
+          "word": "make",
+          "startSec": 5.619,
+          "endSec": 5.793,
+          "startFrame": 169,
+          "endFrame": 174
+        },
+        {
+          "word": "the",
+          "startSec": 5.828,
+          "endSec": 5.898,
+          "startFrame": 175,
+          "endFrame": 177
+        },
+        {
+          "word": "network",
+          "startSec": 5.944,
+          "endSec": 6.269,
+          "startFrame": 178,
+          "endFrame": 188
+        },
+        {
+          "word": "valuable,",
+          "startSec": 6.327,
+          "endSec": 6.954,
+          "startFrame": 190,
+          "endFrame": 209
+        },
+        {
+          "word": "like",
+          "startSec": 7.082,
+          "endSec": 7.303,
+          "startFrame": 212,
+          "endFrame": 219
+        },
+        {
+          "word": "TikTok?",
+          "startSec": 7.349,
+          "endSec": 7.976,
+          "startFrame": 220,
+          "endFrame": 239
+        },
+        {
+          "word": "Viral.",
+          "startSec": 8.127,
+          "endSec": 8.696,
+          "startFrame": 244,
+          "endFrame": 261
+        },
+        {
+          "word": "Do",
+          "startSec": 8.824,
+          "endSec": 8.928,
+          "startFrame": 265,
+          "endFrame": 268
+        },
+        {
+          "word": "you",
+          "startSec": 8.963,
+          "endSec": 9.033,
+          "startFrame": 269,
+          "endFrame": 271
+        },
+        {
+          "word": "buy",
+          "startSec": 9.091,
+          "endSec": 9.218,
+          "startFrame": 273,
+          "endFrame": 277
+        },
+        {
+          "word": "customers",
+          "startSec": 9.288,
+          "endSec": 9.776,
+          "startFrame": 279,
+          "endFrame": 293
+        },
+        {
+          "word": "one",
+          "startSec": 9.845,
+          "endSec": 9.973,
+          "startFrame": 295,
+          "endFrame": 299
+        },
+        {
+          "word": "at",
+          "startSec": 10.008,
+          "endSec": 10.066,
+          "startFrame": 300,
+          "endFrame": 302
+        },
+        {
+          "word": "a",
+          "startSec": 10.112,
+          "endSec": 10.147,
+          "startFrame": 303,
+          "endFrame": 304
+        },
+        {
+          "word": "time,",
+          "startSec": 10.194,
+          "endSec": 10.612,
+          "startFrame": 306,
+          "endFrame": 318
+        },
+        {
+          "word": "like",
+          "startSec": 10.704,
+          "endSec": 10.925,
+          "startFrame": 321,
+          "endFrame": 328
+        },
+        {
+          "word": "Shopify",
+          "startSec": 10.971,
+          "endSec": 11.494,
+          "startFrame": 329,
+          "endFrame": 345
+        },
+        {
+          "word": "ads?",
+          "startSec": 11.552,
+          "endSec": 12.028,
+          "startFrame": 347,
+          "endFrame": 361
+        },
+        {
+          "word": "Paid.",
+          "startSec": 12.179,
+          "endSec": 12.771,
+          "startFrame": 365,
+          "endFrame": 383
+        }
+      ]
+    },
+    {
+      "id": "10-outro",
+      "audio": "10-outro.mp3",
+      "text": "Pick the engine your business needs. Then make its equation true.",
+      "speechSeconds": 3.762,
+      "durationSeconds": 4.512,
+      "durationFrames": 135,
+      "startFrame": 3470,
+      "words": [
+        {
+          "word": "Pick",
+          "startSec": 0.0,
+          "endSec": 0.244,
+          "startFrame": 0,
+          "endFrame": 7
+        },
+        {
+          "word": "the",
+          "startSec": 0.29,
+          "endSec": 0.36,
+          "startFrame": 9,
+          "endFrame": 11
+        },
+        {
+          "word": "engine",
+          "startSec": 0.441,
+          "endSec": 0.72,
+          "startFrame": 13,
+          "endFrame": 22
+        },
+        {
+          "word": "your",
+          "startSec": 0.743,
+          "endSec": 0.848,
+          "startFrame": 22,
+          "endFrame": 25
+        },
+        {
+          "word": "business",
+          "startSec": 0.906,
+          "endSec": 1.289,
+          "startFrame": 27,
+          "endFrame": 39
+        },
+        {
+          "word": "needs.",
+          "startSec": 1.347,
+          "endSec": 1.881,
+          "startFrame": 40,
+          "endFrame": 56
+        },
+        {
+          "word": "Then",
+          "startSec": 2.032,
+          "endSec": 2.229,
+          "startFrame": 61,
+          "endFrame": 67
+        },
+        {
+          "word": "make",
+          "startSec": 2.287,
+          "endSec": 2.461,
+          "startFrame": 69,
+          "endFrame": 74
+        },
+        {
+          "word": "its",
+          "startSec": 2.496,
+          "endSec": 2.624,
+          "startFrame": 75,
+          "endFrame": 79
+        },
+        {
+          "word": "equation",
+          "startSec": 2.659,
+          "endSec": 3.1,
+          "startFrame": 80,
+          "endFrame": 93
+        },
+        {
+          "word": "true.",
+          "startSec": 3.158,
+          "endSec": 3.762,
+          "startFrame": 95,
+          "endFrame": 113
+        }
+      ]
+    }
+  ]
+}

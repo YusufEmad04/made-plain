@@ -1,0 +1,38 @@
+{
+    "voice_id": "FGY2WhTYpPnrIDTdsKH5",
+    "voice_name": "Laura — Enthusiast, Quirky Attitude (social media, young female)",
+    "model_id": "eleven_multilingual_v2",
+    "voice_settings": {
+        "stability": 0.4,
+        "similarity_boost": 0.78,
+        "style": 0.45,
+        "use_speaker_boost": true
+    },
+    "pad_seconds": 0.6,
+    "scenes": [
+        {
+            "id": "01-hook",
+            "text": "If you opened a tiny bakery tomorrow, three things have to be true. Or you don't have a business yet. You just have an idea."
+        },
+        {
+            "id": "02-make",
+            "text": "Job one. Make something people actually want. Smelling-bread-on-the-sidewalk good. Not the kind you wish people wanted. This is what people call operations."
+        },
+        {
+            "id": "03-handover",
+            "text": "Job two. Get it into their hands. The shop has to be open. The customer has to find it. And the bread has to cross the counter. This is what people call marketing and sales."
+        },
+        {
+            "id": "04-keep",
+            "text": "Job three. Keep more than it cost. The customer pays five dollars. Two of those go right back out, for flour, power, and your time. Three dollars stay in the jar. That three-dollar gap is the whole business. People call this finance."
+        },
+        {
+            "id": "05-trap",
+            "text": "Most things people call a business only do one or two of these. Watch. Bakery A. Great bread. Locked door. Their operations work, their marketing doesn't. Bakery B. Open every day. Bread nobody remembers. Marketing fine, operations broken. Bakery C. Customers everywhere, but five dollars in, six dollars out. Finance is the leak. Find the empty slot. Fix that one."
+        },
+        {
+            "id": "06-outro",
+            "text": "So look at your idea. Is each box checked? Operations. Marketing. Finance. Make. Hand over. Keep. Whichever answer is no, start there."
+        }
+    ]
+}

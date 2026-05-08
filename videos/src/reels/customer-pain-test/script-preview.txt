@@ -1,0 +1,29 @@
+THE REAL CUSTOMER PAIN TEST — narration preview v2
+====================================================
+
+Voice: Laura (FGY2WhTYpPnrIDTdsKH5)
+Pad: 0.6s between scenes.
+
+01-graveyard
+------------
+Most products fail for one reason. They built something nobody actually needed. Not bad design. Not bad marketing. The pain wasn't real.
+
+02-rule
+-------
+Here's the test in one line. A real pain has a number on it.
+
+03-two-customers
+----------------
+Listen to two customers. The first says — I'd love a better tool. No number. That's not a pain. That's an inconvenience. The second says — I lose six hours every single Monday. Six hours. There's your number. That's a real pain.
+
+04-question
+-----------
+So how do you find the number? Don't ask — would you pay for this. They'll say yes to be polite. Ask — how do you solve it today. Then listen for the numbers. Time. Money. Workarounds.
+
+05-challenge
+------------
+Try it this week. Find five people. Ask the question. If three describe the same problem with real numbers, unprompted — you've found something worth building.
+
+06-outro
+--------
+If they can't put a number on it — it's not a pain. It's a wish.

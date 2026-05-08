@@ -1,0 +1,1517 @@
+{
+  "fps": 30,
+  "voiceId": "FGY2WhTYpPnrIDTdsKH5",
+  "modelId": "eleven_multilingual_v2",
+  "totalSeconds": 79.1333,
+  "totalFrames": 2374,
+  "scenes": [
+    {
+      "id": "01-hook",
+      "audio": "01-hook.mp3",
+      "text": "If you opened a tiny bakery tomorrow, three things have to be true. Or you don't have a business yet. You just have an idea.",
+      "speechSeconds": 7.059,
+      "durationSeconds": 7.659,
+      "durationFrames": 230,
+      "startFrame": 0,
+      "words": [
+        {
+          "word": "If",
+          "startSec": 0.0,
+          "endSec": 0.139,
+          "startFrame": 0,
+          "endFrame": 4
+        },
+        {
+          "word": "you",
+          "startSec": 0.174,
+          "endSec": 0.255,
+          "startFrame": 5,
+          "endFrame": 8
+        },
+        {
+          "word": "opened",
+          "startSec": 0.337,
+          "endSec": 0.604,
+          "startFrame": 10,
+          "endFrame": 18
+        },
+        {
+          "word": "a",
+          "startSec": 0.65,
+          "endSec": 0.673,
+          "startFrame": 20,
+          "endFrame": 20
+        },
+        {
+          "word": "tiny",
+          "startSec": 0.731,
+          "endSec": 1.01,
+          "startFrame": 22,
+          "endFrame": 30
+        },
+        {
+          "word": "bakery",
+          "startSec": 1.057,
+          "endSec": 1.393,
+          "startFrame": 32,
+          "endFrame": 42
+        },
+        {
+          "word": "tomorrow,",
+          "startSec": 1.451,
+          "endSec": 1.997,
+          "startFrame": 44,
+          "endFrame": 60
+        },
+        {
+          "word": "three",
+          "startSec": 2.09,
+          "endSec": 2.334,
+          "startFrame": 63,
+          "endFrame": 70
+        },
+        {
+          "word": "things",
+          "startSec": 2.368,
+          "endSec": 2.647,
+          "startFrame": 71,
+          "endFrame": 79
+        },
+        {
+          "word": "have",
+          "startSec": 2.705,
+          "endSec": 2.879,
+          "startFrame": 81,
+          "endFrame": 86
+        },
+        {
+          "word": "to",
+          "startSec": 2.902,
+          "endSec": 2.949,
+          "startFrame": 87,
+          "endFrame": 88
+        },
+        {
+          "word": "be",
+          "startSec": 3.007,
+          "endSec": 3.088,
+          "startFrame": 90,
+          "endFrame": 93
+        },
+        {
+          "word": "true.",
+          "startSec": 3.123,
+          "endSec": 3.576,
+          "startFrame": 94,
+          "endFrame": 107
+        },
+        {
+          "word": "Or",
+          "startSec": 3.959,
+          "endSec": 4.156,
+          "startFrame": 119,
+          "endFrame": 125
+        },
+        {
+          "word": "you",
+          "startSec": 4.249,
+          "endSec": 4.342,
+          "startFrame": 127,
+          "endFrame": 130
+        },
+        {
+          "word": "don't",
+          "startSec": 4.4,
+          "endSec": 4.563,
+          "startFrame": 132,
+          "endFrame": 137
+        },
+        {
+          "word": "have",
+          "startSec": 4.586,
+          "endSec": 4.702,
+          "startFrame": 138,
+          "endFrame": 141
+        },
+        {
+          "word": "a",
+          "startSec": 4.725,
+          "endSec": 4.748,
+          "startFrame": 142,
+          "endFrame": 142
+        },
+        {
+          "word": "business",
+          "startSec": 4.795,
+          "endSec": 5.155,
+          "startFrame": 144,
+          "endFrame": 155
+        },
+        {
+          "word": "yet.",
+          "startSec": 5.19,
+          "endSec": 5.55,
+          "startFrame": 156,
+          "endFrame": 166
+        },
+        {
+          "word": "You",
+          "startSec": 5.631,
+          "endSec": 5.759,
+          "startFrame": 169,
+          "endFrame": 173
+        },
+        {
+          "word": "just",
+          "startSec": 5.84,
+          "endSec": 6.026,
+          "startFrame": 175,
+          "endFrame": 181
+        },
+        {
+          "word": "have",
+          "startSec": 6.06,
+          "endSec": 6.211,
+          "startFrame": 182,
+          "endFrame": 186
+        },
+        {
+          "word": "an",
+          "startSec": 6.235,
+          "endSec": 6.293,
+          "startFrame": 187,
+          "endFrame": 189
+        },
+        {
+          "word": "idea.",
+          "startSec": 6.327,
+          "endSec": 7.059,
+          "startFrame": 190,
+          "endFrame": 212
+        }
+      ]
+    },
+    {
+      "id": "02-make",
+      "audio": "02-make.mp3",
+      "text": "Job one. Make something people actually want. Smelling-bread-on-the-sidewalk good. Not the kind you wish people wanted. This is what people call operations.",
+      "speechSeconds": 9.149,
+      "durationSeconds": 9.749,
+      "durationFrames": 292,
+      "startFrame": 230,
+      "words": [
+        {
+          "word": "Job",
+          "startSec": 0.0,
+          "endSec": 0.348,
+          "startFrame": 0,
+          "endFrame": 10
+        },
+        {
+          "word": "one.",
+          "startSec": 0.441,
+          "endSec": 0.789,
+          "startFrame": 13,
+          "endFrame": 24
+        },
+        {
+          "word": "Make",
+          "startSec": 0.917,
+          "endSec": 1.149,
+          "startFrame": 28,
+          "endFrame": 34
+        },
+        {
+          "word": "something",
+          "startSec": 1.184,
+          "endSec": 1.498,
+          "startFrame": 36,
+          "endFrame": 45
+        },
+        {
+          "word": "people",
+          "startSec": 1.567,
+          "endSec": 1.904,
+          "startFrame": 47,
+          "endFrame": 57
+        },
+        {
+          "word": "actually",
+          "startSec": 1.974,
+          "endSec": 2.426,
+          "startFrame": 59,
+          "endFrame": 73
+        },
+        {
+          "word": "want.",
+          "startSec": 2.485,
+          "endSec": 2.926,
+          "startFrame": 75,
+          "endFrame": 88
+        },
+        {
+          "word": "Smelling-bread-on-the-sidewalk",
+          "startSec": 3.135,
+          "endSec": 4.47,
+          "startFrame": 94,
+          "endFrame": 134
+        },
+        {
+          "word": "good.",
+          "startSec": 4.54,
+          "endSec": 4.934,
+          "startFrame": 136,
+          "endFrame": 148
+        },
+        {
+          "word": "Not",
+          "startSec": 5.05,
+          "endSec": 5.259,
+          "startFrame": 152,
+          "endFrame": 158
+        },
+        {
+          "word": "the",
+          "startSec": 5.294,
+          "endSec": 5.364,
+          "startFrame": 159,
+          "endFrame": 161
+        },
+        {
+          "word": "kind",
+          "startSec": 5.41,
+          "endSec": 5.619,
+          "startFrame": 162,
+          "endFrame": 169
+        },
+        {
+          "word": "you",
+          "startSec": 5.666,
+          "endSec": 5.735,
+          "startFrame": 170,
+          "endFrame": 172
+        },
+        {
+          "word": "wish",
+          "startSec": 5.793,
+          "endSec": 5.944,
+          "startFrame": 174,
+          "endFrame": 178
+        },
+        {
+          "word": "people",
+          "startSec": 5.991,
+          "endSec": 6.246,
+          "startFrame": 180,
+          "endFrame": 187
+        },
+        {
+          "word": "wanted.",
+          "startSec": 6.281,
+          "endSec": 6.711,
+          "startFrame": 188,
+          "endFrame": 201
+        },
+        {
+          "word": "This",
+          "startSec": 6.827,
+          "endSec": 7.001,
+          "startFrame": 205,
+          "endFrame": 210
+        },
+        {
+          "word": "is",
+          "startSec": 7.047,
+          "endSec": 7.129,
+          "startFrame": 211,
+          "endFrame": 214
+        },
+        {
+          "word": "what",
+          "startSec": 7.175,
+          "endSec": 7.291,
+          "startFrame": 215,
+          "endFrame": 219
+        },
+        {
+          "word": "people",
+          "startSec": 7.338,
+          "endSec": 7.605,
+          "startFrame": 220,
+          "endFrame": 228
+        },
+        {
+          "word": "call",
+          "startSec": 7.651,
+          "endSec": 7.941,
+          "startFrame": 230,
+          "endFrame": 238
+        },
+        {
+          "word": "operations.",
+          "startSec": 8.057,
+          "endSec": 9.149,
+          "startFrame": 242,
+          "endFrame": 274
+        }
+      ]
+    },
+    {
+      "id": "03-handover",
+      "audio": "03-handover.mp3",
+      "text": "Job two. Get it into their hands. The shop has to be open. The customer has to find it. And the bread has to cross the counter. This is what people call marketing and sales.",
+      "speechSeconds": 9.799,
+      "durationSeconds": 10.399,
+      "durationFrames": 312,
+      "startFrame": 522,
+      "words": [
+        {
+          "word": "Job",
+          "startSec": 0.0,
+          "endSec": 0.313,
+          "startFrame": 0,
+          "endFrame": 9
+        },
+        {
+          "word": "two.",
+          "startSec": 0.36,
+          "endSec": 0.755,
+          "startFrame": 11,
+          "endFrame": 23
+        },
+        {
+          "word": "Get",
+          "startSec": 0.964,
+          "endSec": 1.126,
+          "startFrame": 29,
+          "endFrame": 34
+        },
+        {
+          "word": "it",
+          "startSec": 1.173,
+          "endSec": 1.242,
+          "startFrame": 35,
+          "endFrame": 37
+        },
+        {
+          "word": "into",
+          "startSec": 1.289,
+          "endSec": 1.463,
+          "startFrame": 39,
+          "endFrame": 44
+        },
+        {
+          "word": "their",
+          "startSec": 1.521,
+          "endSec": 1.672,
+          "startFrame": 46,
+          "endFrame": 50
+        },
+        {
+          "word": "hands.",
+          "startSec": 1.707,
+          "endSec": 2.101,
+          "startFrame": 51,
+          "endFrame": 63
+        },
+        {
+          "word": "The",
+          "startSec": 2.159,
+          "endSec": 2.287,
+          "startFrame": 65,
+          "endFrame": 69
+        },
+        {
+          "word": "shop",
+          "startSec": 2.334,
+          "endSec": 2.566,
+          "startFrame": 70,
+          "endFrame": 77
+        },
+        {
+          "word": "has",
+          "startSec": 2.624,
+          "endSec": 2.775,
+          "startFrame": 79,
+          "endFrame": 83
+        },
+        {
+          "word": "to",
+          "startSec": 2.833,
+          "endSec": 2.879,
+          "startFrame": 85,
+          "endFrame": 86
+        },
+        {
+          "word": "be",
+          "startSec": 2.937,
+          "endSec": 3.019,
+          "startFrame": 88,
+          "endFrame": 91
+        },
+        {
+          "word": "open.",
+          "startSec": 3.065,
+          "endSec": 3.495,
+          "startFrame": 92,
+          "endFrame": 105
+        },
+        {
+          "word": "The",
+          "startSec": 3.669,
+          "endSec": 3.785,
+          "startFrame": 110,
+          "endFrame": 114
+        },
+        {
+          "word": "customer",
+          "startSec": 3.831,
+          "endSec": 4.249,
+          "startFrame": 115,
+          "endFrame": 127
+        },
+        {
+          "word": "has",
+          "startSec": 4.319,
+          "endSec": 4.47,
+          "startFrame": 130,
+          "endFrame": 134
+        },
+        {
+          "word": "to",
+          "startSec": 4.528,
+          "endSec": 4.574,
+          "startFrame": 136,
+          "endFrame": 137
+        },
+        {
+          "word": "find",
+          "startSec": 4.644,
+          "endSec": 4.865,
+          "startFrame": 139,
+          "endFrame": 146
+        },
+        {
+          "word": "it.",
+          "startSec": 4.934,
+          "endSec": 5.132,
+          "startFrame": 148,
+          "endFrame": 154
+        },
+        {
+          "word": "And",
+          "startSec": 5.248,
+          "endSec": 5.375,
+          "startFrame": 157,
+          "endFrame": 161
+        },
+        {
+          "word": "the",
+          "startSec": 5.422,
+          "endSec": 5.492,
+          "startFrame": 163,
+          "endFrame": 165
+        },
+        {
+          "word": "bread",
+          "startSec": 5.526,
+          "endSec": 5.759,
+          "startFrame": 166,
+          "endFrame": 173
+        },
+        {
+          "word": "has",
+          "startSec": 5.817,
+          "endSec": 5.968,
+          "startFrame": 175,
+          "endFrame": 179
+        },
+        {
+          "word": "to",
+          "startSec": 6.037,
+          "endSec": 6.084,
+          "startFrame": 181,
+          "endFrame": 183
+        },
+        {
+          "word": "cross",
+          "startSec": 6.142,
+          "endSec": 6.397,
+          "startFrame": 184,
+          "endFrame": 192
+        },
+        {
+          "word": "the",
+          "startSec": 6.444,
+          "endSec": 6.513,
+          "startFrame": 193,
+          "endFrame": 195
+        },
+        {
+          "word": "counter.",
+          "startSec": 6.548,
+          "endSec": 7.012,
+          "startFrame": 196,
+          "endFrame": 210
+        },
+        {
+          "word": "This",
+          "startSec": 7.256,
+          "endSec": 7.43,
+          "startFrame": 218,
+          "endFrame": 223
+        },
+        {
+          "word": "is",
+          "startSec": 7.477,
+          "endSec": 7.558,
+          "startFrame": 224,
+          "endFrame": 227
+        },
+        {
+          "word": "what",
+          "startSec": 7.593,
+          "endSec": 7.721,
+          "startFrame": 228,
+          "endFrame": 232
+        },
+        {
+          "word": "people",
+          "startSec": 7.767,
+          "endSec": 8.057,
+          "startFrame": 233,
+          "endFrame": 242
+        },
+        {
+          "word": "call",
+          "startSec": 8.104,
+          "endSec": 8.394,
+          "startFrame": 243,
+          "endFrame": 252
+        },
+        {
+          "word": "marketing",
+          "startSec": 8.475,
+          "endSec": 8.87,
+          "startFrame": 254,
+          "endFrame": 266
+        },
+        {
+          "word": "and",
+          "startSec": 8.916,
+          "endSec": 8.986,
+          "startFrame": 267,
+          "endFrame": 270
+        },
+        {
+          "word": "sales.",
+          "startSec": 9.044,
+          "endSec": 9.799,
+          "startFrame": 271,
+          "endFrame": 294
+        }
+      ]
+    },
+    {
+      "id": "04-keep",
+      "audio": "04-keep.mp3",
+      "text": "Job three. Keep more than it cost. The customer pays five dollars. Two of those go right back out, for flour, power, and your time. Three dollars stay in the jar. That three-dollar gap is the whole business. People call this finance.",
+      "speechSeconds": 13.932,
+      "durationSeconds": 14.532,
+      "durationFrames": 436,
+      "startFrame": 834,
+      "words": [
+        {
+          "word": "Job",
+          "startSec": 0.0,
+          "endSec": 0.325,
+          "startFrame": 0,
+          "endFrame": 10
+        },
+        {
+          "word": "three.",
+          "startSec": 0.383,
+          "endSec": 0.848,
+          "startFrame": 11,
+          "endFrame": 25
+        },
+        {
+          "word": "Keep",
+          "startSec": 0.998,
+          "endSec": 1.231,
+          "startFrame": 30,
+          "endFrame": 37
+        },
+        {
+          "word": "more",
+          "startSec": 1.289,
+          "endSec": 1.463,
+          "startFrame": 39,
+          "endFrame": 44
+        },
+        {
+          "word": "than",
+          "startSec": 1.498,
+          "endSec": 1.614,
+          "startFrame": 45,
+          "endFrame": 48
+        },
+        {
+          "word": "it",
+          "startSec": 1.649,
+          "endSec": 1.707,
+          "startFrame": 49,
+          "endFrame": 51
+        },
+        {
+          "word": "cost.",
+          "startSec": 1.753,
+          "endSec": 2.392,
+          "startFrame": 53,
+          "endFrame": 72
+        },
+        {
+          "word": "The",
+          "startSec": 2.67,
+          "endSec": 2.775,
+          "startFrame": 80,
+          "endFrame": 83
+        },
+        {
+          "word": "customer",
+          "startSec": 2.833,
+          "endSec": 3.228,
+          "startFrame": 85,
+          "endFrame": 97
+        },
+        {
+          "word": "pays",
+          "startSec": 3.286,
+          "endSec": 3.495,
+          "startFrame": 99,
+          "endFrame": 105
+        },
+        {
+          "word": "five",
+          "startSec": 3.553,
+          "endSec": 3.773,
+          "startFrame": 107,
+          "endFrame": 113
+        },
+        {
+          "word": "dollars.",
+          "startSec": 3.796,
+          "endSec": 4.377,
+          "startFrame": 114,
+          "endFrame": 131
+        },
+        {
+          "word": "Two",
+          "startSec": 4.493,
+          "endSec": 4.644,
+          "startFrame": 135,
+          "endFrame": 139
+        },
+        {
+          "word": "of",
+          "startSec": 4.702,
+          "endSec": 4.748,
+          "startFrame": 141,
+          "endFrame": 142
+        },
+        {
+          "word": "those",
+          "startSec": 4.795,
+          "endSec": 5.004,
+          "startFrame": 144,
+          "endFrame": 150
+        },
+        {
+          "word": "go",
+          "startSec": 5.039,
+          "endSec": 5.166,
+          "startFrame": 151,
+          "endFrame": 155
+        },
+        {
+          "word": "right",
+          "startSec": 5.236,
+          "endSec": 5.399,
+          "startFrame": 157,
+          "endFrame": 162
+        },
+        {
+          "word": "back",
+          "startSec": 5.433,
+          "endSec": 5.619,
+          "startFrame": 163,
+          "endFrame": 169
+        },
+        {
+          "word": "out,",
+          "startSec": 5.7,
+          "endSec": 5.921,
+          "startFrame": 171,
+          "endFrame": 178
+        },
+        {
+          "word": "for",
+          "startSec": 5.968,
+          "endSec": 6.107,
+          "startFrame": 179,
+          "endFrame": 183
+        },
+        {
+          "word": "flour,",
+          "startSec": 6.165,
+          "endSec": 6.594,
+          "startFrame": 185,
+          "endFrame": 198
+        },
+        {
+          "word": "power,",
+          "startSec": 6.653,
+          "endSec": 7.105,
+          "startFrame": 200,
+          "endFrame": 213
+        },
+        {
+          "word": "and",
+          "startSec": 7.129,
+          "endSec": 7.303,
+          "startFrame": 214,
+          "endFrame": 219
+        },
+        {
+          "word": "your",
+          "startSec": 7.361,
+          "endSec": 7.488,
+          "startFrame": 221,
+          "endFrame": 225
+        },
+        {
+          "word": "time.",
+          "startSec": 7.535,
+          "endSec": 8.046,
+          "startFrame": 226,
+          "endFrame": 241
+        },
+        {
+          "word": "Three",
+          "startSec": 8.324,
+          "endSec": 8.557,
+          "startFrame": 250,
+          "endFrame": 257
+        },
+        {
+          "word": "dollars",
+          "startSec": 8.591,
+          "endSec": 8.905,
+          "startFrame": 258,
+          "endFrame": 267
+        },
+        {
+          "word": "stay",
+          "startSec": 8.951,
+          "endSec": 9.125,
+          "startFrame": 269,
+          "endFrame": 274
+        },
+        {
+          "word": "in",
+          "startSec": 9.149,
+          "endSec": 9.207,
+          "startFrame": 274,
+          "endFrame": 276
+        },
+        {
+          "word": "the",
+          "startSec": 9.242,
+          "endSec": 9.311,
+          "startFrame": 277,
+          "endFrame": 279
+        },
+        {
+          "word": "jar.",
+          "startSec": 9.346,
+          "endSec": 9.845,
+          "startFrame": 280,
+          "endFrame": 295
+        },
+        {
+          "word": "That",
+          "startSec": 10.019,
+          "endSec": 10.24,
+          "startFrame": 301,
+          "endFrame": 307
+        },
+        {
+          "word": "three-dollar",
+          "startSec": 10.298,
+          "endSec": 10.786,
+          "startFrame": 309,
+          "endFrame": 324
+        },
+        {
+          "word": "gap",
+          "startSec": 10.844,
+          "endSec": 11.099,
+          "startFrame": 325,
+          "endFrame": 333
+        },
+        {
+          "word": "is",
+          "startSec": 11.169,
+          "endSec": 11.25,
+          "startFrame": 335,
+          "endFrame": 338
+        },
+        {
+          "word": "the",
+          "startSec": 11.296,
+          "endSec": 11.378,
+          "startFrame": 339,
+          "endFrame": 341
+        },
+        {
+          "word": "whole",
+          "startSec": 11.436,
+          "endSec": 11.68,
+          "startFrame": 343,
+          "endFrame": 350
+        },
+        {
+          "word": "business.",
+          "startSec": 11.714,
+          "endSec": 12.365,
+          "startFrame": 351,
+          "endFrame": 371
+        },
+        {
+          "word": "People",
+          "startSec": 12.411,
+          "endSec": 12.725,
+          "startFrame": 372,
+          "endFrame": 382
+        },
+        {
+          "word": "call",
+          "startSec": 12.759,
+          "endSec": 12.934,
+          "startFrame": 383,
+          "endFrame": 388
+        },
+        {
+          "word": "this",
+          "startSec": 12.992,
+          "endSec": 13.119,
+          "startFrame": 390,
+          "endFrame": 394
+        },
+        {
+          "word": "finance.",
+          "startSec": 13.177,
+          "endSec": 13.932,
+          "startFrame": 395,
+          "endFrame": 418
+        }
+      ]
+    },
+    {
+      "id": "05-trap",
+      "audio": "05-trap.mp3",
+      "text": "Most things people call a business only do one or two of these. Watch. Bakery A. Great bread. Locked door. Their operations work, their marketing doesn't. Bakery B. Open every day. Bread nobody remembers. Marketing fine, operations broken. Bakery C. Customers everywhere, but five dollars in, six dollars out. Finance is the leak. Find the empty slot. Fix that one.",
+      "speechSeconds": 25.821,
+      "durationSeconds": 26.421,
+      "durationFrames": 793,
+      "startFrame": 1270,
+      "words": [
+        {
+          "word": "Most",
+          "startSec": 0.0,
+          "endSec": 0.302,
+          "startFrame": 0,
+          "endFrame": 9
+        },
+        {
+          "word": "things",
+          "startSec": 0.337,
+          "endSec": 0.569,
+          "startFrame": 10,
+          "endFrame": 17
+        },
+        {
+          "word": "people",
+          "startSec": 0.639,
+          "endSec": 0.906,
+          "startFrame": 19,
+          "endFrame": 27
+        },
+        {
+          "word": "call",
+          "startSec": 0.952,
+          "endSec": 1.149,
+          "startFrame": 29,
+          "endFrame": 34
+        },
+        {
+          "word": "a",
+          "startSec": 1.207,
+          "endSec": 1.242,
+          "startFrame": 36,
+          "endFrame": 37
+        },
+        {
+          "word": "business",
+          "startSec": 1.289,
+          "endSec": 1.765,
+          "startFrame": 39,
+          "endFrame": 53
+        },
+        {
+          "word": "only",
+          "startSec": 1.858,
+          "endSec": 2.125,
+          "startFrame": 56,
+          "endFrame": 64
+        },
+        {
+          "word": "do",
+          "startSec": 2.194,
+          "endSec": 2.357,
+          "startFrame": 66,
+          "endFrame": 71
+        },
+        {
+          "word": "one",
+          "startSec": 2.45,
+          "endSec": 2.635,
+          "startFrame": 74,
+          "endFrame": 79
+        },
+        {
+          "word": "or",
+          "startSec": 2.659,
+          "endSec": 2.728,
+          "startFrame": 80,
+          "endFrame": 82
+        },
+        {
+          "word": "two",
+          "startSec": 2.786,
+          "endSec": 2.926,
+          "startFrame": 84,
+          "endFrame": 88
+        },
+        {
+          "word": "of",
+          "startSec": 2.995,
+          "endSec": 3.053,
+          "startFrame": 90,
+          "endFrame": 92
+        },
+        {
+          "word": "these.",
+          "startSec": 3.1,
+          "endSec": 3.576,
+          "startFrame": 93,
+          "endFrame": 107
+        },
+        {
+          "word": "Watch.",
+          "startSec": 4.017,
+          "endSec": 4.667,
+          "startFrame": 121,
+          "endFrame": 140
+        },
+        {
+          "word": "Bakery",
+          "startSec": 4.992,
+          "endSec": 5.422,
+          "startFrame": 150,
+          "endFrame": 163
+        },
+        {
+          "word": "A.",
+          "startSec": 5.492,
+          "endSec": 5.944,
+          "startFrame": 165,
+          "endFrame": 178
+        },
+        {
+          "word": "Great",
+          "startSec": 6.095,
+          "endSec": 6.327,
+          "startFrame": 183,
+          "endFrame": 190
+        },
+        {
+          "word": "bread.",
+          "startSec": 6.374,
+          "endSec": 6.78,
+          "startFrame": 191,
+          "endFrame": 203
+        },
+        {
+          "word": "Locked",
+          "startSec": 6.908,
+          "endSec": 7.198,
+          "startFrame": 207,
+          "endFrame": 216
+        },
+        {
+          "word": "door.",
+          "startSec": 7.221,
+          "endSec": 7.697,
+          "startFrame": 217,
+          "endFrame": 231
+        },
+        {
+          "word": "Their",
+          "startSec": 7.976,
+          "endSec": 8.173,
+          "startFrame": 239,
+          "endFrame": 245
+        },
+        {
+          "word": "operations",
+          "startSec": 8.22,
+          "endSec": 8.777,
+          "startFrame": 247,
+          "endFrame": 263
+        },
+        {
+          "word": "work,",
+          "startSec": 8.824,
+          "endSec": 9.149,
+          "startFrame": 265,
+          "endFrame": 274
+        },
+        {
+          "word": "their",
+          "startSec": 9.207,
+          "endSec": 9.392,
+          "startFrame": 276,
+          "endFrame": 282
+        },
+        {
+          "word": "marketing",
+          "startSec": 9.451,
+          "endSec": 9.81,
+          "startFrame": 284,
+          "endFrame": 294
+        },
+        {
+          "word": "doesn't.",
+          "startSec": 9.857,
+          "endSec": 10.356,
+          "startFrame": 296,
+          "endFrame": 311
+        },
+        {
+          "word": "Bakery",
+          "startSec": 10.6,
+          "endSec": 11.006,
+          "startFrame": 318,
+          "endFrame": 330
+        },
+        {
+          "word": "B.",
+          "startSec": 11.064,
+          "endSec": 11.424,
+          "startFrame": 332,
+          "endFrame": 343
+        },
+        {
+          "word": "Open",
+          "startSec": 11.633,
+          "endSec": 12.016,
+          "startFrame": 349,
+          "endFrame": 360
+        },
+        {
+          "word": "every",
+          "startSec": 12.132,
+          "endSec": 12.457,
+          "startFrame": 364,
+          "endFrame": 374
+        },
+        {
+          "word": "day.",
+          "startSec": 12.516,
+          "endSec": 12.922,
+          "startFrame": 375,
+          "endFrame": 388
+        },
+        {
+          "word": "Bread",
+          "startSec": 13.096,
+          "endSec": 13.375,
+          "startFrame": 393,
+          "endFrame": 401
+        },
+        {
+          "word": "nobody",
+          "startSec": 13.456,
+          "endSec": 13.769,
+          "startFrame": 404,
+          "endFrame": 413
+        },
+        {
+          "word": "remembers.",
+          "startSec": 13.839,
+          "endSec": 14.571,
+          "startFrame": 415,
+          "endFrame": 437
+        },
+        {
+          "word": "Marketing",
+          "startSec": 14.896,
+          "endSec": 15.325,
+          "startFrame": 447,
+          "endFrame": 460
+        },
+        {
+          "word": "fine,",
+          "startSec": 15.383,
+          "endSec": 15.813,
+          "startFrame": 461,
+          "endFrame": 474
+        },
+        {
+          "word": "operations",
+          "startSec": 15.906,
+          "endSec": 16.533,
+          "startFrame": 477,
+          "endFrame": 496
+        },
+        {
+          "word": "broken.",
+          "startSec": 16.591,
+          "endSec": 17.125,
+          "startFrame": 498,
+          "endFrame": 514
+        },
+        {
+          "word": "Bakery",
+          "startSec": 17.299,
+          "endSec": 17.694,
+          "startFrame": 519,
+          "endFrame": 531
+        },
+        {
+          "word": "C.",
+          "startSec": 17.763,
+          "endSec": 18.135,
+          "startFrame": 533,
+          "endFrame": 544
+        },
+        {
+          "word": "Customers",
+          "startSec": 18.344,
+          "endSec": 19.006,
+          "startFrame": 550,
+          "endFrame": 570
+        },
+        {
+          "word": "everywhere,",
+          "startSec": 19.122,
+          "endSec": 19.737,
+          "startFrame": 574,
+          "endFrame": 592
+        },
+        {
+          "word": "but",
+          "startSec": 19.783,
+          "endSec": 19.946,
+          "startFrame": 593,
+          "endFrame": 598
+        },
+        {
+          "word": "five",
+          "startSec": 20.004,
+          "endSec": 20.248,
+          "startFrame": 600,
+          "endFrame": 607
+        },
+        {
+          "word": "dollars",
+          "startSec": 20.283,
+          "endSec": 20.596,
+          "startFrame": 608,
+          "endFrame": 618
+        },
+        {
+          "word": "in,",
+          "startSec": 20.666,
+          "endSec": 20.898,
+          "startFrame": 620,
+          "endFrame": 627
+        },
+        {
+          "word": "six",
+          "startSec": 20.944,
+          "endSec": 21.188,
+          "startFrame": 628,
+          "endFrame": 636
+        },
+        {
+          "word": "dollars",
+          "startSec": 21.246,
+          "endSec": 21.583,
+          "startFrame": 637,
+          "endFrame": 647
+        },
+        {
+          "word": "out.",
+          "startSec": 21.641,
+          "endSec": 21.931,
+          "startFrame": 649,
+          "endFrame": 658
+        },
+        {
+          "word": "Finance",
+          "startSec": 22.314,
+          "endSec": 22.837,
+          "startFrame": 669,
+          "endFrame": 685
+        },
+        {
+          "word": "is",
+          "startSec": 22.872,
+          "endSec": 22.941,
+          "startFrame": 686,
+          "endFrame": 688
+        },
+        {
+          "word": "the",
+          "startSec": 23.011,
+          "endSec": 23.081,
+          "startFrame": 690,
+          "endFrame": 692
+        },
+        {
+          "word": "leak.",
+          "startSec": 23.139,
+          "endSec": 23.499,
+          "startFrame": 694,
+          "endFrame": 705
+        },
+        {
+          "word": "Find",
+          "startSec": 23.592,
+          "endSec": 23.859,
+          "startFrame": 708,
+          "endFrame": 716
+        },
+        {
+          "word": "the",
+          "startSec": 23.893,
+          "endSec": 23.963,
+          "startFrame": 717,
+          "endFrame": 719
+        },
+        {
+          "word": "empty",
+          "startSec": 24.021,
+          "endSec": 24.277,
+          "startFrame": 721,
+          "endFrame": 728
+        },
+        {
+          "word": "slot.",
+          "startSec": 24.335,
+          "endSec": 24.729,
+          "startFrame": 730,
+          "endFrame": 742
+        },
+        {
+          "word": "Fix",
+          "startSec": 24.799,
+          "endSec": 25.031,
+          "startFrame": 744,
+          "endFrame": 751
+        },
+        {
+          "word": "that",
+          "startSec": 25.101,
+          "endSec": 25.252,
+          "startFrame": 753,
+          "endFrame": 758
+        },
+        {
+          "word": "one.",
+          "startSec": 25.333,
+          "endSec": 25.821,
+          "startFrame": 760,
+          "endFrame": 775
+        }
+      ]
+    },
+    {
+      "id": "06-outro",
+      "audio": "06-outro.mp3",
+      "text": "So look at your idea. Is each box checked? Operations. Marketing. Finance. Make. Hand over. Keep. Whichever answer is no, start there.",
+      "speechSeconds": 9.752,
+      "durationSeconds": 10.352,
+      "durationFrames": 311,
+      "startFrame": 2063,
+      "words": [
+        {
+          "word": "So",
+          "startSec": 0.0,
+          "endSec": 0.29,
+          "startFrame": 0,
+          "endFrame": 9
+        },
+        {
+          "word": "look",
+          "startSec": 0.464,
+          "endSec": 0.65,
+          "startFrame": 14,
+          "endFrame": 20
+        },
+        {
+          "word": "at",
+          "startSec": 0.685,
+          "endSec": 0.731,
+          "startFrame": 21,
+          "endFrame": 22
+        },
+        {
+          "word": "your",
+          "startSec": 0.778,
+          "endSec": 0.906,
+          "startFrame": 23,
+          "endFrame": 27
+        },
+        {
+          "word": "idea.",
+          "startSec": 0.964,
+          "endSec": 1.416,
+          "startFrame": 29,
+          "endFrame": 42
+        },
+        {
+          "word": "Is",
+          "startSec": 1.498,
+          "endSec": 1.66,
+          "startFrame": 45,
+          "endFrame": 50
+        },
+        {
+          "word": "each",
+          "startSec": 1.718,
+          "endSec": 1.881,
+          "startFrame": 52,
+          "endFrame": 56
+        },
+        {
+          "word": "box",
+          "startSec": 1.939,
+          "endSec": 2.252,
+          "startFrame": 58,
+          "endFrame": 68
+        },
+        {
+          "word": "checked?",
+          "startSec": 2.322,
+          "endSec": 2.844,
+          "startFrame": 70,
+          "endFrame": 85
+        },
+        {
+          "word": "Operations.",
+          "startSec": 3.053,
+          "endSec": 3.878,
+          "startFrame": 92,
+          "endFrame": 116
+        },
+        {
+          "word": "Marketing.",
+          "startSec": 3.994,
+          "endSec": 4.563,
+          "startFrame": 120,
+          "endFrame": 137
+        },
+        {
+          "word": "Finance.",
+          "startSec": 4.644,
+          "endSec": 5.329,
+          "startFrame": 139,
+          "endFrame": 160
+        },
+        {
+          "word": "Make.",
+          "startSec": 5.41,
+          "endSec": 5.817,
+          "startFrame": 162,
+          "endFrame": 175
+        },
+        {
+          "word": "Hand",
+          "startSec": 5.898,
+          "endSec": 6.165,
+          "startFrame": 177,
+          "endFrame": 185
+        },
+        {
+          "word": "over.",
+          "startSec": 6.223,
+          "endSec": 6.571,
+          "startFrame": 187,
+          "endFrame": 197
+        },
+        {
+          "word": "Keep.",
+          "startSec": 6.687,
+          "endSec": 7.129,
+          "startFrame": 201,
+          "endFrame": 214
+        },
+        {
+          "word": "Whichever",
+          "startSec": 7.454,
+          "endSec": 7.848,
+          "startFrame": 224,
+          "endFrame": 235
+        },
+        {
+          "word": "answer",
+          "startSec": 7.906,
+          "endSec": 8.185,
+          "startFrame": 237,
+          "endFrame": 246
+        },
+        {
+          "word": "is",
+          "startSec": 8.231,
+          "endSec": 8.301,
+          "startFrame": 247,
+          "endFrame": 249
+        },
+        {
+          "word": "no,",
+          "startSec": 8.371,
+          "endSec": 8.707,
+          "startFrame": 251,
+          "endFrame": 261
+        },
+        {
+          "word": "start",
+          "startSec": 8.858,
+          "endSec": 9.125,
+          "startFrame": 266,
+          "endFrame": 274
+        },
+        {
+          "word": "there.",
+          "startSec": 9.16,
+          "endSec": 9.752,
+          "startFrame": 275,
+          "endFrame": 293
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1174 @@
+{
+  "fps": 30,
+  "voiceId": "FGY2WhTYpPnrIDTdsKH5",
+  "modelId": "eleven_multilingual_v2",
+  "totalSeconds": 59.0333,
+  "totalFrames": 1771,
+  "scenes": [
+    {
+      "id": "01-graveyard",
+      "audio": "01-graveyard.mp3",
+      "text": "Most products fail for one reason. They built something nobody actually needed. Not bad design. Not bad marketing. The pain wasn't real.",
+      "speechSeconds": 8.684,
+      "durationSeconds": 10.084,
+      "durationFrames": 303,
+      "startFrame": 0,
+      "words": [
+        {
+          "word": "Most",
+          "startSec": 0.0,
+          "endSec": 0.29,
+          "startFrame": 0,
+          "endFrame": 9
+        },
+        {
+          "word": "products",
+          "startSec": 0.337,
+          "endSec": 0.731,
+          "startFrame": 10,
+          "endFrame": 22
+        },
+        {
+          "word": "fail",
+          "startSec": 0.778,
+          "endSec": 0.998,
+          "startFrame": 23,
+          "endFrame": 30
+        },
+        {
+          "word": "for",
+          "startSec": 1.057,
+          "endSec": 1.184,
+          "startFrame": 32,
+          "endFrame": 36
+        },
+        {
+          "word": "one",
+          "startSec": 1.254,
+          "endSec": 1.416,
+          "startFrame": 38,
+          "endFrame": 42
+        },
+        {
+          "word": "reason.",
+          "startSec": 1.451,
+          "endSec": 2.009,
+          "startFrame": 44,
+          "endFrame": 60
+        },
+        {
+          "word": "They",
+          "startSec": 2.125,
+          "endSec": 2.299,
+          "startFrame": 64,
+          "endFrame": 69
+        },
+        {
+          "word": "built",
+          "startSec": 2.345,
+          "endSec": 2.554,
+          "startFrame": 70,
+          "endFrame": 77
+        },
+        {
+          "word": "something",
+          "startSec": 2.612,
+          "endSec": 2.972,
+          "startFrame": 78,
+          "endFrame": 89
+        },
+        {
+          "word": "nobody",
+          "startSec": 3.053,
+          "endSec": 3.413,
+          "startFrame": 92,
+          "endFrame": 102
+        },
+        {
+          "word": "actually",
+          "startSec": 3.483,
+          "endSec": 3.866,
+          "startFrame": 104,
+          "endFrame": 116
+        },
+        {
+          "word": "needed.",
+          "startSec": 3.913,
+          "endSec": 4.389,
+          "startFrame": 117,
+          "endFrame": 132
+        },
+        {
+          "word": "Not",
+          "startSec": 4.667,
+          "endSec": 4.888,
+          "startFrame": 140,
+          "endFrame": 147
+        },
+        {
+          "word": "bad",
+          "startSec": 4.946,
+          "endSec": 5.12,
+          "startFrame": 148,
+          "endFrame": 154
+        },
+        {
+          "word": "design.",
+          "startSec": 5.166,
+          "endSec": 5.735,
+          "startFrame": 155,
+          "endFrame": 172
+        },
+        {
+          "word": "Not",
+          "startSec": 5.909,
+          "endSec": 6.118,
+          "startFrame": 177,
+          "endFrame": 184
+        },
+        {
+          "word": "bad",
+          "startSec": 6.165,
+          "endSec": 6.351,
+          "startFrame": 185,
+          "endFrame": 191
+        },
+        {
+          "word": "marketing.",
+          "startSec": 6.409,
+          "endSec": 6.989,
+          "startFrame": 192,
+          "endFrame": 210
+        },
+        {
+          "word": "The",
+          "startSec": 7.268,
+          "endSec": 7.396,
+          "startFrame": 218,
+          "endFrame": 222
+        },
+        {
+          "word": "pain",
+          "startSec": 7.454,
+          "endSec": 7.674,
+          "startFrame": 224,
+          "endFrame": 230
+        },
+        {
+          "word": "wasn't",
+          "startSec": 7.732,
+          "endSec": 7.988,
+          "startFrame": 232,
+          "endFrame": 240
+        },
+        {
+          "word": "real.",
+          "startSec": 8.034,
+          "endSec": 8.684,
+          "startFrame": 241,
+          "endFrame": 261
+        }
+      ]
+    },
+    {
+      "id": "02-rule",
+      "audio": "02-rule.mp3",
+      "text": "Here's the test in one line. A real pain has a number on it.",
+      "speechSeconds": 3.529,
+      "durationSeconds": 4.929,
+      "durationFrames": 148,
+      "startFrame": 303,
+      "words": [
+        {
+          "word": "Here's",
+          "startSec": 0.0,
+          "endSec": 0.313,
+          "startFrame": 0,
+          "endFrame": 9
+        },
+        {
+          "word": "the",
+          "startSec": 0.36,
+          "endSec": 0.43,
+          "startFrame": 11,
+          "endFrame": 13
+        },
+        {
+          "word": "test",
+          "startSec": 0.476,
+          "endSec": 0.766,
+          "startFrame": 14,
+          "endFrame": 23
+        },
+        {
+          "word": "in",
+          "startSec": 0.824,
+          "endSec": 0.894,
+          "startFrame": 25,
+          "endFrame": 27
+        },
+        {
+          "word": "one",
+          "startSec": 0.975,
+          "endSec": 1.115,
+          "startFrame": 29,
+          "endFrame": 33
+        },
+        {
+          "word": "line.",
+          "startSec": 1.149,
+          "endSec": 1.509,
+          "startFrame": 34,
+          "endFrame": 45
+        },
+        {
+          "word": "A",
+          "startSec": 1.66,
+          "endSec": 1.741,
+          "startFrame": 50,
+          "endFrame": 52
+        },
+        {
+          "word": "real",
+          "startSec": 1.823,
+          "endSec": 2.02,
+          "startFrame": 55,
+          "endFrame": 61
+        },
+        {
+          "word": "pain",
+          "startSec": 2.067,
+          "endSec": 2.299,
+          "startFrame": 62,
+          "endFrame": 69
+        },
+        {
+          "word": "has",
+          "startSec": 2.368,
+          "endSec": 2.519,
+          "startFrame": 71,
+          "endFrame": 76
+        },
+        {
+          "word": "a",
+          "startSec": 2.566,
+          "endSec": 2.601,
+          "startFrame": 77,
+          "endFrame": 78
+        },
+        {
+          "word": "number",
+          "startSec": 2.647,
+          "endSec": 2.879,
+          "startFrame": 79,
+          "endFrame": 86
+        },
+        {
+          "word": "on",
+          "startSec": 2.937,
+          "endSec": 3.03,
+          "startFrame": 88,
+          "endFrame": 91
+        },
+        {
+          "word": "it.",
+          "startSec": 3.088,
+          "endSec": 3.529,
+          "startFrame": 93,
+          "endFrame": 106
+        }
+      ]
+    },
+    {
+      "id": "03-two-customers",
+      "audio": "03-two-customers.mp3",
+      "text": "Listen to two customers. The first says \u2014 I'd love a better tool. No number. That's not a pain. That's an inconvenience. The second says \u2014 I lose six hours every single Monday. Six hours. There's your number. That's a real pain.",
+      "speechSeconds": 14.629,
+      "durationSeconds": 16.029,
+      "durationFrames": 481,
+      "startFrame": 451,
+      "words": [
+        {
+          "word": "Listen",
+          "startSec": 0.0,
+          "endSec": 0.325,
+          "startFrame": 0,
+          "endFrame": 10
+        },
+        {
+          "word": "to",
+          "startSec": 0.372,
+          "endSec": 0.43,
+          "startFrame": 11,
+          "endFrame": 13
+        },
+        {
+          "word": "two",
+          "startSec": 0.488,
+          "endSec": 0.604,
+          "startFrame": 15,
+          "endFrame": 18
+        },
+        {
+          "word": "customers.",
+          "startSec": 0.673,
+          "endSec": 1.405,
+          "startFrame": 20,
+          "endFrame": 42
+        },
+        {
+          "word": "The",
+          "startSec": 1.556,
+          "endSec": 1.66,
+          "startFrame": 47,
+          "endFrame": 50
+        },
+        {
+          "word": "first",
+          "startSec": 1.707,
+          "endSec": 1.939,
+          "startFrame": 51,
+          "endFrame": 58
+        },
+        {
+          "word": "says",
+          "startSec": 1.985,
+          "endSec": 2.31,
+          "startFrame": 60,
+          "endFrame": 69
+        },
+        {
+          "word": "\u2014",
+          "startSec": 2.519,
+          "endSec": 2.659,
+          "startFrame": 76,
+          "endFrame": 80
+        },
+        {
+          "word": "I'd",
+          "startSec": 2.775,
+          "endSec": 2.937,
+          "startFrame": 83,
+          "endFrame": 88
+        },
+        {
+          "word": "love",
+          "startSec": 2.984,
+          "endSec": 3.135,
+          "startFrame": 90,
+          "endFrame": 94
+        },
+        {
+          "word": "a",
+          "startSec": 3.158,
+          "endSec": 3.181,
+          "startFrame": 95,
+          "endFrame": 95
+        },
+        {
+          "word": "better",
+          "startSec": 3.228,
+          "endSec": 3.413,
+          "startFrame": 97,
+          "endFrame": 102
+        },
+        {
+          "word": "tool.",
+          "startSec": 3.471,
+          "endSec": 3.878,
+          "startFrame": 104,
+          "endFrame": 116
+        },
+        {
+          "word": "No",
+          "startSec": 4.029,
+          "endSec": 4.18,
+          "startFrame": 121,
+          "endFrame": 125
+        },
+        {
+          "word": "number.",
+          "startSec": 4.249,
+          "endSec": 4.714,
+          "startFrame": 127,
+          "endFrame": 141
+        },
+        {
+          "word": "That's",
+          "startSec": 4.865,
+          "endSec": 5.132,
+          "startFrame": 146,
+          "endFrame": 154
+        },
+        {
+          "word": "not",
+          "startSec": 5.19,
+          "endSec": 5.329,
+          "startFrame": 156,
+          "endFrame": 160
+        },
+        {
+          "word": "a",
+          "startSec": 5.364,
+          "endSec": 5.387,
+          "startFrame": 161,
+          "endFrame": 162
+        },
+        {
+          "word": "pain.",
+          "startSec": 5.433,
+          "endSec": 5.875,
+          "startFrame": 163,
+          "endFrame": 176
+        },
+        {
+          "word": "That's",
+          "startSec": 6.026,
+          "endSec": 6.327,
+          "startFrame": 181,
+          "endFrame": 190
+        },
+        {
+          "word": "an",
+          "startSec": 6.362,
+          "endSec": 6.432,
+          "startFrame": 191,
+          "endFrame": 193
+        },
+        {
+          "word": "inconvenience.",
+          "startSec": 6.467,
+          "endSec": 7.43,
+          "startFrame": 194,
+          "endFrame": 223
+        },
+        {
+          "word": "The",
+          "startSec": 7.605,
+          "endSec": 7.732,
+          "startFrame": 228,
+          "endFrame": 232
+        },
+        {
+          "word": "second",
+          "startSec": 7.79,
+          "endSec": 8.092,
+          "startFrame": 234,
+          "endFrame": 243
+        },
+        {
+          "word": "says",
+          "startSec": 8.15,
+          "endSec": 8.452,
+          "startFrame": 244,
+          "endFrame": 254
+        },
+        {
+          "word": "\u2014",
+          "startSec": 8.696,
+          "endSec": 8.754,
+          "startFrame": 261,
+          "endFrame": 263
+        },
+        {
+          "word": "I",
+          "startSec": 8.87,
+          "endSec": 8.916,
+          "startFrame": 266,
+          "endFrame": 267
+        },
+        {
+          "word": "lose",
+          "startSec": 9.033,
+          "endSec": 9.23,
+          "startFrame": 271,
+          "endFrame": 277
+        },
+        {
+          "word": "six",
+          "startSec": 9.253,
+          "endSec": 9.427,
+          "startFrame": 278,
+          "endFrame": 283
+        },
+        {
+          "word": "hours",
+          "startSec": 9.485,
+          "endSec": 9.787,
+          "startFrame": 285,
+          "endFrame": 294
+        },
+        {
+          "word": "every",
+          "startSec": 9.903,
+          "endSec": 10.228,
+          "startFrame": 297,
+          "endFrame": 307
+        },
+        {
+          "word": "single",
+          "startSec": 10.286,
+          "endSec": 10.588,
+          "startFrame": 309,
+          "endFrame": 318
+        },
+        {
+          "word": "Monday.",
+          "startSec": 10.623,
+          "endSec": 11.146,
+          "startFrame": 319,
+          "endFrame": 334
+        },
+        {
+          "word": "Six",
+          "startSec": 11.32,
+          "endSec": 11.552,
+          "startFrame": 340,
+          "endFrame": 347
+        },
+        {
+          "word": "hours.",
+          "startSec": 11.61,
+          "endSec": 12.179,
+          "startFrame": 348,
+          "endFrame": 365
+        },
+        {
+          "word": "There's",
+          "startSec": 12.33,
+          "endSec": 12.597,
+          "startFrame": 370,
+          "endFrame": 378
+        },
+        {
+          "word": "your",
+          "startSec": 12.632,
+          "endSec": 12.725,
+          "startFrame": 379,
+          "endFrame": 382
+        },
+        {
+          "word": "number.",
+          "startSec": 12.759,
+          "endSec": 13.166,
+          "startFrame": 383,
+          "endFrame": 395
+        },
+        {
+          "word": "That's",
+          "startSec": 13.282,
+          "endSec": 13.56,
+          "startFrame": 398,
+          "endFrame": 407
+        },
+        {
+          "word": "a",
+          "startSec": 13.595,
+          "endSec": 13.63,
+          "startFrame": 408,
+          "endFrame": 409
+        },
+        {
+          "word": "real",
+          "startSec": 13.688,
+          "endSec": 13.862,
+          "startFrame": 411,
+          "endFrame": 416
+        },
+        {
+          "word": "pain.",
+          "startSec": 13.92,
+          "endSec": 14.629,
+          "startFrame": 418,
+          "endFrame": 439
+        }
+      ]
+    },
+    {
+      "id": "04-question",
+      "audio": "04-question.mp3",
+      "text": "So how do you find the number? Don't ask \u2014 would you pay for this. They'll say yes to be polite. Ask \u2014 how do you solve it today. Then listen for the numbers. Time. Money. Workarounds.",
+      "speechSeconds": 10.96,
+      "durationSeconds": 12.36,
+      "durationFrames": 371,
+      "startFrame": 932,
+      "words": [
+        {
+          "word": "So",
+          "startSec": 0.0,
+          "endSec": 0.29,
+          "startFrame": 0,
+          "endFrame": 9
+        },
+        {
+          "word": "how",
+          "startSec": 0.406,
+          "endSec": 0.546,
+          "startFrame": 12,
+          "endFrame": 16
+        },
+        {
+          "word": "do",
+          "startSec": 0.58,
+          "endSec": 0.639,
+          "startFrame": 17,
+          "endFrame": 19
+        },
+        {
+          "word": "you",
+          "startSec": 0.673,
+          "endSec": 0.743,
+          "startFrame": 20,
+          "endFrame": 22
+        },
+        {
+          "word": "find",
+          "startSec": 0.789,
+          "endSec": 0.964,
+          "startFrame": 24,
+          "endFrame": 29
+        },
+        {
+          "word": "the",
+          "startSec": 0.998,
+          "endSec": 1.068,
+          "startFrame": 30,
+          "endFrame": 32
+        },
+        {
+          "word": "number?",
+          "startSec": 1.103,
+          "endSec": 1.544,
+          "startFrame": 33,
+          "endFrame": 46
+        },
+        {
+          "word": "Don't",
+          "startSec": 1.637,
+          "endSec": 1.892,
+          "startFrame": 49,
+          "endFrame": 57
+        },
+        {
+          "word": "ask",
+          "startSec": 1.939,
+          "endSec": 2.229,
+          "startFrame": 58,
+          "endFrame": 67
+        },
+        {
+          "word": "\u2014",
+          "startSec": 2.299,
+          "endSec": 2.345,
+          "startFrame": 69,
+          "endFrame": 70
+        },
+        {
+          "word": "would",
+          "startSec": 2.403,
+          "endSec": 2.601,
+          "startFrame": 72,
+          "endFrame": 78
+        },
+        {
+          "word": "you",
+          "startSec": 2.647,
+          "endSec": 2.728,
+          "startFrame": 79,
+          "endFrame": 82
+        },
+        {
+          "word": "pay",
+          "startSec": 2.798,
+          "endSec": 2.961,
+          "startFrame": 84,
+          "endFrame": 89
+        },
+        {
+          "word": "for",
+          "startSec": 3.007,
+          "endSec": 3.1,
+          "startFrame": 90,
+          "endFrame": 93
+        },
+        {
+          "word": "this.",
+          "startSec": 3.146,
+          "endSec": 3.587,
+          "startFrame": 94,
+          "endFrame": 108
+        },
+        {
+          "word": "They'll",
+          "startSec": 3.738,
+          "endSec": 3.982,
+          "startFrame": 112,
+          "endFrame": 119
+        },
+        {
+          "word": "say",
+          "startSec": 4.017,
+          "endSec": 4.133,
+          "startFrame": 121,
+          "endFrame": 124
+        },
+        {
+          "word": "yes",
+          "startSec": 4.191,
+          "endSec": 4.354,
+          "startFrame": 126,
+          "endFrame": 131
+        },
+        {
+          "word": "to",
+          "startSec": 4.412,
+          "endSec": 4.47,
+          "startFrame": 132,
+          "endFrame": 134
+        },
+        {
+          "word": "be",
+          "startSec": 4.528,
+          "endSec": 4.621,
+          "startFrame": 136,
+          "endFrame": 139
+        },
+        {
+          "word": "polite.",
+          "startSec": 4.667,
+          "endSec": 5.178,
+          "startFrame": 140,
+          "endFrame": 155
+        },
+        {
+          "word": "Ask",
+          "startSec": 5.352,
+          "endSec": 5.7,
+          "startFrame": 161,
+          "endFrame": 171
+        },
+        {
+          "word": "\u2014",
+          "startSec": 5.724,
+          "endSec": 5.793,
+          "startFrame": 172,
+          "endFrame": 174
+        },
+        {
+          "word": "how",
+          "startSec": 5.909,
+          "endSec": 6.037,
+          "startFrame": 177,
+          "endFrame": 181
+        },
+        {
+          "word": "do",
+          "startSec": 6.06,
+          "endSec": 6.118,
+          "startFrame": 182,
+          "endFrame": 184
+        },
+        {
+          "word": "you",
+          "startSec": 6.153,
+          "endSec": 6.223,
+          "startFrame": 185,
+          "endFrame": 187
+        },
+        {
+          "word": "solve",
+          "startSec": 6.269,
+          "endSec": 6.478,
+          "startFrame": 188,
+          "endFrame": 194
+        },
+        {
+          "word": "it",
+          "startSec": 6.513,
+          "endSec": 6.583,
+          "startFrame": 195,
+          "endFrame": 197
+        },
+        {
+          "word": "today.",
+          "startSec": 6.606,
+          "endSec": 7.082,
+          "startFrame": 198,
+          "endFrame": 212
+        },
+        {
+          "word": "Then",
+          "startSec": 7.198,
+          "endSec": 7.384,
+          "startFrame": 216,
+          "endFrame": 222
+        },
+        {
+          "word": "listen",
+          "startSec": 7.465,
+          "endSec": 7.721,
+          "startFrame": 224,
+          "endFrame": 232
+        },
+        {
+          "word": "for",
+          "startSec": 7.779,
+          "endSec": 7.872,
+          "startFrame": 233,
+          "endFrame": 236
+        },
+        {
+          "word": "the",
+          "startSec": 7.918,
+          "endSec": 7.988,
+          "startFrame": 238,
+          "endFrame": 240
+        },
+        {
+          "word": "numbers.",
+          "startSec": 8.022,
+          "endSec": 8.557,
+          "startFrame": 241,
+          "endFrame": 257
+        },
+        {
+          "word": "Time.",
+          "startSec": 8.649,
+          "endSec": 9.172,
+          "startFrame": 259,
+          "endFrame": 275
+        },
+        {
+          "word": "Money.",
+          "startSec": 9.346,
+          "endSec": 9.787,
+          "startFrame": 280,
+          "endFrame": 294
+        },
+        {
+          "word": "Workarounds.",
+          "startSec": 9.845,
+          "endSec": 10.96,
+          "startFrame": 295,
+          "endFrame": 329
+        }
+      ]
+    },
+    {
+      "id": "05-challenge",
+      "audio": "05-challenge.mp3",
+      "text": "Try it this week. Find five people. Ask the question. If three describe the same problem with real numbers, unprompted \u2014 you've found something worth building.",
+      "speechSeconds": 9.242,
+      "durationSeconds": 10.642,
+      "durationFrames": 319,
+      "startFrame": 1303,
+      "words": [
+        {
+          "word": "Try",
+          "startSec": 0.0,
+          "endSec": 0.267,
+          "startFrame": 0,
+          "endFrame": 8
+        },
+        {
+          "word": "it",
+          "startSec": 0.313,
+          "endSec": 0.372,
+          "startFrame": 9,
+          "endFrame": 11
+        },
+        {
+          "word": "this",
+          "startSec": 0.406,
+          "endSec": 0.557,
+          "startFrame": 12,
+          "endFrame": 17
+        },
+        {
+          "word": "week.",
+          "startSec": 0.627,
+          "endSec": 1.01,
+          "startFrame": 19,
+          "endFrame": 30
+        },
+        {
+          "word": "Find",
+          "startSec": 1.08,
+          "endSec": 1.335,
+          "startFrame": 32,
+          "endFrame": 40
+        },
+        {
+          "word": "five",
+          "startSec": 1.393,
+          "endSec": 1.602,
+          "startFrame": 42,
+          "endFrame": 48
+        },
+        {
+          "word": "people.",
+          "startSec": 1.637,
+          "endSec": 2.113,
+          "startFrame": 49,
+          "endFrame": 63
+        },
+        {
+          "word": "Ask",
+          "startSec": 2.206,
+          "endSec": 2.438,
+          "startFrame": 66,
+          "endFrame": 73
+        },
+        {
+          "word": "the",
+          "startSec": 2.485,
+          "endSec": 2.554,
+          "startFrame": 75,
+          "endFrame": 77
+        },
+        {
+          "word": "question.",
+          "startSec": 2.589,
+          "endSec": 3.262,
+          "startFrame": 78,
+          "endFrame": 98
+        },
+        {
+          "word": "If",
+          "startSec": 3.704,
+          "endSec": 3.855,
+          "startFrame": 111,
+          "endFrame": 116
+        },
+        {
+          "word": "three",
+          "startSec": 3.913,
+          "endSec": 4.145,
+          "startFrame": 117,
+          "endFrame": 124
+        },
+        {
+          "word": "describe",
+          "startSec": 4.191,
+          "endSec": 4.598,
+          "startFrame": 126,
+          "endFrame": 138
+        },
+        {
+          "word": "the",
+          "startSec": 4.621,
+          "endSec": 4.69,
+          "startFrame": 139,
+          "endFrame": 141
+        },
+        {
+          "word": "same",
+          "startSec": 4.737,
+          "endSec": 4.946,
+          "startFrame": 142,
+          "endFrame": 148
+        },
+        {
+          "word": "problem",
+          "startSec": 4.992,
+          "endSec": 5.341,
+          "startFrame": 150,
+          "endFrame": 160
+        },
+        {
+          "word": "with",
+          "startSec": 5.375,
+          "endSec": 5.503,
+          "startFrame": 161,
+          "endFrame": 165
+        },
+        {
+          "word": "real",
+          "startSec": 5.561,
+          "endSec": 5.747,
+          "startFrame": 167,
+          "endFrame": 172
+        },
+        {
+          "word": "numbers,",
+          "startSec": 5.805,
+          "endSec": 6.374,
+          "startFrame": 174,
+          "endFrame": 191
+        },
+        {
+          "word": "unprompted",
+          "startSec": 6.432,
+          "endSec": 7.117,
+          "startFrame": 193,
+          "endFrame": 214
+        },
+        {
+          "word": "\u2014",
+          "startSec": 7.291,
+          "endSec": 7.349,
+          "startFrame": 219,
+          "endFrame": 220
+        },
+        {
+          "word": "you've",
+          "startSec": 7.465,
+          "endSec": 7.663,
+          "startFrame": 224,
+          "endFrame": 230
+        },
+        {
+          "word": "found",
+          "startSec": 7.697,
+          "endSec": 7.883,
+          "startFrame": 231,
+          "endFrame": 236
+        },
+        {
+          "word": "something",
+          "startSec": 7.93,
+          "endSec": 8.231,
+          "startFrame": 238,
+          "endFrame": 247
+        },
+        {
+          "word": "worth",
+          "startSec": 8.29,
+          "endSec": 8.487,
+          "startFrame": 249,
+          "endFrame": 255
+        },
+        {
+          "word": "building.",
+          "startSec": 8.533,
+          "endSec": 9.242,
+          "startFrame": 256,
+          "endFrame": 277
+        }
+      ]
+    },
+    {
+      "id": "06-outro",
+      "audio": "06-outro.mp3",
+      "text": "If they can't put a number on it \u2014 it's not a pain. It's a wish.",
+      "speechSeconds": 3.576,
+      "durationSeconds": 4.976,
+      "durationFrames": 149,
+      "startFrame": 1622,
+      "words": [
+        {
+          "word": "If",
+          "startSec": 0.0,
+          "endSec": 0.151,
+          "startFrame": 0,
+          "endFrame": 5
+        },
+        {
+          "word": "they",
+          "startSec": 0.186,
+          "endSec": 0.302,
+          "startFrame": 6,
+          "endFrame": 9
+        },
+        {
+          "word": "can't",
+          "startSec": 0.348,
+          "endSec": 0.557,
+          "startFrame": 10,
+          "endFrame": 17
+        },
+        {
+          "word": "put",
+          "startSec": 0.592,
+          "endSec": 0.72,
+          "startFrame": 18,
+          "endFrame": 22
+        },
+        {
+          "word": "a",
+          "startSec": 0.755,
+          "endSec": 0.778,
+          "startFrame": 23,
+          "endFrame": 23
+        },
+        {
+          "word": "number",
+          "startSec": 0.824,
+          "endSec": 1.045,
+          "startFrame": 25,
+          "endFrame": 31
+        },
+        {
+          "word": "on",
+          "startSec": 1.103,
+          "endSec": 1.196,
+          "startFrame": 33,
+          "endFrame": 36
+        },
+        {
+          "word": "it",
+          "startSec": 1.242,
+          "endSec": 1.358,
+          "startFrame": 37,
+          "endFrame": 41
+        },
+        {
+          "word": "\u2014",
+          "startSec": 1.416,
+          "endSec": 1.463,
+          "startFrame": 42,
+          "endFrame": 44
+        },
+        {
+          "word": "it's",
+          "startSec": 1.486,
+          "endSec": 1.672,
+          "startFrame": 45,
+          "endFrame": 50
+        },
+        {
+          "word": "not",
+          "startSec": 1.73,
+          "endSec": 1.869,
+          "startFrame": 52,
+          "endFrame": 56
+        },
+        {
+          "word": "a",
+          "startSec": 1.904,
+          "endSec": 1.927,
+          "startFrame": 57,
+          "endFrame": 58
+        },
+        {
+          "word": "pain.",
+          "startSec": 1.962,
+          "endSec": 2.38,
+          "startFrame": 59,
+          "endFrame": 71
+        },
+        {
+          "word": "It's",
+          "startSec": 2.496,
+          "endSec": 2.682,
+          "startFrame": 75,
+          "endFrame": 80
+        },
+        {
+          "word": "a",
+          "startSec": 2.717,
+          "endSec": 2.74,
+          "startFrame": 82,
+          "endFrame": 82
+        },
+        {
+          "word": "wish.",
+          "startSec": 2.798,
+          "endSec": 3.576,
+          "startFrame": 84,
+          "endFrame": 107
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2338 @@
+{
+  "fps": 30,
+  "voiceId": "OFHP1Qg30FPoNfkUFFlA",
+  "modelId": "eleven_v3",
+  "totalSeconds": 142.0,
+  "totalFrames": 4260,
+  "scenes": [
+    {
+      "id": "01-problem",
+      "audio": "01-problem.mp3",
+      "text": "\u0627\u0644\u0646\u0645\u0648 \u0645\u0634 \u0646\u0641\u0633 \u0627\u0644\u0644\u0639\u0628\u0629 \u0644\u0643\u0644 \u0645\u0634\u0631\u0648\u0639. Spotify \u0628\u064a\u0643\u0628\u0631 \u0628\u0627\u0644\u0627\u0634\u062a\u0631\u0627\u0643\u0627\u062a\u060c TikTok \u0628\u064a\u0643\u0628\u0631 \u0628\u0627\u0644\u0645\u0634\u0627\u0631\u0643\u0629\u060c \u0648\u0645\u062a\u062c\u0631 \u0639\u0644\u0649 Amazon \u0628\u064a\u0643\u0628\u0631 \u0645\u0646 \u0628\u064a\u0639 \u0645\u0646\u062a\u062c\u0627\u062a. \u0627\u0644\u0623\u0648\u0644 \u0644\u0627\u0632\u0645 \u062a\u0639\u0631\u0641 \u0645\u0634\u0631\u0648\u0639\u0643 \u0645\u062d\u062a\u0627\u062c \u0623\u0646\u0647\u064a \u0645\u062d\u0631\u0643 \u0646\u0645\u0648.",
+      "speechSeconds": 11.268,
+      "durationSeconds": 11.568,
+      "durationFrames": 347,
+      "startFrame": 0,
+      "words": [
+        {
+          "word": "\u0627\u0644\u0646\u0645\u0648",
+          "startSec": 0.0,
+          "endSec": 0.32,
+          "startFrame": 0,
+          "endFrame": 10
+        },
+        {
+          "word": "\u0645\u0634",
+          "startSec": 0.4,
+          "endSec": 0.56,
+          "startFrame": 12,
+          "endFrame": 17
+        },
+        {
+          "word": "\u0646\u0641\u0633",
+          "startSec": 0.62,
+          "endSec": 0.8,
+          "startFrame": 19,
+          "endFrame": 24
+        },
+        {
+          "word": "\u0627\u0644\u0644\u0639\u0628\u0629",
+          "startSec": 0.84,
+          "endSec": 1.12,
+          "startFrame": 25,
+          "endFrame": 34
+        },
+        {
+          "word": "\u0644\u0643\u0644",
+          "startSec": 1.2,
+          "endSec": 1.44,
+          "startFrame": 36,
+          "endFrame": 43
+        },
+        {
+          "word": "\u0645\u0634\u0631\u0648\u0639.",
+          "startSec": 1.493,
+          "endSec": 1.919,
+          "startFrame": 45,
+          "endFrame": 58
+        },
+        {
+          "word": "Spotify",
+          "startSec": 2.019,
+          "endSec": 2.719,
+          "startFrame": 61,
+          "endFrame": 82
+        },
+        {
+          "word": "\u0628\u064a\u0643\u0628\u0631",
+          "startSec": 2.759,
+          "endSec": 3.039,
+          "startFrame": 83,
+          "endFrame": 91
+        },
+        {
+          "word": "\u0628\u0627\u0644\u0627\u0634\u062a\u0631\u0627\u0643\u0627\u062a\u060c",
+          "startSec": 3.079,
+          "endSec": 3.999,
+          "startFrame": 92,
+          "endFrame": 120
+        },
+        {
+          "word": "TikTok",
+          "startSec": 4.059,
+          "endSec": 4.398,
+          "startFrame": 122,
+          "endFrame": 132
+        },
+        {
+          "word": "\u0628\u064a\u0643\u0628\u0631",
+          "startSec": 4.478,
+          "endSec": 4.798,
+          "startFrame": 134,
+          "endFrame": 144
+        },
+        {
+          "word": "\u0628\u0627\u0644\u0645\u0634\u0627\u0631\u0643\u0629\u060c",
+          "startSec": 4.846,
+          "endSec": 5.517,
+          "startFrame": 145,
+          "endFrame": 166
+        },
+        {
+          "word": "\u0648\u0645\u062a\u062c\u0631",
+          "startSec": 5.557,
+          "endSec": 5.917,
+          "startFrame": 167,
+          "endFrame": 178
+        },
+        {
+          "word": "\u0639\u0644\u0649",
+          "startSec": 5.957,
+          "endSec": 6.077,
+          "startFrame": 179,
+          "endFrame": 182
+        },
+        {
+          "word": "Amazon",
+          "startSec": 6.134,
+          "endSec": 6.476,
+          "startFrame": 184,
+          "endFrame": 194
+        },
+        {
+          "word": "\u0628\u064a\u0643\u0628\u0631",
+          "startSec": 6.596,
+          "endSec": 7.036,
+          "startFrame": 198,
+          "endFrame": 211
+        },
+        {
+          "word": "\u0645\u0646",
+          "startSec": 7.089,
+          "endSec": 7.195,
+          "startFrame": 213,
+          "endFrame": 216
+        },
+        {
+          "word": "\u0628\u064a\u0639",
+          "startSec": 7.235,
+          "endSec": 7.355,
+          "startFrame": 217,
+          "endFrame": 221
+        },
+        {
+          "word": "\u0645\u0646\u062a\u062c\u0627\u062a.",
+          "startSec": 7.415,
+          "endSec": 8.475,
+          "startFrame": 222,
+          "endFrame": 254
+        },
+        {
+          "word": "\u0627\u0644\u0623\u0648\u0644",
+          "startSec": 8.528,
+          "endSec": 8.793,
+          "startFrame": 256,
+          "endFrame": 264
+        },
+        {
+          "word": "\u0644\u0627\u0632\u0645",
+          "startSec": 8.841,
+          "endSec": 9.033,
+          "startFrame": 265,
+          "endFrame": 271
+        },
+        {
+          "word": "\u062a\u0639\u0631\u0641",
+          "startSec": 9.086,
+          "endSec": 9.352,
+          "startFrame": 273,
+          "endFrame": 281
+        },
+        {
+          "word": "\u0645\u0634\u0631\u0648\u0639\u0643",
+          "startSec": 9.405,
+          "endSec": 9.831,
+          "startFrame": 282,
+          "endFrame": 295
+        },
+        {
+          "word": "\u0645\u062d\u062a\u0627\u062c",
+          "startSec": 9.884,
+          "endSec": 10.23,
+          "startFrame": 297,
+          "endFrame": 307
+        },
+        {
+          "word": "\u0623\u0646\u0647\u064a",
+          "startSec": 10.29,
+          "endSec": 10.55,
+          "startFrame": 309,
+          "endFrame": 316
+        },
+        {
+          "word": "\u0645\u062d\u0631\u0643",
+          "startSec": 10.603,
+          "endSec": 10.949,
+          "startFrame": 318,
+          "endFrame": 328
+        },
+        {
+          "word": "\u0646\u0645\u0648.",
+          "startSec": 11.002,
+          "endSec": 11.268,
+          "startFrame": 330,
+          "endFrame": 338
+        }
+      ]
+    },
+    {
+      "id": "02-framework",
+      "audio": "02-framework.mp3",
+      "text": "\u0641\u064a\u0647 \u062a\u0644\u0627\u062a \u0645\u062d\u0631\u0643\u0627\u062a \u0646\u0645\u0648. Sticky \u0645\u0639\u0646\u0627\u0647 retention: \u062a\u062d\u0627\u0641\u0638 \u0639\u0644\u0649 \u0627\u0644\u0639\u0645\u0644\u0627\u0621 \u0648\u064a\u062f\u0641\u0639\u0648\u0627 \u062a\u0627\u0646\u064a. Viral \u0645\u0639\u0646\u0627\u0647 \u0627\u0644\u0646\u0627\u0633 \u062a\u062c\u064a\u0628 \u0646\u0627\u0633. Paid \u0645\u0639\u0646\u0627\u0647 \u062a\u062f\u0641\u0639 \u0641\u0644\u0648\u0633 \u0648\u062a\u062c\u064a\u0628 \u0639\u0645\u064a\u0644\u060c \u0648\u0627\u0644\u0639\u0645\u064a\u0644 \u064a\u062c\u064a\u0628 \u0623\u0643\u062a\u0631 \u0645\u0646 \u062a\u0643\u0644\u0641\u062a\u0647. \u0643\u0644 \u0645\u062d\u0631\u0643 \u0644\u064a\u0647 \u0627\u062e\u062a\u0628\u0627\u0631 \u0648\u0627\u0636\u062d.",
+      "speechSeconds": 12.554,
+      "durationSeconds": 12.854,
+      "durationFrames": 386,
+      "startFrame": 347,
+      "words": [
+        {
+          "word": "\u0641\u064a\u0647",
+          "startSec": 0.0,
+          "endSec": 0.16,
+          "startFrame": 0,
+          "endFrame": 5
+        },
+        {
+          "word": "\u062a\u0644\u0627\u062a",
+          "startSec": 0.2,
+          "endSec": 0.321,
+          "startFrame": 6,
+          "endFrame": 10
+        },
+        {
+          "word": "\u0645\u062d\u0631\u0643\u0627\u062a",
+          "startSec": 0.401,
+          "endSec": 0.8,
+          "startFrame": 12,
+          "endFrame": 24
+        },
+        {
+          "word": "\u0646\u0645\u0648.",
+          "startSec": 0.853,
+          "endSec": 1.199,
+          "startFrame": 26,
+          "endFrame": 36
+        },
+        {
+          "word": "Sticky",
+          "startSec": 1.302,
+          "endSec": 1.92,
+          "startFrame": 39,
+          "endFrame": 58
+        },
+        {
+          "word": "\u0645\u0639\u0646\u0627\u0647",
+          "startSec": 1.98,
+          "endSec": 2.24,
+          "startFrame": 59,
+          "endFrame": 67
+        },
+        {
+          "word": "retention:",
+          "startSec": 2.296,
+          "endSec": 2.88,
+          "startFrame": 69,
+          "endFrame": 86
+        },
+        {
+          "word": "\u062a\u062d\u0627\u0641\u0638",
+          "startSec": 2.987,
+          "endSec": 3.441,
+          "startFrame": 90,
+          "endFrame": 103
+        },
+        {
+          "word": "\u0639\u0644\u0649",
+          "startSec": 3.461,
+          "endSec": 3.521,
+          "startFrame": 104,
+          "endFrame": 106
+        },
+        {
+          "word": "\u0627\u0644\u0639\u0645\u0644\u0627\u0621",
+          "startSec": 3.574,
+          "endSec": 3.919,
+          "startFrame": 107,
+          "endFrame": 118
+        },
+        {
+          "word": "\u0648\u064a\u062f\u0641\u0639\u0648\u0627",
+          "startSec": 3.959,
+          "endSec": 4.319,
+          "startFrame": 119,
+          "endFrame": 130
+        },
+        {
+          "word": "\u062a\u0627\u0646\u064a.",
+          "startSec": 4.359,
+          "endSec": 4.798,
+          "startFrame": 131,
+          "endFrame": 144
+        },
+        {
+          "word": "Viral",
+          "startSec": 4.878,
+          "endSec": 5.198,
+          "startFrame": 146,
+          "endFrame": 156
+        },
+        {
+          "word": "\u0645\u0639\u0646\u0627\u0647",
+          "startSec": 5.298,
+          "endSec": 5.758,
+          "startFrame": 159,
+          "endFrame": 173
+        },
+        {
+          "word": "\u0627\u0644\u0646\u0627\u0633",
+          "startSec": 5.785,
+          "endSec": 5.92,
+          "startFrame": 174,
+          "endFrame": 178
+        },
+        {
+          "word": "\u062a\u062c\u064a\u0628",
+          "startSec": 5.973,
+          "endSec": 6.239,
+          "startFrame": 179,
+          "endFrame": 187
+        },
+        {
+          "word": "\u0646\u0627\u0633.",
+          "startSec": 6.279,
+          "endSec": 6.559,
+          "startFrame": 188,
+          "endFrame": 197
+        },
+        {
+          "word": "Paid",
+          "startSec": 6.687,
+          "endSec": 7.199,
+          "startFrame": 201,
+          "endFrame": 216
+        },
+        {
+          "word": "\u0645\u0639\u0646\u0627\u0647",
+          "startSec": 7.299,
+          "endSec": 7.679,
+          "startFrame": 219,
+          "endFrame": 230
+        },
+        {
+          "word": "\u062a\u062f\u0641\u0639",
+          "startSec": 7.732,
+          "endSec": 7.998,
+          "startFrame": 232,
+          "endFrame": 240
+        },
+        {
+          "word": "\u0641\u0644\u0648\u0633",
+          "startSec": 8.078,
+          "endSec": 8.318,
+          "startFrame": 242,
+          "endFrame": 250
+        },
+        {
+          "word": "\u0648\u062a\u062c\u064a\u0628",
+          "startSec": 8.398,
+          "endSec": 8.638,
+          "startFrame": 252,
+          "endFrame": 259
+        },
+        {
+          "word": "\u0639\u0645\u064a\u0644\u060c",
+          "startSec": 8.718,
+          "endSec": 9.038,
+          "startFrame": 262,
+          "endFrame": 271
+        },
+        {
+          "word": "\u0648\u0627\u0644\u0639\u0645\u064a\u0644",
+          "startSec": 9.078,
+          "endSec": 9.438,
+          "startFrame": 272,
+          "endFrame": 283
+        },
+        {
+          "word": "\u064a\u062c\u064a\u0628",
+          "startSec": 9.491,
+          "endSec": 9.677,
+          "startFrame": 285,
+          "endFrame": 290
+        },
+        {
+          "word": "\u0623\u0643\u062a\u0631",
+          "startSec": 9.73,
+          "endSec": 9.996,
+          "startFrame": 292,
+          "endFrame": 300
+        },
+        {
+          "word": "\u0645\u0646",
+          "startSec": 10.049,
+          "endSec": 10.155,
+          "startFrame": 301,
+          "endFrame": 305
+        },
+        {
+          "word": "\u062a\u0643\u0644\u0641\u062a\u0647.",
+          "startSec": 10.208,
+          "endSec": 10.954,
+          "startFrame": 306,
+          "endFrame": 329
+        },
+        {
+          "word": "\u0643\u0644",
+          "startSec": 11.007,
+          "endSec": 11.113,
+          "startFrame": 330,
+          "endFrame": 333
+        },
+        {
+          "word": "\u0645\u062d\u0631\u0643",
+          "startSec": 11.193,
+          "endSec": 11.593,
+          "startFrame": 336,
+          "endFrame": 348
+        },
+        {
+          "word": "\u0644\u064a\u0647",
+          "startSec": 11.633,
+          "endSec": 11.753,
+          "startFrame": 349,
+          "endFrame": 353
+        },
+        {
+          "word": "\u0627\u062e\u062a\u0628\u0627\u0631",
+          "startSec": 11.78,
+          "endSec": 12.074,
+          "startFrame": 353,
+          "endFrame": 362
+        },
+        {
+          "word": "\u0648\u0627\u0636\u062d.",
+          "startSec": 12.114,
+          "endSec": 12.554,
+          "startFrame": 363,
+          "endFrame": 377
+        }
+      ]
+    },
+    {
+      "id": "03-sticky",
+      "audio": "03-sticky.mp3",
+      "text": "\u0641\u064a Sticky\u060c \u0641\u0643\u0631 \u0641\u064a\u0647\u0627 \u0632\u064a Spotify. \u0639\u0645\u0644\u0627\u0621 \u062c\u062f\u0627\u062f \u0628\u064a\u062f\u062e\u0644\u0648\u0627\u060c \u0648\u0627\u0644churn \u0628\u064a\u0637\u0644\u0639 \u0646\u0627\u0633 \u0628\u0631\u0647. \u0644\u0648 \u0639\u0634\u0631\u064a\u0646 \u062f\u062e\u0644\u0648\u0627 \u0648\u062a\u0645\u0646\u064a\u0629 \u0644\u063a\u0648\u0627\u060c \u0627\u0644\u0639\u062f\u062f \u0627\u0644\u0644\u064a \u0644\u0633\u0647 \u0628\u064a\u062f\u0641\u0639 \u0628\u064a\u0632\u064a\u062f. \u0627\u0644\u0645\u0647\u0645 \u0625\u0646 \u0627\u0644\u062c\u062f\u0627\u062f \u064a\u0643\u0648\u0646\u0648\u0627 \u0627\u0643\u062a\u0631",
+      "speechSeconds": 10.962,
+      "durationSeconds": 11.262,
+      "durationFrames": 338,
+      "startFrame": 733,
+      "words": [
+        {
+          "word": "\u0641\u064a",
+          "startSec": 0.0,
+          "endSec": 0.08,
+          "startFrame": 0,
+          "endFrame": 2
+        },
+        {
+          "word": "Sticky\u060c",
+          "startSec": 0.149,
+          "endSec": 0.643,
+          "startFrame": 4,
+          "endFrame": 19
+        },
+        {
+          "word": "\u0641\u0643\u0631",
+          "startSec": 0.683,
+          "endSec": 0.883,
+          "startFrame": 20,
+          "endFrame": 26
+        },
+        {
+          "word": "\u0641\u064a\u0647\u0627",
+          "startSec": 0.931,
+          "endSec": 1.123,
+          "startFrame": 28,
+          "endFrame": 34
+        },
+        {
+          "word": "\u0632\u064a",
+          "startSec": 1.176,
+          "endSec": 1.282,
+          "startFrame": 35,
+          "endFrame": 38
+        },
+        {
+          "word": "Spotify.",
+          "startSec": 1.352,
+          "endSec": 1.922,
+          "startFrame": 41,
+          "endFrame": 58
+        },
+        {
+          "word": "\u0639\u0645\u0644\u0627\u0621",
+          "startSec": 2.022,
+          "endSec": 2.402,
+          "startFrame": 61,
+          "endFrame": 72
+        },
+        {
+          "word": "\u062c\u062f\u0627\u062f",
+          "startSec": 2.455,
+          "endSec": 2.641,
+          "startFrame": 74,
+          "endFrame": 79
+        },
+        {
+          "word": "\u0628\u064a\u062f\u062e\u0644\u0648\u0627\u060c",
+          "startSec": 2.721,
+          "endSec": 3.281,
+          "startFrame": 82,
+          "endFrame": 98
+        },
+        {
+          "word": "\u0648\u0627\u0644churn",
+          "startSec": 3.341,
+          "endSec": 3.841,
+          "startFrame": 100,
+          "endFrame": 115
+        },
+        {
+          "word": "\u0628\u064a\u0637\u0644\u0639",
+          "startSec": 3.894,
+          "endSec": 4.24,
+          "startFrame": 117,
+          "endFrame": 127
+        },
+        {
+          "word": "\u0646\u0627\u0633",
+          "startSec": 4.28,
+          "endSec": 4.4,
+          "startFrame": 128,
+          "endFrame": 132
+        },
+        {
+          "word": "\u0628\u0631\u0647.",
+          "startSec": 4.48,
+          "endSec": 4.8,
+          "startFrame": 134,
+          "endFrame": 144
+        },
+        {
+          "word": "\u0644\u0648",
+          "startSec": 4.987,
+          "endSec": 5.361,
+          "startFrame": 150,
+          "endFrame": 161
+        },
+        {
+          "word": "\u0639\u0634\u0631\u064a\u0646",
+          "startSec": 5.421,
+          "endSec": 5.681,
+          "startFrame": 163,
+          "endFrame": 170
+        },
+        {
+          "word": "\u062f\u062e\u0644\u0648\u0627",
+          "startSec": 5.761,
+          "endSec": 6.081,
+          "startFrame": 173,
+          "endFrame": 182
+        },
+        {
+          "word": "\u0648\u062a\u0645\u0646\u064a\u0629",
+          "startSec": 6.161,
+          "endSec": 6.561,
+          "startFrame": 185,
+          "endFrame": 197
+        },
+        {
+          "word": "\u0644\u063a\u0648\u0627\u060c",
+          "startSec": 6.641,
+          "endSec": 7.041,
+          "startFrame": 199,
+          "endFrame": 211
+        },
+        {
+          "word": "\u0627\u0644\u0639\u062f\u062f",
+          "startSec": 7.101,
+          "endSec": 7.441,
+          "startFrame": 213,
+          "endFrame": 223
+        },
+        {
+          "word": "\u0627\u0644\u0644\u064a",
+          "startSec": 7.468,
+          "endSec": 7.602,
+          "startFrame": 224,
+          "endFrame": 228
+        },
+        {
+          "word": "\u0644\u0633\u0647",
+          "startSec": 7.682,
+          "endSec": 7.922,
+          "startFrame": 230,
+          "endFrame": 238
+        },
+        {
+          "word": "\u0628\u064a\u062f\u0641\u0639",
+          "startSec": 7.962,
+          "endSec": 8.322,
+          "startFrame": 239,
+          "endFrame": 250
+        },
+        {
+          "word": "\u0628\u064a\u0632\u064a\u062f.",
+          "startSec": 8.362,
+          "endSec": 8.882,
+          "startFrame": 251,
+          "endFrame": 266
+        },
+        {
+          "word": "\u0627\u0644\u0645\u0647\u0645",
+          "startSec": 8.982,
+          "endSec": 9.442,
+          "startFrame": 269,
+          "endFrame": 283
+        },
+        {
+          "word": "\u0625\u0646",
+          "startSec": 9.495,
+          "endSec": 9.601,
+          "startFrame": 285,
+          "endFrame": 288
+        },
+        {
+          "word": "\u0627\u0644\u062c\u062f\u0627\u062f",
+          "startSec": 9.661,
+          "endSec": 10.081,
+          "startFrame": 290,
+          "endFrame": 302
+        },
+        {
+          "word": "\u064a\u0643\u0648\u0646\u0648\u0627",
+          "startSec": 10.161,
+          "endSec": 10.561,
+          "startFrame": 305,
+          "endFrame": 317
+        },
+        {
+          "word": "\u0627\u0643\u062a\u0631",
+          "startSec": 10.588,
+          "endSec": 10.962,
+          "startFrame": 318,
+          "endFrame": 329
+        }
+      ]
+    },
+    {
+      "id": "04-sticky-example",
+      "audio": "04-sticky-example.mp3",
+      "text": "\u0642\u0648\u0629 Sticky \u0628\u0627\u064a\u0646\u0629 \u0641\u064a MRR\u060c \u064a\u0639\u0646\u064a \u0625\u064a\u0631\u0627\u062f \u0628\u064a\u062a\u0643\u0631\u0631 \u0643\u0644 \u0634\u0647\u0631. Spotify \u0628\u064a\u0627\u062e\u062f \u0639\u0634\u0631\u0629 \u062f\u0648\u0644\u0627\u0631 \u0643\u0644 \u0634\u0647\u0631 \u0645\u0646 \u0643\u0644 \u0639\u0645\u064a\u0644. \u0645\u0644\u064a\u0648\u0646 \u0639\u0645\u064a\u0644 \u064a\u0628\u0642\u0649 \u0639\u0634\u0631\u0629 \u0645\u0644\u064a\u0648\u0646 \u062f\u0648\u0644\u0627\u0631 MRR. \u0648ARR \u0647\u0648 MRR \u0641\u064a \u0627\u062a\u0646\u0627\u0634\u0631 \u0634\u0647\u0631. \u0644\u0648 \u0627\u0644churn  \u0632\u0627\u062f\u060c \u0634\u0647\u0648\u0631 \u0642\u062f\u0627\u0645 \u0628\u062a\u0636\u064a\u0639 \u0645\u0634 \u0634\u0647\u0631 \u0648\u0627\u062d\u062f.",
+      "speechSeconds": 15.757,
+      "durationSeconds": 16.057,
+      "durationFrames": 482,
+      "startFrame": 1071,
+      "words": [
+        {
+          "word": "\u0642\u0648\u0629",
+          "startSec": 0.0,
+          "endSec": 0.24,
+          "startFrame": 0,
+          "endFrame": 7
+        },
+        {
+          "word": "Sticky",
+          "startSec": 0.297,
+          "endSec": 0.639,
+          "startFrame": 9,
+          "endFrame": 19
+        },
+        {
+          "word": "\u0628\u0627\u064a\u0646\u0629",
+          "startSec": 0.692,
+          "endSec": 0.879,
+          "startFrame": 21,
+          "endFrame": 26
+        },
+        {
+          "word": "\u0641\u064a",
+          "startSec": 0.906,
+          "endSec": 0.96,
+          "startFrame": 27,
+          "endFrame": 29
+        },
+        {
+          "word": "MRR\u060c",
+          "startSec": 1.12,
+          "endSec": 1.76,
+          "startFrame": 34,
+          "endFrame": 53
+        },
+        {
+          "word": "\u064a\u0639\u0646\u064a",
+          "startSec": 1.813,
+          "endSec": 1.999,
+          "startFrame": 54,
+          "endFrame": 60
+        },
+        {
+          "word": "\u0625\u064a\u0631\u0627\u062f",
+          "startSec": 2.039,
+          "endSec": 2.239,
+          "startFrame": 61,
+          "endFrame": 67
+        },
+        {
+          "word": "\u0628\u064a\u062a\u0643\u0631\u0631",
+          "startSec": 2.299,
+          "endSec": 2.719,
+          "startFrame": 69,
+          "endFrame": 82
+        },
+        {
+          "word": "\u0643\u0644",
+          "startSec": 2.799,
+          "endSec": 2.959,
+          "startFrame": 84,
+          "endFrame": 89
+        },
+        {
+          "word": "\u0634\u0647\u0631.",
+          "startSec": 3.039,
+          "endSec": 3.679,
+          "startFrame": 91,
+          "endFrame": 110
+        },
+        {
+          "word": "Spotify",
+          "startSec": 3.729,
+          "endSec": 4.079,
+          "startFrame": 112,
+          "endFrame": 122
+        },
+        {
+          "word": "\u0628\u064a\u0627\u062e\u062f",
+          "startSec": 4.132,
+          "endSec": 4.478,
+          "startFrame": 124,
+          "endFrame": 134
+        },
+        {
+          "word": "\u0639\u0634\u0631\u0629",
+          "startSec": 4.531,
+          "endSec": 4.717,
+          "startFrame": 136,
+          "endFrame": 142
+        },
+        {
+          "word": "\u062f\u0648\u0644\u0627\u0631",
+          "startSec": 4.757,
+          "endSec": 4.957,
+          "startFrame": 143,
+          "endFrame": 149
+        },
+        {
+          "word": "\u0643\u0644",
+          "startSec": 5.064,
+          "endSec": 5.278,
+          "startFrame": 152,
+          "endFrame": 158
+        },
+        {
+          "word": "\u0634\u0647\u0631",
+          "startSec": 5.338,
+          "endSec": 5.518,
+          "startFrame": 160,
+          "endFrame": 166
+        },
+        {
+          "word": "\u0645\u0646",
+          "startSec": 5.598,
+          "endSec": 5.758,
+          "startFrame": 168,
+          "endFrame": 173
+        },
+        {
+          "word": "\u0643\u0644",
+          "startSec": 5.865,
+          "endSec": 6.079,
+          "startFrame": 176,
+          "endFrame": 182
+        },
+        {
+          "word": "\u0639\u0645\u064a\u0644.",
+          "startSec": 6.132,
+          "endSec": 6.478,
+          "startFrame": 184,
+          "endFrame": 194
+        },
+        {
+          "word": "\u0645\u0644\u064a\u0648\u0646",
+          "startSec": 6.598,
+          "endSec": 7.038,
+          "startFrame": 198,
+          "endFrame": 211
+        },
+        {
+          "word": "\u0639\u0645\u064a\u0644",
+          "startSec": 7.118,
+          "endSec": 7.438,
+          "startFrame": 214,
+          "endFrame": 223
+        },
+        {
+          "word": "\u064a\u0628\u0642\u0649",
+          "startSec": 7.518,
+          "endSec": 7.798,
+          "startFrame": 226,
+          "endFrame": 234
+        },
+        {
+          "word": "\u0639\u0634\u0631\u0629",
+          "startSec": 7.838,
+          "endSec": 8.038,
+          "startFrame": 235,
+          "endFrame": 241
+        },
+        {
+          "word": "\u0645\u0644\u064a\u0648\u0646",
+          "startSec": 8.068,
+          "endSec": 8.238,
+          "startFrame": 242,
+          "endFrame": 247
+        },
+        {
+          "word": "\u062f\u0648\u0644\u0627\u0631",
+          "startSec": 8.291,
+          "endSec": 8.556,
+          "startFrame": 249,
+          "endFrame": 257
+        },
+        {
+          "word": "MRR.",
+          "startSec": 8.756,
+          "endSec": 9.356,
+          "startFrame": 263,
+          "endFrame": 281
+        },
+        {
+          "word": "\u0648ARR",
+          "startSec": 9.636,
+          "endSec": 10.396,
+          "startFrame": 289,
+          "endFrame": 312
+        },
+        {
+          "word": "\u0647\u0648",
+          "startSec": 10.503,
+          "endSec": 10.717,
+          "startFrame": 315,
+          "endFrame": 322
+        },
+        {
+          "word": "MRR",
+          "startSec": 10.837,
+          "endSec": 11.277,
+          "startFrame": 325,
+          "endFrame": 338
+        },
+        {
+          "word": "\u0641\u064a",
+          "startSec": 11.304,
+          "endSec": 11.358,
+          "startFrame": 339,
+          "endFrame": 341
+        },
+        {
+          "word": "\u0627\u062a\u0646\u0627\u0634\u0631",
+          "startSec": 11.398,
+          "endSec": 11.878,
+          "startFrame": 342,
+          "endFrame": 356
+        },
+        {
+          "word": "\u0634\u0647\u0631.",
+          "startSec": 11.928,
+          "endSec": 12.158,
+          "startFrame": 358,
+          "endFrame": 365
+        },
+        {
+          "word": "\u0644\u0648",
+          "startSec": 12.238,
+          "endSec": 12.398,
+          "startFrame": 367,
+          "endFrame": 372
+        },
+        {
+          "word": "\u0627\u0644churn",
+          "startSec": 12.425,
+          "endSec": 12.88,
+          "startFrame": 373,
+          "endFrame": 386
+        },
+        {
+          "word": "\u0632\u0627\u062f\u060c",
+          "startSec": 13.1,
+          "endSec": 13.8,
+          "startFrame": 393,
+          "endFrame": 414
+        },
+        {
+          "word": "\u0634\u0647\u0648\u0631",
+          "startSec": 13.893,
+          "endSec": 14.159,
+          "startFrame": 417,
+          "endFrame": 425
+        },
+        {
+          "word": "\u0642\u062f\u0627\u0645",
+          "startSec": 14.239,
+          "endSec": 14.478,
+          "startFrame": 427,
+          "endFrame": 434
+        },
+        {
+          "word": "\u0628\u062a\u0636\u064a\u0639",
+          "startSec": 14.531,
+          "endSec": 14.957,
+          "startFrame": 436,
+          "endFrame": 449
+        },
+        {
+          "word": "\u0645\u0634",
+          "startSec": 15.037,
+          "endSec": 15.197,
+          "startFrame": 451,
+          "endFrame": 456
+        },
+        {
+          "word": "\u0634\u0647\u0631",
+          "startSec": 15.257,
+          "endSec": 15.437,
+          "startFrame": 458,
+          "endFrame": 463
+        },
+        {
+          "word": "\u0648\u0627\u062d\u062f.",
+          "startSec": 15.501,
+          "endSec": 15.757,
+          "startFrame": 465,
+          "endFrame": 473
+        }
+      ]
+    },
+    {
+      "id": "05-viral",
+      "audio": "05-viral.mp3",
+      "text": "Viral \u0645\u0639\u0646\u0627\u0647 \u0625\u0646 \u0627\u0644\u0645\u0633\u062a\u062e\u062f\u0645\u064a\u0646 \u064a\u062c\u064a\u0628\u0648\u0627 \u0645\u0633\u062a\u062e\u062f\u0645\u064a\u0646\u060c \u0632\u064a TikTok. K \u064a\u0639\u0646\u064a \u0643\u0644 \u0645\u0633\u062a\u062e\u062f\u0645 \u0628\u064a\u062c\u064a\u0628 \u0643\u0627\u0645 \u0645\u0633\u062a\u062e\u062f\u0645 \u062c\u062f\u064a\u062f. \u0644\u0648 K \u0623\u0643\u0628\u0631 \u0645\u0646 \u0648\u0627\u062d\u062f\u060c \u0627\u0644\u0646\u0645\u0648 \u0628\u064a\u062a\u0636\u0627\u0639\u0641. \u0644\u0648 \u0623\u0642\u0644 \u0645\u0646 \u0648\u0627\u062d\u062f\u060c \u0627\u0644\u0645\u0648\u062c\u0629 \u0628\u062a\u0647\u062f\u0649.",
+      "speechSeconds": 11.915,
+      "durationSeconds": 12.215,
+      "durationFrames": 366,
+      "startFrame": 1553,
+      "words": [
+        {
+          "word": "Viral",
+          "startSec": 0.0,
+          "endSec": 0.32,
+          "startFrame": 0,
+          "endFrame": 10
+        },
+        {
+          "word": "\u0645\u0639\u0646\u0627\u0647",
+          "startSec": 0.4,
+          "endSec": 0.72,
+          "startFrame": 12,
+          "endFrame": 22
+        },
+        {
+          "word": "\u0625\u0646",
+          "startSec": 0.747,
+          "endSec": 0.801,
+          "startFrame": 22,
+          "endFrame": 24
+        },
+        {
+          "word": "\u0627\u0644\u0645\u0633\u062a\u062e\u062f\u0645\u064a\u0646",
+          "startSec": 0.854,
+          "endSec": 1.519,
+          "startFrame": 26,
+          "endFrame": 46
+        },
+        {
+          "word": "\u064a\u062c\u064a\u0628\u0648\u0627",
+          "startSec": 1.572,
+          "endSec": 1.838,
+          "startFrame": 47,
+          "endFrame": 55
+        },
+        {
+          "word": "\u0645\u0633\u062a\u062e\u062f\u0645\u064a\u0646\u060c",
+          "startSec": 1.898,
+          "endSec": 2.478,
+          "startFrame": 57,
+          "endFrame": 74
+        },
+        {
+          "word": "\u0632\u064a",
+          "startSec": 2.611,
+          "endSec": 2.877,
+          "startFrame": 78,
+          "endFrame": 86
+        },
+        {
+          "word": "TikTok.",
+          "startSec": 2.937,
+          "endSec": 3.437,
+          "startFrame": 88,
+          "endFrame": 103
+        },
+        {
+          "word": "K",
+          "startSec": 3.837,
+          "endSec": 4.237,
+          "startFrame": 115,
+          "endFrame": 127
+        },
+        {
+          "word": "\u064a\u0639\u0646\u064a",
+          "startSec": 4.344,
+          "endSec": 4.638,
+          "startFrame": 130,
+          "endFrame": 139
+        },
+        {
+          "word": "\u0643\u0644",
+          "startSec": 4.718,
+          "endSec": 4.878,
+          "startFrame": 142,
+          "endFrame": 146
+        },
+        {
+          "word": "\u0645\u0633\u062a\u062e\u062f\u0645",
+          "startSec": 4.958,
+          "endSec": 5.438,
+          "startFrame": 149,
+          "endFrame": 163
+        },
+        {
+          "word": "\u0628\u064a\u062c\u064a\u0628",
+          "startSec": 5.518,
+          "endSec": 5.838,
+          "startFrame": 166,
+          "endFrame": 175
+        },
+        {
+          "word": "\u0643\u0627\u0645",
+          "startSec": 5.878,
+          "endSec": 5.998,
+          "startFrame": 176,
+          "endFrame": 180
+        },
+        {
+          "word": "\u0645\u0633\u062a\u062e\u062f\u0645",
+          "startSec": 6.058,
+          "endSec": 6.478,
+          "startFrame": 182,
+          "endFrame": 194
+        },
+        {
+          "word": "\u062c\u062f\u064a\u062f.",
+          "startSec": 6.542,
+          "endSec": 6.878,
+          "startFrame": 196,
+          "endFrame": 206
+        },
+        {
+          "word": "\u0644\u0648",
+          "startSec": 7.011,
+          "endSec": 7.277,
+          "startFrame": 210,
+          "endFrame": 218
+        },
+        {
+          "word": "K",
+          "startSec": 7.437,
+          "endSec": 7.597,
+          "startFrame": 223,
+          "endFrame": 228
+        },
+        {
+          "word": "\u0623\u0643\u0628\u0631",
+          "startSec": 7.661,
+          "endSec": 7.917,
+          "startFrame": 230,
+          "endFrame": 238
+        },
+        {
+          "word": "\u0645\u0646",
+          "startSec": 7.97,
+          "endSec": 8.076,
+          "startFrame": 239,
+          "endFrame": 242
+        },
+        {
+          "word": "\u0648\u0627\u062d\u062f\u060c",
+          "startSec": 8.14,
+          "endSec": 8.556,
+          "startFrame": 244,
+          "endFrame": 257
+        },
+        {
+          "word": "\u0627\u0644\u0646\u0645\u0648",
+          "startSec": 8.616,
+          "endSec": 8.956,
+          "startFrame": 258,
+          "endFrame": 269
+        },
+        {
+          "word": "\u0628\u064a\u062a\u0636\u0627\u0639\u0641.",
+          "startSec": 9.016,
+          "endSec": 9.676,
+          "startFrame": 270,
+          "endFrame": 290
+        },
+        {
+          "word": "\u0644\u0648",
+          "startSec": 9.756,
+          "endSec": 9.916,
+          "startFrame": 293,
+          "endFrame": 297
+        },
+        {
+          "word": "\u0623\u0642\u0644",
+          "startSec": 9.956,
+          "endSec": 10.156,
+          "startFrame": 299,
+          "endFrame": 305
+        },
+        {
+          "word": "\u0645\u0646",
+          "startSec": 10.209,
+          "endSec": 10.315,
+          "startFrame": 306,
+          "endFrame": 309
+        },
+        {
+          "word": "\u0648\u0627\u062d\u062f\u060c",
+          "startSec": 10.395,
+          "endSec": 10.795,
+          "startFrame": 312,
+          "endFrame": 324
+        },
+        {
+          "word": "\u0627\u0644\u0645\u0648\u062c\u0629",
+          "startSec": 10.855,
+          "endSec": 11.275,
+          "startFrame": 326,
+          "endFrame": 338
+        },
+        {
+          "word": "\u0628\u062a\u0647\u062f\u0649.",
+          "startSec": 11.395,
+          "endSec": 11.915,
+          "startFrame": 342,
+          "endFrame": 357
+        }
+      ]
+    },
+    {
+      "id": "06-viral-example",
+      "audio": "06-viral-example.mp3",
+      "text": "\u0644\u064a\u0647 \u0627\u0644\u062c\u0645\u0647\u0648\u0631 \u0645\u0647\u0645\u061f \u0644\u0623\u0646 \u0641\u064a \u0645\u0634\u0627\u0631\u064a\u0639 \u0643\u062a\u064a\u0631 \u0628\u062a\u0628\u064a\u0639 \u0648\u0635\u0648\u0644 \u0644\u0644\u062c\u0645\u0647\u0648\u0631. Amazon \u0645\u062d\u062a\u0627\u062c \u0645\u0634\u062a\u0631\u064a\u0646 \u0627\u0644\u0623\u0648\u0644 \u0639\u0634\u0627\u0646 \u0627\u0644\u0628\u064a\u0627\u0639\u064a\u0646 \u064a\u0647\u062a\u0645\u0648\u0627. YouTube \u0645\u062d\u062a\u0627\u062c \u0627\u0646\u062a\u0628\u0627\u0647 \u0648\u0645\u0634\u0627\u0647\u062f\u0627\u062a \u0642\u0628\u0644 \u0627\u0644\u0645\u0639\u0644\u0646\u064a\u0646 \u0645\u0627 \u064a\u062f\u0641\u0639\u0648\u0627. \u0647\u0646\u0627 \u0627\u0644\u062c\u0645\u0647\u0648\u0631 \u0646\u0641\u0633\u0647 \u0647\u0648 \u0627\u0644\u0645\u0646\u062a\u062c.",
+      "speechSeconds": 12.637,
+      "durationSeconds": 12.937,
+      "durationFrames": 388,
+      "startFrame": 1919,
+      "words": [
+        {
+          "word": "\u0644\u064a\u0647",
+          "startSec": 0.0,
+          "endSec": 0.081,
+          "startFrame": 0,
+          "endFrame": 2
+        },
+        {
+          "word": "\u0627\u0644\u062c\u0645\u0647\u0648\u0631",
+          "startSec": 0.129,
+          "endSec": 0.48,
+          "startFrame": 4,
+          "endFrame": 14
+        },
+        {
+          "word": "\u0645\u0647\u0645\u061f",
+          "startSec": 0.56,
+          "endSec": 0.88,
+          "startFrame": 17,
+          "endFrame": 26
+        },
+        {
+          "word": "\u0644\u0623\u0646",
+          "startSec": 1.02,
+          "endSec": 1.44,
+          "startFrame": 31,
+          "endFrame": 43
+        },
+        {
+          "word": "\u0641\u064a",
+          "startSec": 1.493,
+          "endSec": 1.599,
+          "startFrame": 45,
+          "endFrame": 48
+        },
+        {
+          "word": "\u0645\u0634\u0627\u0631\u064a\u0639",
+          "startSec": 1.652,
+          "endSec": 1.997,
+          "startFrame": 50,
+          "endFrame": 60
+        },
+        {
+          "word": "\u0643\u062a\u064a\u0631",
+          "startSec": 2.037,
+          "endSec": 2.317,
+          "startFrame": 61,
+          "endFrame": 70
+        },
+        {
+          "word": "\u0628\u062a\u0628\u064a\u0639",
+          "startSec": 2.37,
+          "endSec": 2.635,
+          "startFrame": 71,
+          "endFrame": 79
+        },
+        {
+          "word": "\u0648\u0635\u0648\u0644",
+          "startSec": 2.715,
+          "endSec": 2.954,
+          "startFrame": 81,
+          "endFrame": 89
+        },
+        {
+          "word": "\u0644\u0644\u062c\u0645\u0647\u0648\u0631.",
+          "startSec": 3.007,
+          "endSec": 3.912,
+          "startFrame": 90,
+          "endFrame": 117
+        },
+        {
+          "word": "Amazon",
+          "startSec": 3.958,
+          "endSec": 4.234,
+          "startFrame": 119,
+          "endFrame": 127
+        },
+        {
+          "word": "\u0645\u062d\u062a\u0627\u062c",
+          "startSec": 4.314,
+          "endSec": 4.554,
+          "startFrame": 129,
+          "endFrame": 137
+        },
+        {
+          "word": "\u0645\u0634\u062a\u0631\u064a\u0646",
+          "startSec": 4.634,
+          "endSec": 5.034,
+          "startFrame": 139,
+          "endFrame": 151
+        },
+        {
+          "word": "\u0627\u0644\u0623\u0648\u0644",
+          "startSec": 5.101,
+          "endSec": 5.436,
+          "startFrame": 153,
+          "endFrame": 163
+        },
+        {
+          "word": "\u0639\u0634\u0627\u0646",
+          "startSec": 5.596,
+          "endSec": 5.837,
+          "startFrame": 168,
+          "endFrame": 175
+        },
+        {
+          "word": "\u0627\u0644\u0628\u064a\u0627\u0639\u064a\u0646",
+          "startSec": 5.901,
+          "endSec": 6.317,
+          "startFrame": 177,
+          "endFrame": 190
+        },
+        {
+          "word": "\u064a\u0647\u062a\u0645\u0648\u0627.",
+          "startSec": 6.357,
+          "endSec": 7.237,
+          "startFrame": 191,
+          "endFrame": 217
+        },
+        {
+          "word": "YouTube",
+          "startSec": 7.282,
+          "endSec": 7.597,
+          "startFrame": 218,
+          "endFrame": 228
+        },
+        {
+          "word": "\u0645\u062d\u062a\u0627\u062c",
+          "startSec": 7.65,
+          "endSec": 7.916,
+          "startFrame": 230,
+          "endFrame": 237
+        },
+        {
+          "word": "\u0627\u0646\u062a\u0628\u0627\u0647",
+          "startSec": 7.943,
+          "endSec": 8.317,
+          "startFrame": 238,
+          "endFrame": 250
+        },
+        {
+          "word": "\u0648\u0645\u0634\u0627\u0647\u062f\u0627\u062a",
+          "startSec": 8.37,
+          "endSec": 8.956,
+          "startFrame": 251,
+          "endFrame": 269
+        },
+        {
+          "word": "\u0642\u0628\u0644",
+          "startSec": 9.016,
+          "endSec": 9.196,
+          "startFrame": 270,
+          "endFrame": 276
+        },
+        {
+          "word": "\u0627\u0644\u0645\u0639\u0644\u0646\u064a\u0646",
+          "startSec": 9.236,
+          "endSec": 9.675,
+          "startFrame": 277,
+          "endFrame": 290
+        },
+        {
+          "word": "\u0645\u0627",
+          "startSec": 9.702,
+          "endSec": 9.756,
+          "startFrame": 291,
+          "endFrame": 293
+        },
+        {
+          "word": "\u064a\u062f\u0641\u0639\u0648\u0627.",
+          "startSec": 9.809,
+          "endSec": 10.715,
+          "startFrame": 294,
+          "endFrame": 321
+        },
+        {
+          "word": "\u0647\u0646\u0627",
+          "startSec": 10.755,
+          "endSec": 10.875,
+          "startFrame": 323,
+          "endFrame": 326
+        },
+        {
+          "word": "\u0627\u0644\u062c\u0645\u0647\u0648\u0631",
+          "startSec": 10.923,
+          "endSec": 11.274,
+          "startFrame": 328,
+          "endFrame": 338
+        },
+        {
+          "word": "\u0646\u0641\u0633\u0647",
+          "startSec": 11.354,
+          "endSec": 11.674,
+          "startFrame": 341,
+          "endFrame": 350
+        },
+        {
+          "word": "\u0647\u0648",
+          "startSec": 11.781,
+          "endSec": 11.995,
+          "startFrame": 353,
+          "endFrame": 360
+        },
+        {
+          "word": "\u0627\u0644\u0645\u0646\u062a\u062c.",
+          "startSec": 12.062,
+          "endSec": 12.637,
+          "startFrame": 362,
+          "endFrame": 379
+        }
+      ]
+    },
+    {
+      "id": "07-paid",
+      "audio": "07-paid.mp3",
+      "text": "Paid \u0647\u0648 \u0645\u0627\u0643\u064a\u0646\u0629 \u0641\u0644\u0648\u0633 \u0628\u0633 \u0644\u0648 \u0627\u0644\u062d\u0633\u0627\u0628 \u0645\u0638\u0628\u0648\u0637. \u0643\u0627\u0643 \u064a\u0639\u0646\u064a \u062a\u0643\u0644\u0641\u0629 \u0627\u0644\u0627\u0633\u062a\u062d\u0648\u0627\u0630 \u0639\u0644\u0649 \u0627\u0644\u0639\u0645\u064a\u0644. \u062a\u062f\u0641\u0639 \u0623\u0631\u0628\u0639\u064a\u0646 \u062f\u0648\u0644\u0627\u0631 \u0641\u064a Google Ads \u0648\u062a\u062c\u064a\u0628 \u0639\u0645\u064a\u0644 Shopify. LTV \u064a\u0639\u0646\u064a \u0627\u0644\u0639\u0645\u064a\u0644 \u0647\u064a\u0631\u062c\u0639 \u0643\u0627\u0645 \u0645\u0639 \u0627\u0644\u0648\u0642\u062a. \u062a\u0644\u0627\u062a\u064a\u0646 \u062f\u0648\u0644\u0627\u0631 \u0641\u064a \u0627\u0644\u0634\u0647\u0631 \u0644\u0645\u062f\u0629 \u0623\u0631\u0628\u0639 \u0634\u0647\u0648\u0631 \u064a\u0628\u0642\u0649 \u0645\u064a\u0629 \u0648\u0639\u0634\u0631\u064a\u0646. \u0623\u0631\u0628\u0639\u064a\u0646 \u062f\u0627\u062e\u0644\u060c \u0645\u064a\u0629 \u0648\u0639\u0634\u0631\u064a\u0646 \u0631\u0627\u062c\u0639\u064a\u0646\u060c \u0646\u0643\u0628\u0631. \u0644\u0643\u0646 \u0643\u0627\u0643 \u062a\u0633\u0639\u064a\u0646 \u0648LTV \u0633\u062a\u064a\u0646 \u064a\u0639\u0646\u064a \u0643\u0644 \u0628\u064a\u0639\u0629 \u062a\u0632\u0648\u062f \u0627\u0644\u062e\u0633\u0627\u0631\u0629.",
+      "speechSeconds": 30.227,
+      "durationSeconds": 30.527,
+      "durationFrames": 916,
+      "startFrame": 2307,
+      "words": [
+        {
+          "word": "Paid",
+          "startSec": 0.0,
+          "endSec": 0.4,
+          "startFrame": 0,
+          "endFrame": 12
+        },
+        {
+          "word": "\u0647\u0648",
+          "startSec": 0.533,
+          "endSec": 0.799,
+          "startFrame": 16,
+          "endFrame": 24
+        },
+        {
+          "word": "\u0645\u0627\u0643\u064a\u0646\u0629",
+          "startSec": 0.859,
+          "endSec": 1.198,
+          "startFrame": 26,
+          "endFrame": 36
+        },
+        {
+          "word": "\u0641\u0644\u0648\u0633",
+          "startSec": 1.251,
+          "endSec": 1.757,
+          "startFrame": 38,
+          "endFrame": 53
+        },
+        {
+          "word": "\u0628\u0633",
+          "startSec": 1.97,
+          "endSec": 2.396,
+          "startFrame": 59,
+          "endFrame": 72
+        },
+        {
+          "word": "\u0644\u0648",
+          "startSec": 2.449,
+          "endSec": 2.555,
+          "startFrame": 73,
+          "endFrame": 77
+        },
+        {
+          "word": "\u0627\u0644\u062d\u0633\u0627\u0628",
+          "startSec": 2.615,
+          "endSec": 2.954,
+          "startFrame": 78,
+          "endFrame": 89
+        },
+        {
+          "word": "\u0645\u0638\u0628\u0648\u0637.",
+          "startSec": 3.034,
+          "endSec": 3.594,
+          "startFrame": 91,
+          "endFrame": 108
+        },
+        {
+          "word": "\u0643\u0627\u0643",
+          "startSec": 3.914,
+          "endSec": 4.554,
+          "startFrame": 117,
+          "endFrame": 137
+        },
+        {
+          "word": "\u064a\u0639\u0646\u064a",
+          "startSec": 4.847,
+          "endSec": 5.513,
+          "startFrame": 145,
+          "endFrame": 165
+        },
+        {
+          "word": "\u062a\u0643\u0644\u0641\u0629",
+          "startSec": 5.593,
+          "endSec": 6.074,
+          "startFrame": 168,
+          "endFrame": 182
+        },
+        {
+          "word": "\u0627\u0644\u0627\u0633\u062a\u062d\u0648\u0627\u0630",
+          "startSec": 6.114,
+          "endSec": 6.634,
+          "startFrame": 183,
+          "endFrame": 199
+        },
+        {
+          "word": "\u0639\u0644\u0649",
+          "startSec": 6.674,
+          "endSec": 6.794,
+          "startFrame": 200,
+          "endFrame": 204
+        },
+        {
+          "word": "\u0627\u0644\u0639\u0645\u064a\u0644.",
+          "startSec": 6.834,
+          "endSec": 7.755,
+          "startFrame": 205,
+          "endFrame": 233
+        },
+        {
+          "word": "\u062a\u062f\u0641\u0639",
+          "startSec": 7.915,
+          "endSec": 8.315,
+          "startFrame": 237,
+          "endFrame": 249
+        },
+        {
+          "word": "\u0623\u0631\u0628\u0639\u064a\u0646",
+          "startSec": 8.355,
+          "endSec": 8.634,
+          "startFrame": 251,
+          "endFrame": 259
+        },
+        {
+          "word": "\u062f\u0648\u0644\u0627\u0631",
+          "startSec": 8.674,
+          "endSec": 8.874,
+          "startFrame": 260,
+          "endFrame": 266
+        },
+        {
+          "word": "\u0641\u064a",
+          "startSec": 8.927,
+          "endSec": 9.033,
+          "startFrame": 268,
+          "endFrame": 271
+        },
+        {
+          "word": "Google",
+          "startSec": 9.067,
+          "endSec": 9.271,
+          "startFrame": 272,
+          "endFrame": 278
+        },
+        {
+          "word": "Ads",
+          "startSec": 9.371,
+          "endSec": 9.671,
+          "startFrame": 281,
+          "endFrame": 290
+        },
+        {
+          "word": "\u0648\u062a\u062c\u064a\u0628",
+          "startSec": 9.778,
+          "endSec": 10.152,
+          "startFrame": 293,
+          "endFrame": 305
+        },
+        {
+          "word": "\u0639\u0645\u064a\u0644",
+          "startSec": 10.205,
+          "endSec": 10.391,
+          "startFrame": 306,
+          "endFrame": 312
+        },
+        {
+          "word": "Shopify.",
+          "startSec": 10.471,
+          "endSec": 11.551,
+          "startFrame": 314,
+          "endFrame": 347
+        },
+        {
+          "word": "LTV",
+          "startSec": 11.811,
+          "endSec": 12.471,
+          "startFrame": 354,
+          "endFrame": 374
+        },
+        {
+          "word": "\u064a\u0639\u0646\u064a",
+          "startSec": 12.711,
+          "endSec": 13.271,
+          "startFrame": 381,
+          "endFrame": 398
+        },
+        {
+          "word": "\u0627\u0644\u0639\u0645\u064a\u0644",
+          "startSec": 13.311,
+          "endSec": 13.59,
+          "startFrame": 399,
+          "endFrame": 408
+        },
+        {
+          "word": "\u0647\u064a\u0631\u062c\u0639",
+          "startSec": 13.67,
+          "endSec": 13.99,
+          "startFrame": 410,
+          "endFrame": 420
+        },
+        {
+          "word": "\u0643\u0627\u0645",
+          "startSec": 14.05,
+          "endSec": 14.23,
+          "startFrame": 422,
+          "endFrame": 427
+        },
+        {
+          "word": "\u0645\u0639",
+          "startSec": 14.283,
+          "endSec": 14.389,
+          "startFrame": 428,
+          "endFrame": 432
+        },
+        {
+          "word": "\u0627\u0644\u0648\u0642\u062a.",
+          "startSec": 14.456,
+          "endSec": 14.871,
+          "startFrame": 434,
+          "endFrame": 446
+        },
+        {
+          "word": "\u062a\u0644\u0627\u062a\u064a\u0646",
+          "startSec": 15.271,
+          "endSec": 15.91,
+          "startFrame": 458,
+          "endFrame": 477
+        },
+        {
+          "word": "\u062f\u0648\u0644\u0627\u0631",
+          "startSec": 15.963,
+          "endSec": 16.228,
+          "startFrame": 479,
+          "endFrame": 487
+        },
+        {
+          "word": "\u0641\u064a",
+          "startSec": 16.255,
+          "endSec": 16.309,
+          "startFrame": 488,
+          "endFrame": 489
+        },
+        {
+          "word": "\u0627\u0644\u0634\u0647\u0631",
+          "startSec": 16.369,
+          "endSec": 16.629,
+          "startFrame": 491,
+          "endFrame": 499
+        },
+        {
+          "word": "\u0644\u0645\u062f\u0629",
+          "startSec": 16.709,
+          "endSec": 17.11,
+          "startFrame": 501,
+          "endFrame": 513
+        },
+        {
+          "word": "\u0623\u0631\u0628\u0639",
+          "startSec": 17.15,
+          "endSec": 17.349,
+          "startFrame": 514,
+          "endFrame": 520
+        },
+        {
+          "word": "\u0634\u0647\u0648\u0631",
+          "startSec": 17.429,
+          "endSec": 17.749,
+          "startFrame": 523,
+          "endFrame": 532
+        },
+        {
+          "word": "\u064a\u0628\u0642\u0649",
+          "startSec": 17.909,
+          "endSec": 18.149,
+          "startFrame": 537,
+          "endFrame": 544
+        },
+        {
+          "word": "\u0645\u064a\u0629",
+          "startSec": 18.229,
+          "endSec": 18.469,
+          "startFrame": 547,
+          "endFrame": 554
+        },
+        {
+          "word": "\u0648\u0639\u0634\u0631\u064a\u0646.",
+          "startSec": 18.522,
+          "endSec": 18.948,
+          "startFrame": 556,
+          "endFrame": 568
+        },
+        {
+          "word": "\u0623\u0631\u0628\u0639\u064a\u0646",
+          "startSec": 19.268,
+          "endSec": 19.827,
+          "startFrame": 578,
+          "endFrame": 595
+        },
+        {
+          "word": "\u062f\u0627\u062e\u0644\u060c",
+          "startSec": 19.923,
+          "endSec": 20.387,
+          "startFrame": 598,
+          "endFrame": 612
+        },
+        {
+          "word": "\u0645\u064a\u0629",
+          "startSec": 20.587,
+          "endSec": 20.867,
+          "startFrame": 618,
+          "endFrame": 626
+        },
+        {
+          "word": "\u0648\u0639\u0634\u0631\u064a\u0646",
+          "startSec": 20.947,
+          "endSec": 21.267,
+          "startFrame": 628,
+          "endFrame": 638
+        },
+        {
+          "word": "\u0631\u0627\u062c\u0639\u064a\u0646\u060c",
+          "startSec": 21.32,
+          "endSec": 21.826,
+          "startFrame": 640,
+          "endFrame": 655
+        },
+        {
+          "word": "\u0646\u0643\u0628\u0631.",
+          "startSec": 22.146,
+          "endSec": 22.946,
+          "startFrame": 664,
+          "endFrame": 688
+        },
+        {
+          "word": "\u0644\u0643\u0646",
+          "startSec": 23.186,
+          "endSec": 23.906,
+          "startFrame": 696,
+          "endFrame": 717
+        },
+        {
+          "word": "\u0643\u0627\u0643",
+          "startSec": 24.146,
+          "endSec": 24.786,
+          "startFrame": 724,
+          "endFrame": 744
+        },
+        {
+          "word": "\u062a\u0633\u0639\u064a\u0646",
+          "startSec": 24.946,
+          "endSec": 25.506,
+          "startFrame": 748,
+          "endFrame": 765
+        },
+        {
+          "word": "\u0648LTV",
+          "startSec": 25.786,
+          "endSec": 26.546,
+          "startFrame": 774,
+          "endFrame": 796
+        },
+        {
+          "word": "\u0633\u062a\u064a\u0646",
+          "startSec": 26.733,
+          "endSec": 27.507,
+          "startFrame": 802,
+          "endFrame": 825
+        },
+        {
+          "word": "\u064a\u0639\u0646\u064a",
+          "startSec": 27.72,
+          "endSec": 28.226,
+          "startFrame": 832,
+          "endFrame": 847
+        },
+        {
+          "word": "\u0643\u0644",
+          "startSec": 28.333,
+          "endSec": 28.547,
+          "startFrame": 850,
+          "endFrame": 856
+        },
+        {
+          "word": "\u0628\u064a\u0639\u0629",
+          "startSec": 28.627,
+          "endSec": 28.947,
+          "startFrame": 859,
+          "endFrame": 868
+        },
+        {
+          "word": "\u062a\u0632\u0648\u062f",
+          "startSec": 29.107,
+          "endSec": 29.587,
+          "startFrame": 873,
+          "endFrame": 888
+        },
+        {
+          "word": "\u0627\u0644\u062e\u0633\u0627\u0631\u0629.",
+          "startSec": 29.647,
+          "endSec": 30.227,
+          "startFrame": 889,
+          "endFrame": 907
+        }
+      ]
+    },
+    {
+      "id": "08-trap",
+      "audio": "08-trap.mp3",
+      "text": "\u0627\u0644\u0645\u062d\u0631\u0643 \u0627\u0644\u063a\u0644\u0637 \u064a\u0639\u0645\u0644 \u0641\u062e. \u0627\u0644\u0625\u0639\u0644\u0627\u0646\u0627\u062a \u0645\u0634 \u0647\u062a\u0635\u0644\u062d \u0627\u0634\u062a\u0631\u0627\u0643 \u0627\u0644\u0646\u0627\u0633 \u0628\u062a\u0644\u063a\u064a\u0647 \u0628\u0633\u0631\u0639\u0629. \u0645\u0633\u062a\u062e\u062f\u0645\u064a\u0646 \u0644\u0648\u062d\u062f\u0647\u0645 \u0645\u0634 \u0647\u064a\u0639\u0645\u0644\u0648\u0627 \u0634\u0628\u0643\u0629. \u0648Viral \u0645\u0634 \u0647\u064a\u0646\u0642\u0630 \u0645\u0646\u062a\u062c \u0628\u064a\u062e\u0633\u0631 \u0641\u064a \u0643\u0644 \u0628\u064a\u0639\u0629.",
+      "speechSeconds": 11.193,
+      "durationSeconds": 11.493,
+      "durationFrames": 345,
+      "startFrame": 3223,
+      "words": [
+        {
+          "word": "\u0627\u0644\u0645\u062d\u0631\u0643",
+          "startSec": 0.0,
+          "endSec": 0.56,
+          "startFrame": 0,
+          "endFrame": 17
+        },
+        {
+          "word": "\u0627\u0644\u063a\u0644\u0637",
+          "startSec": 0.62,
+          "endSec": 0.96,
+          "startFrame": 19,
+          "endFrame": 29
+        },
+        {
+          "word": "\u064a\u0639\u0645\u0644",
+          "startSec": 1.013,
+          "endSec": 1.279,
+          "startFrame": 30,
+          "endFrame": 38
+        },
+        {
+          "word": "\u0641\u062e.",
+          "startSec": 1.319,
+          "endSec": 1.919,
+          "startFrame": 40,
+          "endFrame": 58
+        },
+        {
+          "word": "\u0627\u0644\u0625\u0639\u0644\u0627\u0646\u0627\u062a",
+          "startSec": 1.999,
+          "endSec": 2.559,
+          "startFrame": 60,
+          "endFrame": 77
+        },
+        {
+          "word": "\u0645\u0634",
+          "startSec": 2.612,
+          "endSec": 2.718,
+          "startFrame": 78,
+          "endFrame": 82
+        },
+        {
+          "word": "\u0647\u062a\u0635\u0644\u062d",
+          "startSec": 2.758,
+          "endSec": 3.198,
+          "startFrame": 83,
+          "endFrame": 96
+        },
+        {
+          "word": "\u0627\u0634\u062a\u0631\u0627\u0643",
+          "startSec": 3.411,
+          "endSec": 4.077,
+          "startFrame": 102,
+          "endFrame": 122
+        },
+        {
+          "word": "\u0627\u0644\u0646\u0627\u0633",
+          "startSec": 4.13,
+          "endSec": 4.395,
+          "startFrame": 124,
+          "endFrame": 132
+        },
+        {
+          "word": "\u0628\u062a\u0644\u063a\u064a\u0647",
+          "startSec": 4.435,
+          "endSec": 4.795,
+          "startFrame": 133,
+          "endFrame": 144
+        },
+        {
+          "word": "\u0628\u0633\u0631\u0639\u0629.",
+          "startSec": 4.835,
+          "endSec": 5.195,
+          "startFrame": 145,
+          "endFrame": 156
+        },
+        {
+          "word": "\u0645\u0633\u062a\u062e\u062f\u0645\u064a\u0646",
+          "startSec": 5.375,
+          "endSec": 6.154,
+          "startFrame": 161,
+          "endFrame": 185
+        },
+        {
+          "word": "\u0644\u0648\u062d\u062f\u0647\u0645",
+          "startSec": 6.234,
+          "endSec": 6.795,
+          "startFrame": 187,
+          "endFrame": 204
+        },
+        {
+          "word": "\u0645\u0634",
+          "startSec": 6.875,
+          "endSec": 7.035,
+          "startFrame": 206,
+          "endFrame": 211
+        },
+        {
+          "word": "\u0647\u064a\u0639\u0645\u0644\u0648\u0627",
+          "startSec": 7.075,
+          "endSec": 7.435,
+          "startFrame": 212,
+          "endFrame": 223
+        },
+        {
+          "word": "\u0634\u0628\u0643\u0629.",
+          "startSec": 7.515,
+          "endSec": 8.115,
+          "startFrame": 225,
+          "endFrame": 243
+        },
+        {
+          "word": "\u0648Viral",
+          "startSec": 8.255,
+          "endSec": 8.875,
+          "startFrame": 248,
+          "endFrame": 266
+        },
+        {
+          "word": "\u0645\u0634",
+          "startSec": 9.008,
+          "endSec": 9.274,
+          "startFrame": 270,
+          "endFrame": 278
+        },
+        {
+          "word": "\u0647\u064a\u0646\u0642\u0630",
+          "startSec": 9.314,
+          "endSec": 9.674,
+          "startFrame": 279,
+          "endFrame": 290
+        },
+        {
+          "word": "\u0645\u0646\u062a\u062c",
+          "startSec": 9.754,
+          "endSec": 10.074,
+          "startFrame": 293,
+          "endFrame": 302
+        },
+        {
+          "word": "\u0628\u064a\u062e\u0633\u0631",
+          "startSec": 10.127,
+          "endSec": 10.473,
+          "startFrame": 304,
+          "endFrame": 314
+        },
+        {
+          "word": "\u0641\u064a",
+          "startSec": 10.5,
+          "endSec": 10.554,
+          "startFrame": 315,
+          "endFrame": 317
+        },
+        {
+          "word": "\u0643\u0644",
+          "startSec": 10.634,
+          "endSec": 10.794,
+          "startFrame": 319,
+          "endFrame": 324
+        },
+        {
+          "word": "\u0628\u064a\u0639\u0629.",
+          "startSec": 10.847,
+          "endSec": 11.193,
+          "startFrame": 325,
+          "endFrame": 336
+        }
+      ]
+    },
+    {
+      "id": "09-diagnostic",
+      "audio": "09-diagnostic.mp3",
+      "text": "\u0627\u0633\u0623\u0644 \u0628\u0628\u0633\u0627\u0637\u0629: \u0627\u0644\u0639\u0645\u0644\u0627\u0621 \u0628\u064a\u0631\u062c\u0639\u0648\u0627 \u0648\u064a\u062f\u0641\u0639\u0648\u0627 \u062a\u0627\u0646\u064a \u0632\u064a Spotify\u061f \u064a\u0628\u0642\u0649 Sticky. \u0627\u0644\u0645\u0633\u062a\u062e\u062f\u0645\u064a\u0646 \u0628\u064a\u062e\u0644\u0648\u0627 \u0627\u0644\u0645\u0646\u062a\u062c \u0623\u0642\u0648\u0649 \u0644\u0645\u0627 \u064a\u0632\u064a\u062f\u0648\u0627\u060c \u0632\u064a TikTok\u061f \u064a\u0628\u0642\u0649 Viral. \u062a\u0642\u062f\u0631 \u062a\u0634\u062a\u0631\u064a \u0639\u0645\u064a\u0644 \u0648\u062a\u0643\u0633\u0628 \u0645\u0646\u0647\u060c \u0632\u064a Shopify \u0645\u0639 Google Ads\u061f \u064a\u0628\u0642\u0649 Paid.",
+      "speechSeconds": 15.677,
+      "durationSeconds": 15.977,
+      "durationFrames": 479,
+      "startFrame": 3568,
+      "words": [
+        {
+          "word": "\u0627\u0633\u0623\u0644",
+          "startSec": 0.0,
+          "endSec": 0.32,
+          "startFrame": 0,
+          "endFrame": 10
+        },
+        {
+          "word": "\u0628\u0628\u0633\u0627\u0637\u0629:",
+          "startSec": 0.36,
+          "endSec": 1.2,
+          "startFrame": 11,
+          "endFrame": 36
+        },
+        {
+          "word": "\u0627\u0644\u0639\u0645\u0644\u0627\u0621",
+          "startSec": 1.267,
+          "endSec": 1.762,
+          "startFrame": 38,
+          "endFrame": 53
+        },
+        {
+          "word": "\u0628\u064a\u0631\u062c\u0639\u0648\u0627",
+          "startSec": 1.802,
+          "endSec": 2.242,
+          "startFrame": 54,
+          "endFrame": 67
+        },
+        {
+          "word": "\u0648\u064a\u062f\u0641\u0639\u0648\u0627",
+          "startSec": 2.282,
+          "endSec": 2.722,
+          "startFrame": 68,
+          "endFrame": 82
+        },
+        {
+          "word": "\u062a\u0627\u0646\u064a",
+          "startSec": 2.762,
+          "endSec": 3.042,
+          "startFrame": 83,
+          "endFrame": 91
+        },
+        {
+          "word": "\u0632\u064a",
+          "startSec": 3.175,
+          "endSec": 3.441,
+          "startFrame": 95,
+          "endFrame": 103
+        },
+        {
+          "word": "Spotify\u061f",
+          "startSec": 3.511,
+          "endSec": 4.081,
+          "startFrame": 105,
+          "endFrame": 122
+        },
+        {
+          "word": "\u064a\u0628\u0642\u0649",
+          "startSec": 4.361,
+          "endSec": 4.721,
+          "startFrame": 131,
+          "endFrame": 142
+        },
+        {
+          "word": "Sticky.",
+          "startSec": 4.79,
+          "endSec": 5.644,
+          "startFrame": 144,
+          "endFrame": 169
+        },
+        {
+          "word": "\u0627\u0644\u0645\u0633\u062a\u062e\u062f\u0645\u064a\u0646",
+          "startSec": 5.717,
+          "endSec": 6.402,
+          "startFrame": 172,
+          "endFrame": 192
+        },
+        {
+          "word": "\u0628\u064a\u062e\u0644\u0648\u0627",
+          "startSec": 6.455,
+          "endSec": 6.801,
+          "startFrame": 194,
+          "endFrame": 204
+        },
+        {
+          "word": "\u0627\u0644\u0645\u0646\u062a\u062c",
+          "startSec": 6.854,
+          "endSec": 7.199,
+          "startFrame": 206,
+          "endFrame": 216
+        },
+        {
+          "word": "\u0623\u0642\u0648\u0649",
+          "startSec": 7.279,
+          "endSec": 7.519,
+          "startFrame": 218,
+          "endFrame": 226
+        },
+        {
+          "word": "\u0644\u0645\u0627",
+          "startSec": 7.679,
+          "endSec": 7.919,
+          "startFrame": 230,
+          "endFrame": 238
+        },
+        {
+          "word": "\u064a\u0632\u064a\u062f\u0648\u0627\u060c",
+          "startSec": 7.959,
+          "endSec": 8.559,
+          "startFrame": 239,
+          "endFrame": 257
+        },
+        {
+          "word": "\u0632\u064a",
+          "startSec": 8.612,
+          "endSec": 8.718,
+          "startFrame": 258,
+          "endFrame": 262
+        },
+        {
+          "word": "TikTok\u061f",
+          "startSec": 8.778,
+          "endSec": 9.518,
+          "startFrame": 263,
+          "endFrame": 286
+        },
+        {
+          "word": "\u064a\u0628\u0642\u0649",
+          "startSec": 9.678,
+          "endSec": 9.918,
+          "startFrame": 290,
+          "endFrame": 298
+        },
+        {
+          "word": "Viral.",
+          "startSec": 9.998,
+          "endSec": 10.478,
+          "startFrame": 300,
+          "endFrame": 314
+        },
+        {
+          "word": "\u062a\u0642\u062f\u0631",
+          "startSec": 10.718,
+          "endSec": 11.278,
+          "startFrame": 322,
+          "endFrame": 338
+        },
+        {
+          "word": "\u062a\u0634\u062a\u0631\u064a",
+          "startSec": 11.358,
+          "endSec": 11.678,
+          "startFrame": 341,
+          "endFrame": 350
+        },
+        {
+          "word": "\u0639\u0645\u064a\u0644",
+          "startSec": 11.758,
+          "endSec": 11.998,
+          "startFrame": 353,
+          "endFrame": 360
+        },
+        {
+          "word": "\u0648\u062a\u0643\u0633\u0628",
+          "startSec": 12.051,
+          "endSec": 12.397,
+          "startFrame": 362,
+          "endFrame": 372
+        },
+        {
+          "word": "\u0645\u0646\u0647\u060c",
+          "startSec": 12.477,
+          "endSec": 13.117,
+          "startFrame": 374,
+          "endFrame": 394
+        },
+        {
+          "word": "\u0632\u064a",
+          "startSec": 13.17,
+          "endSec": 13.276,
+          "startFrame": 395,
+          "endFrame": 398
+        },
+        {
+          "word": "Shopify",
+          "startSec": 13.336,
+          "endSec": 13.756,
+          "startFrame": 400,
+          "endFrame": 413
+        },
+        {
+          "word": "\u0645\u0639",
+          "startSec": 13.809,
+          "endSec": 13.915,
+          "startFrame": 414,
+          "endFrame": 417
+        },
+        {
+          "word": "Google",
+          "startSec": 13.961,
+          "endSec": 14.237,
+          "startFrame": 419,
+          "endFrame": 427
+        },
+        {
+          "word": "Ads\u061f",
+          "startSec": 14.317,
+          "endSec": 14.637,
+          "startFrame": 430,
+          "endFrame": 439
+        },
+        {
+          "word": "\u064a\u0628\u0642\u0649",
+          "startSec": 14.837,
+          "endSec": 15.197,
+          "startFrame": 445,
+          "endFrame": 456
+        },
+        {
+          "word": "Paid.",
+          "startSec": 15.261,
+          "endSec": 15.677,
+          "startFrame": 458,
+          "endFrame": 470
+        }
+      ]
+    },
+    {
+      "id": "10-outro",
+      "audio": "10-outro.mp3",
+      "text": "\u0627\u062e\u062a\u0627\u0631 \u0645\u062d\u0631\u0643 \u0627\u0644\u0646\u0645\u0648 \u0627\u0644\u0644\u064a \u0645\u0634\u0631\u0648\u0639\u0643 \u0645\u062d\u062a\u0627\u062c\u0647. \u0648\u0628\u0639\u062f\u0647\u0627 \u0638\u0628\u0637 \u0627\u0644\u0645\u0639\u0627\u062f\u0644\u0629: \u0627\u0644\u0644\u064a \u0631\u0627\u062c\u0639 \u0644\u0627\u0632\u0645 \u064a\u0628\u0642\u0649 \u0623\u0643\u062a\u0631 \u0645\u0646 \u0627\u0644\u0644\u064a \u062e\u0627\u0631\u062c.",
+      "speechSeconds": 6.798,
+      "durationSeconds": 7.098,
+      "durationFrames": 213,
+      "startFrame": 4047,
+      "words": [
+        {
+          "word": "\u0627\u062e\u062a\u0627\u0631",
+          "startSec": 0.0,
+          "endSec": 0.32,
+          "startFrame": 0,
+          "endFrame": 10
+        },
+        {
+          "word": "\u0645\u062d\u0631\u0643",
+          "startSec": 0.4,
+          "endSec": 0.72,
+          "startFrame": 12,
+          "endFrame": 22
+        },
+        {
+          "word": "\u0627\u0644\u0646\u0645\u0648",
+          "startSec": 0.78,
+          "endSec": 1.12,
+          "startFrame": 23,
+          "endFrame": 34
+        },
+        {
+          "word": "\u0627\u0644\u0644\u064a",
+          "startSec": 1.147,
+          "endSec": 1.281,
+          "startFrame": 34,
+          "endFrame": 38
+        },
+        {
+          "word": "\u0645\u0634\u0631\u0648\u0639\u0643",
+          "startSec": 1.334,
+          "endSec": 1.679,
+          "startFrame": 40,
+          "endFrame": 50
+        },
+        {
+          "word": "\u0645\u062d\u062a\u0627\u062c\u0647.",
+          "startSec": 1.759,
+          "endSec": 2.239,
+          "startFrame": 53,
+          "endFrame": 67
+        },
+        {
+          "word": "\u0648\u0628\u0639\u062f\u0647\u0627",
+          "startSec": 2.426,
+          "endSec": 3.12,
+          "startFrame": 73,
+          "endFrame": 94
+        },
+        {
+          "word": "\u0638\u0628\u0637",
+          "startSec": 3.28,
+          "endSec": 3.6,
+          "startFrame": 98,
+          "endFrame": 108
+        },
+        {
+          "word": "\u0627\u0644\u0645\u0639\u0627\u062f\u0644\u0629:",
+          "startSec": 3.664,
+          "endSec": 4.4,
+          "startFrame": 110,
+          "endFrame": 132
+        },
+        {
+          "word": "\u0627\u0644\u0644\u064a",
+          "startSec": 4.453,
+          "endSec": 4.639,
+          "startFrame": 134,
+          "endFrame": 139
+        },
+        {
+          "word": "\u0631\u0627\u062c\u0639",
+          "startSec": 4.692,
+          "endSec": 4.958,
+          "startFrame": 141,
+          "endFrame": 149
+        },
+        {
+          "word": "\u0644\u0627\u0632\u0645",
+          "startSec": 5.054,
+          "endSec": 5.438,
+          "startFrame": 152,
+          "endFrame": 163
+        },
+        {
+          "word": "\u064a\u0628\u0642\u0649",
+          "startSec": 5.478,
+          "endSec": 5.678,
+          "startFrame": 164,
+          "endFrame": 170
+        },
+        {
+          "word": "\u0623\u0643\u062a\u0631",
+          "startSec": 5.758,
+          "endSec": 5.998,
+          "startFrame": 173,
+          "endFrame": 180
+        },
+        {
+          "word": "\u0645\u0646",
+          "startSec": 6.051,
+          "endSec": 6.157,
+          "startFrame": 182,
+          "endFrame": 185
+        },
+        {
+          "word": "\u0627\u0644\u0644\u064a",
+          "startSec": 6.184,
+          "endSec": 6.318,
+          "startFrame": 186,
+          "endFrame": 190
+        },
+        {
+          "word": "\u062e\u0627\u0631\u062c.",
+          "startSec": 6.382,
+          "endSec": 6.798,
+          "startFrame": 191,
+          "endFrame": 204
+        }
+      ]
+    }
+  ]
+}
