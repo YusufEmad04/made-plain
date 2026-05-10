@@ -15,7 +15,7 @@ export function SiteNav() {
             <div className="mx-auto flex h-14 max-w-[1320px] items-center justify-between px-5 sm:px-8 lg:px-12">
                 <Link
                     href="/"
-                    className="flex items-center gap-2 text-[15px] font-medium tracking-tight"
+                    className="flex items-center gap-2 text-[22px] font-medium tracking-tight"
                 >
                     <span>made&nbsp;</span><span style={{ color: "var(--color-accent)", fontWeight: 700 }}>plain.</span>
                 </Link>
