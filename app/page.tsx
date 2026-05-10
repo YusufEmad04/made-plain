@@ -167,8 +167,7 @@ function KitMockup() {
                             <p className="font-mega text-[clamp(28px,5vw,52px)] leading-[0.9]">
                                 Made
                                 <br />
-                                Plain
-                                <span className="text-[var(--color-accent)]">.</span>
+                                <span className="text-[var(--color-accent)]">Plain.</span>
                             </p>
                             <p className="eyebrow text-[var(--color-mute-2)] pt-3">
                                 ~150 pages · v1
