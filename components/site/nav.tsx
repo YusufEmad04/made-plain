@@ -1,5 +1,4 @@
 import Link from "next/link";
-import { DotMark } from "@/components/brand/dot-mark";
 
 const NAV = [
     { label: "The kit", href: "/#kit" },
@@ -18,8 +17,7 @@ export function SiteNav() {
                     href="/"
                     className="flex items-center gap-2 text-[15px] font-medium tracking-tight"
                 >
-                    <span>made&nbsp;plain</span>
-                    <DotMark size="sm" pulse />
+                    <span>made&nbsp;</span><span style={{ color: "var(--color-accent)" }}>plain.</span>
                 </Link>
 
                 <nav className="hidden md:flex items-center gap-7">

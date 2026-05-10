@@ -28,6 +28,14 @@ import {
     CustomerPainTest,
     CUSTOMER_PAIN_TEST_DURATION,
 } from "./reels/customer-pain-test";
+import {
+    BusinessThreeJobsThumb,
+    CustomerPainTestThumb,
+    EnginesOfGrowthArThumb,
+    EnginesOfGrowthThumb,
+    EquityJourneyThumb,
+    WhatBusinessActuallyIsThumb,
+} from "./thumbnails";
 
 export const RemotionRoot: React.FC = () => {
     return (
@@ -101,6 +109,56 @@ export const RemotionRoot: React.FC = () => {
                     id="CustomerPainTest"
                     component={CustomerPainTest}
                     durationInFrames={CUSTOMER_PAIN_TEST_DURATION}
+                    fps={REEL.fps}
+                    width={REEL.width}
+                    height={REEL.height}
+                />
+            </Folder>
+            <Folder name="Thumbnails">
+                <Composition
+                    id="ThumbCustomerPainTest"
+                    component={CustomerPainTestThumb}
+                    durationInFrames={1}
+                    fps={REEL.fps}
+                    width={REEL.width}
+                    height={REEL.height}
+                />
+                <Composition
+                    id="ThumbBusinessThreeJobs"
+                    component={BusinessThreeJobsThumb}
+                    durationInFrames={1}
+                    fps={REEL.fps}
+                    width={REEL.width}
+                    height={REEL.height}
+                />
+                <Composition
+                    id="ThumbEnginesOfGrowth"
+                    component={EnginesOfGrowthThumb}
+                    durationInFrames={1}
+                    fps={REEL.fps}
+                    width={REEL.width}
+                    height={REEL.height}
+                />
+                <Composition
+                    id="ThumbEnginesOfGrowthAr"
+                    component={EnginesOfGrowthArThumb}
+                    durationInFrames={1}
+                    fps={REEL.fps}
+                    width={REEL.width}
+                    height={REEL.height}
+                />
+                <Composition
+                    id="ThumbEquityJourney"
+                    component={EquityJourneyThumb}
+                    durationInFrames={1}
+                    fps={REEL.fps}
+                    width={REEL.width}
+                    height={REEL.height}
+                />
+                <Composition
+                    id="ThumbWhatBusinessActuallyIs"
+                    component={WhatBusinessActuallyIsThumb}
+                    durationInFrames={1}
                     fps={REEL.fps}
                     width={REEL.width}
                     height={REEL.height}
