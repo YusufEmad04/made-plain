@@ -17,7 +17,7 @@ export function SiteNav() {
                     href="/"
                     className="flex items-center gap-2 text-[15px] font-medium tracking-tight"
                 >
-                    <span>made&nbsp;</span><span style={{ color: "var(--color-accent)" }}>plain.</span>
+                    <span>made&nbsp;</span><span style={{ color: "var(--color-accent)", fontWeight: 700 }}>plain.</span>
                 </Link>
 
                 <nav className="hidden md:flex items-center gap-7">

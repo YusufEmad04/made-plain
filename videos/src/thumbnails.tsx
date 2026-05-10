@@ -60,10 +60,10 @@ const Wordmark: React.FC<{ rtl?: boolean }> = ({ rtl }) => (
         <span
             style={{
                 fontFamily: fonts.display,
-                fontSize: 56,
+                fontSize: 80,
                 fontWeight: 700,
                 color: colors.ink,
-                letterSpacing: -1,
+                letterSpacing: -1.5,
             }}
         >
             made&nbsp;
@@ -71,10 +71,10 @@ const Wordmark: React.FC<{ rtl?: boolean }> = ({ rtl }) => (
         <span
             style={{
                 fontFamily: fonts.display,
-                fontSize: 56,
+                fontSize: 80,
                 fontWeight: 700,
                 color: colors.accent,
-                letterSpacing: -1,
+                letterSpacing: -1.5,
             }}
         >
             plain.
